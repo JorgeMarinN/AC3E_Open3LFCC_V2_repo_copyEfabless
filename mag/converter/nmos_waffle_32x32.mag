@@ -1,0 +1,4911 @@
+magic
+tech sky130A
+timestamp 1698344533
+<< checkpaint >>
+rect -6555 -6605 23105 23055
+<< dnwell >>
+rect -3475 -3525 20025 19975
+<< nwell >>
+rect -5925 17625 22475 22425
+rect -5925 -1175 -1125 17625
+rect 17675 -1175 22475 17625
+rect -5925 -5975 22475 -1175
+<< pwell >>
+rect -1125 16500 0 17625
+rect 16500 16500 17675 17625
+rect -1125 -1175 0 0
+rect 16500 -1175 17675 0
+<< mvnmos >>
+rect 16500 16531 16550 16969
+rect -469 -50 -31 0
+rect 16581 -50 17019 0
+rect 16500 -519 16550 -81
+<< mvndiff >>
+rect 16579 16969 17021 16971
+rect -29 16963 0 16969
+rect -29 16564 -23 16963
+rect -64 16537 -23 16564
+rect -6 16537 0 16963
+rect -64 16531 0 16537
+rect 16497 16531 16500 16969
+rect 16550 16963 17021 16969
+rect 16550 16537 16556 16963
+rect 16573 16915 17021 16963
+rect 16573 16585 16635 16915
+rect 16965 16585 17021 16915
+rect 16573 16537 17021 16585
+rect 16550 16531 17021 16537
+rect -64 16529 -31 16531
+rect -469 16523 -31 16529
+rect -469 16506 -463 16523
+rect -37 16506 -31 16523
+rect -469 16500 -31 16506
+rect 16579 16529 17021 16531
+rect 16581 16523 17019 16529
+rect 16581 16506 16587 16523
+rect 17013 16506 17019 16523
+rect 16581 16500 17019 16506
+rect -469 0 -31 3
+rect 16581 0 17019 3
+rect -469 -56 -31 -50
+rect -469 -73 -463 -56
+rect -37 -73 -31 -56
+rect -469 -79 -31 -73
+rect -471 -81 -29 -79
+rect 16581 -56 17019 -50
+rect 16581 -73 16587 -56
+rect 17013 -73 17019 -56
+rect 16581 -79 17019 -73
+rect 16581 -81 16614 -79
+rect -471 -87 0 -81
+rect -471 -135 -23 -87
+rect -471 -465 -415 -135
+rect -85 -465 -23 -135
+rect -471 -513 -23 -465
+rect -6 -513 0 -87
+rect -471 -519 0 -513
+rect 16497 -519 16500 -81
+rect 16550 -87 16614 -81
+rect 16550 -513 16556 -87
+rect 16573 -114 16614 -87
+rect 16573 -513 16579 -114
+rect 16550 -519 16579 -513
+rect -471 -521 -29 -519
+<< mvndiffc >>
+rect -23 16537 -6 16963
+rect 16556 16537 16573 16963
+rect -463 16506 -37 16523
+rect 16587 16506 17013 16523
+rect -463 -73 -37 -56
+rect 16587 -73 17013 -56
+rect -23 -513 -6 -87
+rect 16556 -513 16573 -87
+<< mvpsubdiff >>
+rect -1025 17513 0 17525
+rect -1025 16517 -1013 17513
+rect -19 17237 0 17513
+rect -737 17225 0 17237
+rect 16500 17513 17575 17525
+rect 16500 17225 17287 17237
+rect -737 16517 -725 17225
+rect -1025 16500 -725 16517
+rect 16635 16903 16965 16915
+rect 16635 16597 16647 16903
+rect 16953 16597 16965 16903
+rect 16635 16585 16965 16597
+rect 17275 16517 17287 17225
+rect 17563 16517 17575 17513
+rect 17275 16500 17575 16517
+rect -1025 -1063 -1013 0
+rect -737 -775 -725 0
+rect -415 -147 -85 -135
+rect -415 -453 -403 -147
+rect -97 -453 -85 -147
+rect -415 -465 -85 -453
+rect 17275 -775 17287 0
+rect -737 -787 0 -775
+rect -17 -1063 0 -787
+rect -1025 -1075 0 -1063
+rect 16500 -787 17287 -775
+rect 17563 -1063 17575 0
+rect 16500 -1075 17575 -1063
+<< mvnsubdiff >>
+rect -5525 22013 22075 22025
+rect -5525 -5563 -5513 22013
+rect -1537 18025 18087 18037
+rect -1537 -1575 -1525 18025
+rect 18075 -1575 18087 18025
+rect -1537 -1587 18087 -1575
+rect 22063 -5563 22075 22013
+rect -5525 -5575 22075 -5563
+<< mvpsubdiffcont >>
+rect -1013 17237 -19 17513
+rect -1013 16517 -737 17237
+rect 16500 17237 17563 17513
+rect 16647 16597 16953 16903
+rect 17287 16517 17563 17237
+rect -1013 -787 -737 0
+rect -403 -453 -97 -147
+rect -1013 -1063 -17 -787
+rect 17287 -787 17563 0
+rect 16500 -1063 17563 -787
+<< mvnsubdiffcont >>
+rect -5513 18037 22063 22013
+rect -5513 -1587 -1537 18037
+rect 18087 -1587 22063 18037
+rect -5513 -5563 22063 -1587
+<< poly >>
+rect -550 17042 0 17050
+rect -550 17008 -542 17042
+rect -508 17008 0 17042
+rect -550 17000 0 17008
+rect 16500 17042 17100 17050
+rect 16500 17008 16508 17042
+rect 16542 17008 17058 17042
+rect 17092 17008 17100 17042
+rect 16500 17000 17100 17008
+rect -550 16500 -500 17000
+rect 16500 16969 16550 17000
+rect 16500 16500 16550 16531
+rect 17050 16500 17100 17000
+rect -550 -8 -469 0
+rect -550 -42 -542 -8
+rect -508 -42 -469 -8
+rect -550 -50 -469 -42
+rect -31 -50 0 0
+rect 16500 -8 16581 0
+rect 16500 -42 16508 -8
+rect 16542 -42 16581 -8
+rect 16500 -50 16581 -42
+rect 17019 -8 17100 0
+rect 17019 -42 17058 -8
+rect 17092 -42 17100 -8
+rect 17019 -50 17100 -42
+rect -550 -550 -500 -50
+rect 16500 -81 16550 -50
+rect 16500 -550 16550 -519
+rect 17050 -550 17100 -50
+rect -550 -558 0 -550
+rect -550 -592 -542 -558
+rect -508 -592 0 -558
+rect -550 -600 0 -592
+rect 16500 -558 17100 -550
+rect 16500 -592 16508 -558
+rect 16542 -592 17058 -558
+rect 17092 -592 17100 -558
+rect 16500 -600 17100 -592
+<< polycont >>
+rect -542 17008 -508 17042
+rect 16508 17008 16542 17042
+rect 17058 17008 17092 17042
+rect -542 -42 -508 -8
+rect 16508 -42 16542 -8
+rect 17058 -42 17092 -8
+rect -542 -592 -508 -558
+rect 16508 -592 16542 -558
+rect 17058 -592 17092 -558
+<< locali >>
+rect -5525 22013 22075 22025
+rect -5525 -5563 -5513 22013
+rect -1537 18025 18087 18037
+rect -1537 -1575 -1525 18025
+rect -1025 17513 0 17525
+rect -1025 16517 -1013 17513
+rect -19 17237 0 17513
+rect -737 17225 0 17237
+rect 16500 17513 17575 17525
+rect 16500 17225 17287 17237
+rect -737 16517 -725 17225
+rect -550 17042 -500 17050
+rect -550 17008 -542 17042
+rect -508 17008 -500 17042
+rect -550 17000 -500 17008
+rect 16500 17042 16550 17050
+rect 16500 17008 16508 17042
+rect 16542 17008 16550 17042
+rect 16500 17000 16550 17008
+rect 17050 17042 17100 17050
+rect 17050 17008 17058 17042
+rect 17092 17008 17100 17042
+rect 17050 17000 17100 17008
+rect 16573 16971 17027 16977
+rect -23 16963 -6 16971
+rect -64 16537 -23 16564
+rect -64 16529 -6 16537
+rect 16556 16963 17027 16971
+rect 16573 16915 17027 16963
+rect 16573 16585 16635 16915
+rect 16965 16585 17027 16915
+rect 16573 16537 17027 16585
+rect 16556 16529 17027 16537
+rect -64 16523 -29 16529
+rect 16573 16523 17027 16529
+rect -1025 16500 -725 16517
+rect -471 16506 -463 16523
+rect -37 16506 -29 16523
+rect 16579 16506 16587 16523
+rect 17013 16506 17021 16523
+rect 17275 16517 17287 17225
+rect 17563 16517 17575 17513
+rect 17275 16500 17575 16517
+rect -1025 -1063 -1013 0
+rect -737 -775 -725 0
+rect -550 -8 -500 0
+rect -550 -42 -542 -8
+rect -508 -42 -500 -8
+rect -550 -50 -500 -42
+rect 16500 -8 16550 0
+rect 16500 -42 16508 -8
+rect 16542 -42 16550 -8
+rect 16500 -50 16550 -42
+rect 17050 -8 17100 0
+rect 17050 -42 17058 -8
+rect 17092 -42 17100 -8
+rect 17050 -50 17100 -42
+rect -471 -73 -463 -56
+rect -37 -73 -29 -56
+rect 16579 -73 16587 -56
+rect 17013 -73 17021 -56
+rect -477 -79 -23 -73
+rect 16579 -79 16614 -73
+rect -477 -87 -6 -79
+rect -477 -135 -23 -87
+rect -477 -465 -415 -135
+rect -85 -465 -23 -135
+rect -477 -513 -23 -465
+rect -477 -521 -6 -513
+rect 16556 -87 16614 -79
+rect 16573 -114 16614 -87
+rect 16556 -521 16573 -513
+rect -477 -527 -23 -521
+rect -550 -558 -500 -550
+rect -550 -592 -542 -558
+rect -508 -592 -500 -558
+rect -550 -600 -500 -592
+rect 16500 -558 16550 -550
+rect 16500 -592 16508 -558
+rect 16542 -592 16550 -558
+rect 16500 -600 16550 -592
+rect 17050 -558 17100 -550
+rect 17050 -592 17058 -558
+rect 17092 -592 17100 -558
+rect 17050 -600 17100 -592
+rect 17275 -775 17287 0
+rect -737 -787 0 -775
+rect -17 -1063 0 -787
+rect -1025 -1075 0 -1063
+rect 16500 -787 17287 -775
+rect 17563 -1063 17575 0
+rect 16500 -1075 17575 -1063
+rect 18075 -1575 18087 18025
+rect -1537 -1587 18087 -1575
+rect 22063 -5563 22075 22013
+rect -5525 -5575 22075 -5563
+<< viali >>
+rect -5513 18037 22063 22013
+rect -5513 -1587 -1537 18037
+rect -1013 17237 -19 17513
+rect -1013 16519 -737 17237
+rect 16500 17237 17563 17513
+rect -542 17008 -508 17042
+rect 16508 17008 16542 17042
+rect 17058 17008 17092 17042
+rect -23 16537 -6 16963
+rect 16556 16537 16573 16963
+rect 16635 16903 16965 16915
+rect 16635 16597 16647 16903
+rect 16647 16597 16953 16903
+rect 16953 16597 16965 16903
+rect 16635 16585 16965 16597
+rect -463 16506 -37 16523
+rect 16587 16506 17013 16523
+rect 17287 16519 17563 17237
+rect -1013 -787 -737 0
+rect -542 -42 -508 -8
+rect 16508 -42 16542 -8
+rect 17058 -42 17092 -8
+rect -463 -73 -37 -56
+rect 16587 -73 17013 -56
+rect -415 -147 -85 -135
+rect -415 -453 -403 -147
+rect -403 -453 -97 -147
+rect -97 -453 -85 -147
+rect -415 -465 -85 -453
+rect -23 -513 -6 -87
+rect 16556 -513 16573 -87
+rect -542 -592 -508 -558
+rect 16508 -592 16542 -558
+rect 17058 -592 17092 -558
+rect -1013 -1063 -19 -787
+rect 17287 -787 17563 0
+rect 16500 -1063 17563 -787
+rect 18087 -1587 22063 18037
+rect -5513 -5563 22063 -1587
+<< metal1 >>
+rect -5525 22013 22075 22025
+rect -5525 -5563 -5513 22013
+rect -1537 18025 18087 18037
+rect -1537 -1575 -1525 18025
+rect -1025 17513 0 17525
+rect -1025 16519 -1013 17513
+rect -19 17237 0 17513
+rect -737 17225 0 17237
+rect 16500 17513 17575 17525
+rect 16500 17225 17287 17237
+rect -737 16519 -725 17225
+rect -550 17042 -500 17050
+rect -550 17008 -542 17042
+rect -508 17008 -500 17042
+rect -550 17000 -500 17008
+rect 16500 17042 16550 17050
+rect 16500 17008 16508 17042
+rect 16542 17008 16550 17042
+rect 16500 17000 16550 17008
+rect 17050 17042 17100 17050
+rect 17050 17008 17058 17042
+rect 17092 17008 17100 17042
+rect 17050 17000 17100 17008
+rect -474 16969 -26 16974
+rect 16576 16969 17024 16974
+rect -474 16963 -3 16969
+rect -474 16915 -23 16963
+rect -474 16585 -415 16915
+rect -85 16585 -23 16915
+rect -474 16537 -23 16585
+rect -6 16537 -3 16963
+rect -474 16531 -3 16537
+rect 16553 16963 17024 16969
+rect 16553 16537 16556 16963
+rect 16573 16915 17024 16963
+rect 16573 16585 16635 16915
+rect 16965 16585 17024 16915
+rect 16573 16537 17024 16585
+rect 16553 16531 17024 16537
+rect -474 16526 -26 16531
+rect 16576 16526 17024 16531
+rect -1025 16500 -725 16519
+rect -469 16523 -31 16526
+rect -469 16506 -463 16523
+rect -37 16506 -31 16523
+rect -469 16503 -31 16506
+rect 16581 16523 17019 16526
+rect 16581 16506 16587 16523
+rect 17013 16506 17019 16523
+rect 16581 16503 17019 16506
+rect 17275 16519 17287 17225
+rect 17563 16519 17575 17513
+rect 17275 16500 17575 16519
+rect -1025 -1063 -1013 0
+rect -737 -775 -725 0
+rect -550 -8 -500 0
+rect -550 -42 -542 -8
+rect -508 -42 -500 -8
+rect -550 -50 -500 -42
+rect 16500 -8 16550 0
+rect 16500 -42 16508 -8
+rect 16542 -42 16550 -8
+rect 16500 -50 16550 -42
+rect 17050 -8 17100 0
+rect 17050 -42 17058 -8
+rect 17092 -42 17100 -8
+rect 17050 -50 17100 -42
+rect -469 -56 -31 -53
+rect -469 -73 -463 -56
+rect -37 -73 -31 -56
+rect -469 -76 -31 -73
+rect 16581 -56 17019 -53
+rect 16581 -73 16587 -56
+rect 17013 -73 17019 -56
+rect 16581 -76 17019 -73
+rect -474 -81 -26 -76
+rect 16576 -81 17024 -76
+rect -474 -87 -3 -81
+rect -474 -135 -23 -87
+rect -474 -465 -415 -135
+rect -85 -465 -23 -135
+rect -474 -513 -23 -465
+rect -6 -513 -3 -87
+rect -474 -519 -3 -513
+rect 16553 -87 17024 -81
+rect 16553 -513 16556 -87
+rect 16573 -135 17024 -87
+rect 16573 -465 16635 -135
+rect 16965 -465 17024 -135
+rect 16573 -513 17024 -465
+rect 16553 -519 17024 -513
+rect -474 -524 -26 -519
+rect 16576 -524 17024 -519
+rect -550 -558 -500 -550
+rect -550 -592 -542 -558
+rect -508 -592 -500 -558
+rect -550 -600 -500 -592
+rect 16500 -558 16550 -550
+rect 16500 -592 16508 -558
+rect 16542 -592 16550 -558
+rect 16500 -600 16550 -592
+rect 17050 -558 17100 -550
+rect 17050 -592 17058 -558
+rect 17092 -592 17100 -558
+rect 17050 -600 17100 -592
+rect 17275 -775 17287 0
+rect -737 -787 0 -775
+rect -19 -1063 0 -787
+rect -1025 -1075 0 -1063
+rect 16500 -787 17287 -775
+rect 17563 -1063 17575 0
+rect 16500 -1075 17575 -1063
+rect 18075 -1575 18087 18025
+rect -1537 -1587 18087 -1575
+rect 22063 -5563 22075 22013
+rect -5525 -5575 22075 -5563
+<< via1 >>
+rect -5513 18037 22063 22013
+rect -5513 1117 -1537 18025
+rect 16588 17325 16688 17425
+rect -542 17008 -508 17042
+rect 16508 17008 16542 17042
+rect 17058 17008 17092 17042
+rect -415 16585 -85 16915
+rect 16635 16585 16965 16915
+rect 17375 16538 17475 16638
+rect -925 -188 -825 -88
+rect -542 -42 -508 -8
+rect 16508 -42 16542 -8
+rect 17058 -42 17092 -8
+rect -415 -465 -85 -135
+rect 16635 -465 16965 -135
+rect -542 -592 -508 -558
+rect 16508 -592 16542 -558
+rect 17058 -592 17092 -558
+rect -138 -975 -38 -875
+rect 18087 -1587 22063 18037
+rect -495 -5563 22063 -1587
+<< metal2 >>
+rect -5525 22013 22075 22025
+rect -5525 18037 -5513 22013
+rect -5525 18025 18087 18037
+rect -5525 1117 -5513 18025
+rect -1537 1117 -1525 18025
+rect 16578 17425 16698 17435
+rect 16578 17325 16588 17425
+rect 16688 17325 16698 17425
+rect 16578 17315 16698 17325
+rect -725 17042 0 17225
+rect -725 17008 -542 17042
+rect -508 17008 0 17042
+rect -725 17000 0 17008
+rect 16500 17042 17275 17225
+rect 16500 17008 16508 17042
+rect 16542 17008 17058 17042
+rect 17092 17008 17275 17042
+rect 16500 17000 17275 17008
+rect -725 16500 -500 17000
+rect -425 16915 -75 16925
+rect -425 16585 -415 16915
+rect -85 16585 -75 16915
+rect -425 16575 -75 16585
+rect 16500 16500 16550 17000
+rect 16625 16915 16975 16925
+rect 16625 16585 16635 16915
+rect 16965 16585 16975 16915
+rect 16625 16575 16975 16585
+rect 17050 16500 17275 17000
+rect 17365 16638 17485 16648
+rect 17365 16538 17375 16638
+rect 17475 16538 17485 16638
+rect 17365 16528 17485 16538
+rect -725 -8 0 0
+rect -725 -42 -542 -8
+rect -508 -42 0 -8
+rect -725 -50 0 -42
+rect 16500 -8 17275 0
+rect 16500 -42 16508 -8
+rect 16542 -42 17058 -8
+rect 17092 -42 17275 -8
+rect 16500 -50 17275 -42
+rect -935 -88 -815 -78
+rect -935 -188 -925 -88
+rect -825 -188 -815 -88
+rect -935 -198 -815 -188
+rect -725 -550 -500 -50
+rect -425 -135 -75 -125
+rect -425 -465 -415 -135
+rect -85 -465 -75 -135
+rect -425 -475 -75 -465
+rect 16500 -550 16550 -50
+rect 16625 -135 16975 -125
+rect 16625 -465 16635 -135
+rect 16965 -465 16975 -135
+rect 16625 -475 16975 -465
+rect 17050 -550 17275 -50
+rect -725 -558 0 -550
+rect -725 -592 -542 -558
+rect -508 -592 0 -558
+rect -725 -775 0 -592
+rect 16500 -558 17275 -550
+rect 16500 -592 16508 -558
+rect 16542 -592 17058 -558
+rect 17092 -592 17275 -558
+rect 16500 -775 17275 -592
+rect -148 -875 -28 -865
+rect -148 -975 -138 -875
+rect -38 -975 -28 -875
+rect -148 -985 -28 -975
+rect 18075 -1575 18087 18025
+rect -507 -1587 18087 -1575
+rect -507 -5563 -495 -1587
+rect 22063 -5563 22075 22013
+rect -507 -5575 22075 -5563
+<< via2 >>
+rect 16588 17325 16688 17425
+rect -310 16690 -190 16810
+rect 16740 16690 16860 16810
+rect 17375 16538 17475 16638
+rect -925 -188 -825 -88
+rect -310 -360 -190 -240
+rect 16740 -360 16860 -240
+rect -138 -975 -38 -875
+<< metal3 >>
+rect -2525 18025 17075 19025
+rect -2525 17138 -1525 18025
+rect -638 17138 -186 18025
+rect -2525 16814 -186 17138
+rect -88 16912 0 17525
+tri -186 16814 -88 16912 sw
+tri -88 16824 0 16912 ne
+rect 16500 17425 16864 17525
+rect 16500 17325 16588 17425
+rect 16688 17325 16864 17425
+rect 16500 16824 16864 17325
+rect -2525 16810 -88 16814
+rect -2525 16690 -310 16810
+rect -190 16726 -88 16810
+tri -88 16726 0 16814 sw
+rect -190 16690 0 16726
+rect -2525 16686 0 16690
+rect -2525 -575 -1525 16686
+tri -412 16588 -314 16686 ne
+rect -314 16588 0 16686
+rect -1025 16500 -412 16588
+tri -412 16500 -324 16588 sw
+tri -314 16500 -226 16588 ne
+rect -226 16500 0 16588
+tri 16500 16726 16598 16824 ne
+rect 16598 16814 16864 16824
+tri 16864 16814 16962 16912 sw
+rect 18075 16814 19075 17025
+rect 16598 16810 19075 16814
+rect 16598 16726 16740 16810
+tri 16500 16638 16588 16726 sw
+tri 16598 16638 16686 16726 ne
+rect 16686 16690 16740 16726
+rect 16860 16690 19075 16810
+rect 16686 16638 19075 16690
+rect 16500 16558 16588 16638
+tri 16588 16558 16668 16638 sw
+tri 16686 16558 16766 16638 ne
+rect 16766 16558 17375 16638
+rect 16500 16500 16668 16558
+tri 16668 16500 16726 16558 sw
+tri 16766 16500 16824 16558 ne
+rect 16824 16538 17375 16558
+rect 17475 16538 19075 16638
+rect 16824 16500 19075 16538
+rect 18075 0 19075 16500
+rect -1025 -40 -324 0
+tri -324 -40 -284 0 sw
+tri -226 -40 -186 0 ne
+rect -186 -40 0 0
+rect -1025 -88 -284 -40
+rect -1025 -188 -925 -88
+rect -825 -138 -284 -88
+tri -284 -138 -186 -40 sw
+tri -186 -138 -88 -40 ne
+rect -88 -138 0 -40
+rect -825 -188 -186 -138
+rect -1025 -236 -186 -188
+tri -186 -236 -88 -138 sw
+tri -88 -226 0 -138 ne
+rect 16500 -40 16726 0
+tri 16726 -40 16766 0 sw
+tri 16824 -40 16864 0 ne
+rect 16864 -40 19075 0
+rect 16500 -138 16766 -40
+tri 16766 -138 16864 -40 sw
+tri 16864 -138 16962 -40 ne
+rect 16962 -138 19075 -40
+rect 16500 -226 16864 -138
+rect -1025 -240 -88 -236
+rect -1025 -360 -310 -240
+rect -190 -324 -88 -240
+tri -88 -324 0 -236 sw
+rect -190 -360 0 -324
+rect -1025 -364 0 -360
+tri -412 -462 -314 -364 ne
+rect -314 -875 0 -364
+rect -314 -975 -138 -875
+rect -38 -975 0 -875
+rect -314 -1575 0 -975
+tri 16500 -324 16598 -226 ne
+rect 16598 -236 16864 -226
+tri 16864 -236 16962 -138 sw
+rect 16598 -240 17575 -236
+rect 16598 -324 16740 -240
+tri 16500 -364 16540 -324 sw
+tri 16598 -364 16638 -324 ne
+rect 16638 -360 16740 -324
+rect 16860 -360 17575 -240
+rect 16638 -364 17575 -360
+rect 16500 -462 16540 -364
+tri 16540 -462 16638 -364 sw
+tri 16638 -462 16736 -364 ne
+rect 16500 -1575 16638 -462
+rect 16736 -688 17575 -364
+rect 16736 -1075 17188 -688
+rect 18075 -1575 19075 -138
+rect -525 -2575 19075 -1575
+<< via3 >>
+rect 16588 17325 16688 17425
+rect -310 16690 -190 16810
+rect 16740 16690 16860 16810
+rect 17375 16538 17475 16638
+rect -925 -188 -825 -88
+rect -310 -360 -190 -240
+rect -138 -975 -38 -875
+rect 16740 -360 16860 -240
+<< metal4 >>
+rect -2525 18025 17075 19025
+rect -2525 17138 -1525 18025
+rect -638 17138 -186 18025
+rect -2525 16814 -186 17138
+rect -88 16912 0 17525
+tri -186 16814 -88 16912 sw
+tri -88 16824 0 16912 ne
+rect 16500 17425 16864 17525
+rect 16500 17325 16588 17425
+rect 16688 17325 16864 17425
+rect 16500 16824 16864 17325
+rect -2525 16810 -88 16814
+rect -2525 16690 -310 16810
+rect -190 16726 -88 16810
+tri -88 16726 0 16814 sw
+rect -190 16690 0 16726
+rect -2525 16686 0 16690
+rect -2525 -575 -1525 16686
+tri -412 16588 -314 16686 ne
+rect -314 16588 0 16686
+rect -1025 16500 -412 16588
+tri -412 16500 -324 16588 sw
+tri -314 16500 -226 16588 ne
+rect -226 16500 0 16588
+tri 16500 16726 16598 16824 ne
+rect 16598 16814 16864 16824
+tri 16864 16814 16962 16912 sw
+rect 18075 16814 19075 17025
+rect 16598 16810 19075 16814
+rect 16598 16726 16740 16810
+tri 16500 16638 16588 16726 sw
+tri 16598 16638 16686 16726 ne
+rect 16686 16690 16740 16726
+rect 16860 16690 19075 16810
+rect 16686 16638 19075 16690
+rect 16500 16558 16588 16638
+tri 16588 16558 16668 16638 sw
+tri 16686 16558 16766 16638 ne
+rect 16766 16558 17375 16638
+rect 16500 16500 16668 16558
+tri 16668 16500 16726 16558 sw
+tri 16766 16500 16824 16558 ne
+rect 16824 16538 17375 16558
+rect 17475 16538 19075 16638
+rect 16824 16500 19075 16538
+rect 18075 0 19075 16500
+rect -1025 -40 -324 0
+tri -324 -40 -284 0 sw
+tri -226 -40 -186 0 ne
+rect -186 -40 0 0
+rect -1025 -88 -284 -40
+rect -1025 -188 -925 -88
+rect -825 -138 -284 -88
+tri -284 -138 -186 -40 sw
+tri -186 -138 -88 -40 ne
+rect -88 -138 0 -40
+rect -825 -188 -186 -138
+rect -1025 -236 -186 -188
+tri -186 -236 -88 -138 sw
+tri -88 -226 0 -138 ne
+rect 16500 -40 16726 0
+tri 16726 -40 16766 0 sw
+tri 16824 -40 16864 0 ne
+rect 16864 -40 19075 0
+rect 16500 -138 16766 -40
+tri 16766 -138 16864 -40 sw
+tri 16864 -138 16962 -40 ne
+rect 16962 -138 19075 -40
+rect 16500 -226 16864 -138
+rect -1025 -240 -88 -236
+rect -1025 -360 -310 -240
+rect -190 -324 -88 -240
+tri -88 -324 0 -236 sw
+rect -190 -360 0 -324
+rect -1025 -364 0 -360
+tri -412 -462 -314 -364 ne
+rect -314 -875 0 -364
+rect -314 -975 -138 -875
+rect -38 -975 0 -875
+rect -314 -1575 0 -975
+tri 16500 -324 16598 -226 ne
+rect 16598 -236 16864 -226
+tri 16864 -236 16962 -138 sw
+rect 16598 -240 17575 -236
+rect 16598 -324 16740 -240
+tri 16500 -364 16540 -324 sw
+tri 16598 -364 16638 -324 ne
+rect 16638 -360 16740 -324
+rect 16860 -360 17575 -240
+rect 16638 -364 17575 -360
+rect 16500 -462 16540 -364
+tri 16540 -462 16638 -364 sw
+tri 16638 -462 16736 -364 ne
+rect 16500 -1575 16638 -462
+rect 16736 -688 17575 -364
+rect 16736 -1075 17188 -688
+rect 18075 -1575 19075 -138
+rect -525 -2575 19075 -1575
+<< via4 >>
+rect -310 16690 -190 16810
+rect 16740 16690 16860 16810
+rect -310 -360 -190 -240
+rect 16740 -360 16860 -240
+<< metal5 >>
+rect -2525 18025 17075 19025
+rect -2525 17103 -1525 18025
+rect -603 17103 -292 18025
+rect -2525 16810 -292 17103
+tri -292 16810 -154 16948 sw
+rect -53 16947 0 17525
+tri -53 16894 0 16947 ne
+rect 16500 16894 16758 17525
+rect -2525 16792 -310 16810
+rect -2525 -575 -1525 16792
+tri -448 16690 -346 16792 ne
+rect -346 16690 -310 16792
+rect -190 16690 -154 16810
+rect -1025 16500 -447 16553
+tri -447 16500 -394 16553 sw
+tri -346 16500 -156 16690 ne
+rect -156 16656 -154 16690
+tri -154 16656 0 16810 sw
+rect -156 16500 0 16656
+tri 16500 16656 16738 16894 ne
+rect 16738 16810 16758 16894
+tri 16758 16810 16896 16948 sw
+rect 16738 16690 16740 16810
+rect 16860 16708 16896 16810
+tri 16896 16708 16998 16810 sw
+rect 18075 16708 19075 17025
+rect 16860 16690 19075 16708
+rect 16738 16656 19075 16690
+tri 16500 16500 16656 16656 sw
+tri 16738 16500 16894 16656 ne
+rect 16894 16500 19075 16656
+rect 18075 0 19075 16500
+rect -1025 -103 -394 0
+tri -394 -103 -291 0 sw
+tri -156 -103 -53 0 ne
+rect -53 -103 0 0
+rect -1025 -240 -291 -103
+tri -291 -240 -154 -103 sw
+tri -53 -156 0 -103 ne
+rect 16500 -103 16656 0
+tri 16656 -103 16759 0 sw
+tri 16894 -103 16997 0 ne
+rect 16997 -103 19075 0
+rect 16500 -156 16759 -103
+rect -1025 -258 -310 -240
+tri -448 -360 -346 -258 ne
+rect -346 -360 -310 -258
+rect -190 -360 -154 -240
+tri -346 -498 -208 -360 ne
+rect -208 -394 -154 -360
+tri -154 -394 0 -240 sw
+rect -208 -1575 0 -394
+tri 16500 -394 16738 -156 ne
+rect 16738 -240 16759 -156
+tri 16759 -240 16896 -103 sw
+rect 16738 -360 16740 -240
+rect 16860 -342 16896 -240
+tri 16896 -342 16998 -240 sw
+rect 16860 -360 17575 -342
+rect 16738 -394 17575 -360
+tri 16500 -497 16603 -394 sw
+rect 16500 -1575 16603 -497
+tri 16738 -498 16842 -394 ne
+rect 16842 -653 17575 -394
+rect 16842 -1075 17153 -653
+rect 18075 -1575 19075 -103
+rect -525 -2575 19075 -1575
+use nmos_drain_frame_lt  nmos_drain_frame_lt_0 waffle_cells
+timestamp 1675431365
+transform 1 0 -550 0 1 0
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_1
+timestamp 1675431365
+transform 0 -1 1100 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_2
+timestamp 1675431365
+transform 1 0 -550 0 1 1100
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_3
+timestamp 1675431365
+transform 0 -1 2200 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_4
+timestamp 1675431365
+transform 1 0 -550 0 1 2200
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_5
+timestamp 1675431365
+transform 0 -1 3300 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_6
+timestamp 1675431365
+transform 1 0 -550 0 1 3300
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_7
+timestamp 1675431365
+transform 0 -1 4400 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_8
+timestamp 1675431365
+transform 1 0 -550 0 1 4400
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_9
+timestamp 1675431365
+transform 0 -1 5500 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_10
+timestamp 1675431365
+transform 1 0 -550 0 1 5500
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_11
+timestamp 1675431365
+transform 0 -1 6600 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_12
+timestamp 1675431365
+transform 1 0 -550 0 1 6600
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_13
+timestamp 1675431365
+transform 0 -1 7700 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_14
+timestamp 1675431365
+transform 1 0 -550 0 1 7700
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_15
+timestamp 1675431365
+transform 0 -1 8800 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_16
+timestamp 1675431365
+transform 1 0 -550 0 1 8800
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_17
+timestamp 1675431365
+transform 0 -1 9900 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_18
+timestamp 1675431365
+transform 1 0 -550 0 1 9900
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_19
+timestamp 1675431365
+transform 0 -1 11000 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_20
+timestamp 1675431365
+transform 1 0 -550 0 1 11000
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_21
+timestamp 1675431365
+transform 0 -1 12100 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_22
+timestamp 1675431365
+transform 1 0 -550 0 1 12100
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_23
+timestamp 1675431365
+transform 0 -1 13200 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_24
+timestamp 1675431365
+transform 1 0 -550 0 1 13200
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_25
+timestamp 1675431365
+transform 0 -1 14300 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_26
+timestamp 1675431365
+transform 1 0 -550 0 1 14300
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_27
+timestamp 1675431365
+transform 0 -1 15400 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_28
+timestamp 1675431365
+transform 1 0 -550 0 1 15400
+box -975 -113 663 663
+use nmos_drain_frame_lt  nmos_drain_frame_lt_29
+timestamp 1675431365
+transform 0 -1 16500 -1 0 17050
+box -975 -113 663 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_0 waffle_cells
+timestamp 1675431051
+transform 0 -1 550 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_1
+timestamp 1675431051
+transform 1 0 16500 0 1 550
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_2
+timestamp 1675431051
+transform 0 -1 1650 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_3
+timestamp 1675431051
+transform 1 0 16500 0 1 1650
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_4
+timestamp 1675431051
+transform 0 -1 2750 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_5
+timestamp 1675431051
+transform 1 0 16500 0 1 2750
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_6
+timestamp 1675431051
+transform 0 -1 3850 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_7
+timestamp 1675431051
+transform 1 0 16500 0 1 3850
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_8
+timestamp 1675431051
+transform 0 -1 4950 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_9
+timestamp 1675431051
+transform 1 0 16500 0 1 4950
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_10
+timestamp 1675431051
+transform 0 -1 6050 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_11
+timestamp 1675431051
+transform 1 0 16500 0 1 6050
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_12
+timestamp 1675431051
+transform 0 -1 7150 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_13
+timestamp 1675431051
+transform 1 0 16500 0 1 7150
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_14
+timestamp 1675431051
+transform 0 -1 8250 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_15
+timestamp 1675431051
+transform 1 0 16500 0 1 8250
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_16
+timestamp 1675431051
+transform 0 -1 9350 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_17
+timestamp 1675431051
+transform 1 0 16500 0 1 9350
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_18
+timestamp 1675431051
+transform 0 -1 10450 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_19
+timestamp 1675431051
+transform 1 0 16500 0 1 10450
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_20
+timestamp 1675431051
+transform 0 -1 11550 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_21
+timestamp 1675431051
+transform 1 0 16500 0 1 11550
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_22
+timestamp 1675431051
+transform 0 -1 12650 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_23
+timestamp 1675431051
+transform 1 0 16500 0 1 12650
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_24
+timestamp 1675431051
+transform 0 -1 13750 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_25
+timestamp 1675431051
+transform 1 0 16500 0 1 13750
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_26
+timestamp 1675431051
+transform 0 -1 14850 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_27
+timestamp 1675431051
+transform 1 0 16500 0 1 14850
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_28
+timestamp 1675431051
+transform 0 -1 15950 -1 0 0
+box -113 -113 1575 663
+use nmos_drain_frame_rb  nmos_drain_frame_rb_29
+timestamp 1675431051
+transform 1 0 16500 0 1 15950
+box -113 -113 1575 663
+use nmos_drain_in  nmos_drain_in_0 waffle_cells
+timestamp 1675431861
+transform 1 0 0 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_1
+timestamp 1675431861
+transform 1 0 0 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_2
+timestamp 1675431861
+transform 1 0 0 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_3
+timestamp 1675431861
+transform 1 0 0 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_4
+timestamp 1675431861
+transform 1 0 0 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_5
+timestamp 1675431861
+transform 1 0 0 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_6
+timestamp 1675431861
+transform 1 0 0 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_7
+timestamp 1675431861
+transform 1 0 0 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_8
+timestamp 1675431861
+transform 1 0 0 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_9
+timestamp 1675431861
+transform 1 0 0 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_10
+timestamp 1675431861
+transform 1 0 0 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_11
+timestamp 1675431861
+transform 1 0 0 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_12
+timestamp 1675431861
+transform 1 0 0 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_13
+timestamp 1675431861
+transform 1 0 0 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_14
+timestamp 1675431861
+transform 1 0 0 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_15
+timestamp 1675431861
+transform 1 0 550 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_16
+timestamp 1675431861
+transform 1 0 550 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_17
+timestamp 1675431861
+transform 1 0 550 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_18
+timestamp 1675431861
+transform 1 0 550 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_19
+timestamp 1675431861
+transform 1 0 550 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_20
+timestamp 1675431861
+transform 1 0 550 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_21
+timestamp 1675431861
+transform 1 0 550 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_22
+timestamp 1675431861
+transform 1 0 550 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_23
+timestamp 1675431861
+transform 1 0 550 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_24
+timestamp 1675431861
+transform 1 0 550 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_25
+timestamp 1675431861
+transform 1 0 550 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_26
+timestamp 1675431861
+transform 1 0 550 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_27
+timestamp 1675431861
+transform 1 0 550 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_28
+timestamp 1675431861
+transform 1 0 550 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_29
+timestamp 1675431861
+transform 1 0 550 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_30
+timestamp 1675431861
+transform 1 0 1100 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_31
+timestamp 1675431861
+transform 1 0 1100 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_32
+timestamp 1675431861
+transform 1 0 1100 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_33
+timestamp 1675431861
+transform 1 0 1100 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_34
+timestamp 1675431861
+transform 1 0 1100 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_35
+timestamp 1675431861
+transform 1 0 1100 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_36
+timestamp 1675431861
+transform 1 0 1100 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_37
+timestamp 1675431861
+transform 1 0 1100 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_38
+timestamp 1675431861
+transform 1 0 1100 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_39
+timestamp 1675431861
+transform 1 0 1100 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_40
+timestamp 1675431861
+transform 1 0 1100 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_41
+timestamp 1675431861
+transform 1 0 1100 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_42
+timestamp 1675431861
+transform 1 0 1100 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_43
+timestamp 1675431861
+transform 1 0 1100 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_44
+timestamp 1675431861
+transform 1 0 1100 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_45
+timestamp 1675431861
+transform 1 0 1650 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_46
+timestamp 1675431861
+transform 1 0 1650 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_47
+timestamp 1675431861
+transform 1 0 1650 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_48
+timestamp 1675431861
+transform 1 0 1650 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_49
+timestamp 1675431861
+transform 1 0 1650 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_50
+timestamp 1675431861
+transform 1 0 1650 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_51
+timestamp 1675431861
+transform 1 0 1650 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_52
+timestamp 1675431861
+transform 1 0 1650 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_53
+timestamp 1675431861
+transform 1 0 1650 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_54
+timestamp 1675431861
+transform 1 0 1650 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_55
+timestamp 1675431861
+transform 1 0 1650 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_56
+timestamp 1675431861
+transform 1 0 1650 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_57
+timestamp 1675431861
+transform 1 0 1650 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_58
+timestamp 1675431861
+transform 1 0 1650 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_59
+timestamp 1675431861
+transform 1 0 1650 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_60
+timestamp 1675431861
+transform 1 0 2200 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_61
+timestamp 1675431861
+transform 1 0 2200 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_62
+timestamp 1675431861
+transform 1 0 2200 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_63
+timestamp 1675431861
+transform 1 0 2200 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_64
+timestamp 1675431861
+transform 1 0 2200 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_65
+timestamp 1675431861
+transform 1 0 2200 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_66
+timestamp 1675431861
+transform 1 0 2200 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_67
+timestamp 1675431861
+transform 1 0 2200 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_68
+timestamp 1675431861
+transform 1 0 2200 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_69
+timestamp 1675431861
+transform 1 0 2200 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_70
+timestamp 1675431861
+transform 1 0 2200 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_71
+timestamp 1675431861
+transform 1 0 2200 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_72
+timestamp 1675431861
+transform 1 0 2200 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_73
+timestamp 1675431861
+transform 1 0 2200 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_74
+timestamp 1675431861
+transform 1 0 2200 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_75
+timestamp 1675431861
+transform 1 0 2750 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_76
+timestamp 1675431861
+transform 1 0 2750 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_77
+timestamp 1675431861
+transform 1 0 2750 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_78
+timestamp 1675431861
+transform 1 0 2750 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_79
+timestamp 1675431861
+transform 1 0 2750 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_80
+timestamp 1675431861
+transform 1 0 2750 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_81
+timestamp 1675431861
+transform 1 0 2750 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_82
+timestamp 1675431861
+transform 1 0 2750 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_83
+timestamp 1675431861
+transform 1 0 2750 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_84
+timestamp 1675431861
+transform 1 0 2750 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_85
+timestamp 1675431861
+transform 1 0 2750 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_86
+timestamp 1675431861
+transform 1 0 2750 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_87
+timestamp 1675431861
+transform 1 0 2750 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_88
+timestamp 1675431861
+transform 1 0 2750 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_89
+timestamp 1675431861
+transform 1 0 2750 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_90
+timestamp 1675431861
+transform 1 0 3300 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_91
+timestamp 1675431861
+transform 1 0 3300 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_92
+timestamp 1675431861
+transform 1 0 3300 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_93
+timestamp 1675431861
+transform 1 0 3300 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_94
+timestamp 1675431861
+transform 1 0 3300 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_95
+timestamp 1675431861
+transform 1 0 3300 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_96
+timestamp 1675431861
+transform 1 0 3300 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_97
+timestamp 1675431861
+transform 1 0 3300 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_98
+timestamp 1675431861
+transform 1 0 3300 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_99
+timestamp 1675431861
+transform 1 0 3300 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_100
+timestamp 1675431861
+transform 1 0 3300 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_101
+timestamp 1675431861
+transform 1 0 3300 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_102
+timestamp 1675431861
+transform 1 0 3300 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_103
+timestamp 1675431861
+transform 1 0 3300 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_104
+timestamp 1675431861
+transform 1 0 3300 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_105
+timestamp 1675431861
+transform 1 0 3850 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_106
+timestamp 1675431861
+transform 1 0 3850 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_107
+timestamp 1675431861
+transform 1 0 3850 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_108
+timestamp 1675431861
+transform 1 0 3850 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_109
+timestamp 1675431861
+transform 1 0 3850 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_110
+timestamp 1675431861
+transform 1 0 3850 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_111
+timestamp 1675431861
+transform 1 0 3850 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_112
+timestamp 1675431861
+transform 1 0 3850 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_113
+timestamp 1675431861
+transform 1 0 3850 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_114
+timestamp 1675431861
+transform 1 0 3850 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_115
+timestamp 1675431861
+transform 1 0 3850 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_116
+timestamp 1675431861
+transform 1 0 3850 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_117
+timestamp 1675431861
+transform 1 0 3850 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_118
+timestamp 1675431861
+transform 1 0 3850 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_119
+timestamp 1675431861
+transform 1 0 3850 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_120
+timestamp 1675431861
+transform 1 0 4400 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_121
+timestamp 1675431861
+transform 1 0 4400 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_122
+timestamp 1675431861
+transform 1 0 4400 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_123
+timestamp 1675431861
+transform 1 0 4400 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_124
+timestamp 1675431861
+transform 1 0 4400 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_125
+timestamp 1675431861
+transform 1 0 4400 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_126
+timestamp 1675431861
+transform 1 0 4400 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_127
+timestamp 1675431861
+transform 1 0 4400 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_128
+timestamp 1675431861
+transform 1 0 4400 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_129
+timestamp 1675431861
+transform 1 0 4400 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_130
+timestamp 1675431861
+transform 1 0 4400 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_131
+timestamp 1675431861
+transform 1 0 4400 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_132
+timestamp 1675431861
+transform 1 0 4400 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_133
+timestamp 1675431861
+transform 1 0 4400 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_134
+timestamp 1675431861
+transform 1 0 4400 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_135
+timestamp 1675431861
+transform 1 0 4950 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_136
+timestamp 1675431861
+transform 1 0 4950 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_137
+timestamp 1675431861
+transform 1 0 4950 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_138
+timestamp 1675431861
+transform 1 0 4950 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_139
+timestamp 1675431861
+transform 1 0 4950 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_140
+timestamp 1675431861
+transform 1 0 4950 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_141
+timestamp 1675431861
+transform 1 0 4950 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_142
+timestamp 1675431861
+transform 1 0 4950 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_143
+timestamp 1675431861
+transform 1 0 4950 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_144
+timestamp 1675431861
+transform 1 0 4950 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_145
+timestamp 1675431861
+transform 1 0 4950 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_146
+timestamp 1675431861
+transform 1 0 4950 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_147
+timestamp 1675431861
+transform 1 0 4950 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_148
+timestamp 1675431861
+transform 1 0 4950 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_149
+timestamp 1675431861
+transform 1 0 4950 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_150
+timestamp 1675431861
+transform 1 0 5500 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_151
+timestamp 1675431861
+transform 1 0 5500 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_152
+timestamp 1675431861
+transform 1 0 5500 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_153
+timestamp 1675431861
+transform 1 0 5500 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_154
+timestamp 1675431861
+transform 1 0 5500 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_155
+timestamp 1675431861
+transform 1 0 5500 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_156
+timestamp 1675431861
+transform 1 0 5500 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_157
+timestamp 1675431861
+transform 1 0 5500 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_158
+timestamp 1675431861
+transform 1 0 5500 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_159
+timestamp 1675431861
+transform 1 0 5500 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_160
+timestamp 1675431861
+transform 1 0 5500 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_161
+timestamp 1675431861
+transform 1 0 5500 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_162
+timestamp 1675431861
+transform 1 0 5500 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_163
+timestamp 1675431861
+transform 1 0 5500 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_164
+timestamp 1675431861
+transform 1 0 5500 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_165
+timestamp 1675431861
+transform 1 0 6050 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_166
+timestamp 1675431861
+transform 1 0 6050 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_167
+timestamp 1675431861
+transform 1 0 6050 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_168
+timestamp 1675431861
+transform 1 0 6050 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_169
+timestamp 1675431861
+transform 1 0 6050 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_170
+timestamp 1675431861
+transform 1 0 6050 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_171
+timestamp 1675431861
+transform 1 0 6050 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_172
+timestamp 1675431861
+transform 1 0 6050 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_173
+timestamp 1675431861
+transform 1 0 6050 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_174
+timestamp 1675431861
+transform 1 0 6050 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_175
+timestamp 1675431861
+transform 1 0 6050 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_176
+timestamp 1675431861
+transform 1 0 6050 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_177
+timestamp 1675431861
+transform 1 0 6050 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_178
+timestamp 1675431861
+transform 1 0 6050 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_179
+timestamp 1675431861
+transform 1 0 6050 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_180
+timestamp 1675431861
+transform 1 0 6600 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_181
+timestamp 1675431861
+transform 1 0 6600 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_182
+timestamp 1675431861
+transform 1 0 6600 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_183
+timestamp 1675431861
+transform 1 0 6600 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_184
+timestamp 1675431861
+transform 1 0 6600 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_185
+timestamp 1675431861
+transform 1 0 6600 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_186
+timestamp 1675431861
+transform 1 0 6600 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_187
+timestamp 1675431861
+transform 1 0 6600 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_188
+timestamp 1675431861
+transform 1 0 6600 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_189
+timestamp 1675431861
+transform 1 0 6600 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_190
+timestamp 1675431861
+transform 1 0 6600 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_191
+timestamp 1675431861
+transform 1 0 6600 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_192
+timestamp 1675431861
+transform 1 0 6600 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_193
+timestamp 1675431861
+transform 1 0 6600 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_194
+timestamp 1675431861
+transform 1 0 6600 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_195
+timestamp 1675431861
+transform 1 0 7150 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_196
+timestamp 1675431861
+transform 1 0 7150 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_197
+timestamp 1675431861
+transform 1 0 7150 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_198
+timestamp 1675431861
+transform 1 0 7150 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_199
+timestamp 1675431861
+transform 1 0 7150 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_200
+timestamp 1675431861
+transform 1 0 7150 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_201
+timestamp 1675431861
+transform 1 0 7150 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_202
+timestamp 1675431861
+transform 1 0 7150 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_203
+timestamp 1675431861
+transform 1 0 7150 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_204
+timestamp 1675431861
+transform 1 0 7150 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_205
+timestamp 1675431861
+transform 1 0 7150 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_206
+timestamp 1675431861
+transform 1 0 7150 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_207
+timestamp 1675431861
+transform 1 0 7150 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_208
+timestamp 1675431861
+transform 1 0 7150 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_209
+timestamp 1675431861
+transform 1 0 7150 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_210
+timestamp 1675431861
+transform 1 0 7700 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_211
+timestamp 1675431861
+transform 1 0 7700 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_212
+timestamp 1675431861
+transform 1 0 7700 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_213
+timestamp 1675431861
+transform 1 0 7700 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_214
+timestamp 1675431861
+transform 1 0 7700 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_215
+timestamp 1675431861
+transform 1 0 7700 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_216
+timestamp 1675431861
+transform 1 0 7700 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_217
+timestamp 1675431861
+transform 1 0 7700 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_218
+timestamp 1675431861
+transform 1 0 7700 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_219
+timestamp 1675431861
+transform 1 0 7700 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_220
+timestamp 1675431861
+transform 1 0 7700 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_221
+timestamp 1675431861
+transform 1 0 7700 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_222
+timestamp 1675431861
+transform 1 0 7700 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_223
+timestamp 1675431861
+transform 1 0 7700 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_224
+timestamp 1675431861
+transform 1 0 7700 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_225
+timestamp 1675431861
+transform 1 0 8250 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_226
+timestamp 1675431861
+transform 1 0 8250 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_227
+timestamp 1675431861
+transform 1 0 8250 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_228
+timestamp 1675431861
+transform 1 0 8250 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_229
+timestamp 1675431861
+transform 1 0 8250 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_230
+timestamp 1675431861
+transform 1 0 8250 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_231
+timestamp 1675431861
+transform 1 0 8250 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_232
+timestamp 1675431861
+transform 1 0 8250 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_233
+timestamp 1675431861
+transform 1 0 8250 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_234
+timestamp 1675431861
+transform 1 0 8250 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_235
+timestamp 1675431861
+transform 1 0 8250 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_236
+timestamp 1675431861
+transform 1 0 8250 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_237
+timestamp 1675431861
+transform 1 0 8250 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_238
+timestamp 1675431861
+transform 1 0 8250 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_239
+timestamp 1675431861
+transform 1 0 8250 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_240
+timestamp 1675431861
+transform 1 0 8800 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_241
+timestamp 1675431861
+transform 1 0 8800 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_242
+timestamp 1675431861
+transform 1 0 8800 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_243
+timestamp 1675431861
+transform 1 0 8800 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_244
+timestamp 1675431861
+transform 1 0 8800 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_245
+timestamp 1675431861
+transform 1 0 8800 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_246
+timestamp 1675431861
+transform 1 0 8800 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_247
+timestamp 1675431861
+transform 1 0 8800 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_248
+timestamp 1675431861
+transform 1 0 8800 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_249
+timestamp 1675431861
+transform 1 0 8800 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_250
+timestamp 1675431861
+transform 1 0 8800 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_251
+timestamp 1675431861
+transform 1 0 8800 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_252
+timestamp 1675431861
+transform 1 0 8800 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_253
+timestamp 1675431861
+transform 1 0 8800 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_254
+timestamp 1675431861
+transform 1 0 8800 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_255
+timestamp 1675431861
+transform 1 0 9350 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_256
+timestamp 1675431861
+transform 1 0 9350 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_257
+timestamp 1675431861
+transform 1 0 9350 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_258
+timestamp 1675431861
+transform 1 0 9350 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_259
+timestamp 1675431861
+transform 1 0 9350 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_260
+timestamp 1675431861
+transform 1 0 9350 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_261
+timestamp 1675431861
+transform 1 0 9350 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_262
+timestamp 1675431861
+transform 1 0 9350 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_263
+timestamp 1675431861
+transform 1 0 9350 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_264
+timestamp 1675431861
+transform 1 0 9350 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_265
+timestamp 1675431861
+transform 1 0 9350 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_266
+timestamp 1675431861
+transform 1 0 9350 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_267
+timestamp 1675431861
+transform 1 0 9350 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_268
+timestamp 1675431861
+transform 1 0 9350 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_269
+timestamp 1675431861
+transform 1 0 9350 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_270
+timestamp 1675431861
+transform 1 0 9900 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_271
+timestamp 1675431861
+transform 1 0 9900 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_272
+timestamp 1675431861
+transform 1 0 9900 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_273
+timestamp 1675431861
+transform 1 0 9900 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_274
+timestamp 1675431861
+transform 1 0 9900 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_275
+timestamp 1675431861
+transform 1 0 9900 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_276
+timestamp 1675431861
+transform 1 0 9900 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_277
+timestamp 1675431861
+transform 1 0 9900 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_278
+timestamp 1675431861
+transform 1 0 9900 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_279
+timestamp 1675431861
+transform 1 0 9900 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_280
+timestamp 1675431861
+transform 1 0 9900 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_281
+timestamp 1675431861
+transform 1 0 9900 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_282
+timestamp 1675431861
+transform 1 0 9900 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_283
+timestamp 1675431861
+transform 1 0 9900 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_284
+timestamp 1675431861
+transform 1 0 9900 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_285
+timestamp 1675431861
+transform 1 0 10450 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_286
+timestamp 1675431861
+transform 1 0 10450 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_287
+timestamp 1675431861
+transform 1 0 10450 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_288
+timestamp 1675431861
+transform 1 0 10450 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_289
+timestamp 1675431861
+transform 1 0 10450 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_290
+timestamp 1675431861
+transform 1 0 10450 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_291
+timestamp 1675431861
+transform 1 0 10450 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_292
+timestamp 1675431861
+transform 1 0 10450 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_293
+timestamp 1675431861
+transform 1 0 10450 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_294
+timestamp 1675431861
+transform 1 0 10450 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_295
+timestamp 1675431861
+transform 1 0 10450 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_296
+timestamp 1675431861
+transform 1 0 10450 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_297
+timestamp 1675431861
+transform 1 0 10450 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_298
+timestamp 1675431861
+transform 1 0 10450 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_299
+timestamp 1675431861
+transform 1 0 10450 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_300
+timestamp 1675431861
+transform 1 0 11000 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_301
+timestamp 1675431861
+transform 1 0 11000 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_302
+timestamp 1675431861
+transform 1 0 11000 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_303
+timestamp 1675431861
+transform 1 0 11000 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_304
+timestamp 1675431861
+transform 1 0 11000 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_305
+timestamp 1675431861
+transform 1 0 11000 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_306
+timestamp 1675431861
+transform 1 0 11000 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_307
+timestamp 1675431861
+transform 1 0 11000 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_308
+timestamp 1675431861
+transform 1 0 11000 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_309
+timestamp 1675431861
+transform 1 0 11000 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_310
+timestamp 1675431861
+transform 1 0 11000 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_311
+timestamp 1675431861
+transform 1 0 11000 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_312
+timestamp 1675431861
+transform 1 0 11000 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_313
+timestamp 1675431861
+transform 1 0 11000 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_314
+timestamp 1675431861
+transform 1 0 11000 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_315
+timestamp 1675431861
+transform 1 0 11550 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_316
+timestamp 1675431861
+transform 1 0 11550 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_317
+timestamp 1675431861
+transform 1 0 11550 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_318
+timestamp 1675431861
+transform 1 0 11550 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_319
+timestamp 1675431861
+transform 1 0 11550 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_320
+timestamp 1675431861
+transform 1 0 11550 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_321
+timestamp 1675431861
+transform 1 0 11550 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_322
+timestamp 1675431861
+transform 1 0 11550 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_323
+timestamp 1675431861
+transform 1 0 11550 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_324
+timestamp 1675431861
+transform 1 0 11550 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_325
+timestamp 1675431861
+transform 1 0 11550 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_326
+timestamp 1675431861
+transform 1 0 11550 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_327
+timestamp 1675431861
+transform 1 0 11550 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_328
+timestamp 1675431861
+transform 1 0 11550 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_329
+timestamp 1675431861
+transform 1 0 11550 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_330
+timestamp 1675431861
+transform 1 0 12100 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_331
+timestamp 1675431861
+transform 1 0 12100 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_332
+timestamp 1675431861
+transform 1 0 12100 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_333
+timestamp 1675431861
+transform 1 0 12100 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_334
+timestamp 1675431861
+transform 1 0 12100 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_335
+timestamp 1675431861
+transform 1 0 12100 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_336
+timestamp 1675431861
+transform 1 0 12100 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_337
+timestamp 1675431861
+transform 1 0 12100 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_338
+timestamp 1675431861
+transform 1 0 12100 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_339
+timestamp 1675431861
+transform 1 0 12100 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_340
+timestamp 1675431861
+transform 1 0 12100 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_341
+timestamp 1675431861
+transform 1 0 12100 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_342
+timestamp 1675431861
+transform 1 0 12100 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_343
+timestamp 1675431861
+transform 1 0 12100 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_344
+timestamp 1675431861
+transform 1 0 12100 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_345
+timestamp 1675431861
+transform 1 0 12650 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_346
+timestamp 1675431861
+transform 1 0 12650 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_347
+timestamp 1675431861
+transform 1 0 12650 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_348
+timestamp 1675431861
+transform 1 0 12650 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_349
+timestamp 1675431861
+transform 1 0 12650 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_350
+timestamp 1675431861
+transform 1 0 12650 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_351
+timestamp 1675431861
+transform 1 0 12650 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_352
+timestamp 1675431861
+transform 1 0 12650 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_353
+timestamp 1675431861
+transform 1 0 12650 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_354
+timestamp 1675431861
+transform 1 0 12650 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_355
+timestamp 1675431861
+transform 1 0 12650 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_356
+timestamp 1675431861
+transform 1 0 12650 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_357
+timestamp 1675431861
+transform 1 0 12650 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_358
+timestamp 1675431861
+transform 1 0 12650 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_359
+timestamp 1675431861
+transform 1 0 12650 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_360
+timestamp 1675431861
+transform 1 0 13200 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_361
+timestamp 1675431861
+transform 1 0 13200 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_362
+timestamp 1675431861
+transform 1 0 13200 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_363
+timestamp 1675431861
+transform 1 0 13200 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_364
+timestamp 1675431861
+transform 1 0 13200 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_365
+timestamp 1675431861
+transform 1 0 13200 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_366
+timestamp 1675431861
+transform 1 0 13200 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_367
+timestamp 1675431861
+transform 1 0 13200 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_368
+timestamp 1675431861
+transform 1 0 13200 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_369
+timestamp 1675431861
+transform 1 0 13200 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_370
+timestamp 1675431861
+transform 1 0 13200 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_371
+timestamp 1675431861
+transform 1 0 13200 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_372
+timestamp 1675431861
+transform 1 0 13200 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_373
+timestamp 1675431861
+transform 1 0 13200 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_374
+timestamp 1675431861
+transform 1 0 13200 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_375
+timestamp 1675431861
+transform 1 0 13750 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_376
+timestamp 1675431861
+transform 1 0 13750 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_377
+timestamp 1675431861
+transform 1 0 13750 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_378
+timestamp 1675431861
+transform 1 0 13750 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_379
+timestamp 1675431861
+transform 1 0 13750 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_380
+timestamp 1675431861
+transform 1 0 13750 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_381
+timestamp 1675431861
+transform 1 0 13750 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_382
+timestamp 1675431861
+transform 1 0 13750 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_383
+timestamp 1675431861
+transform 1 0 13750 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_384
+timestamp 1675431861
+transform 1 0 13750 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_385
+timestamp 1675431861
+transform 1 0 13750 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_386
+timestamp 1675431861
+transform 1 0 13750 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_387
+timestamp 1675431861
+transform 1 0 13750 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_388
+timestamp 1675431861
+transform 1 0 13750 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_389
+timestamp 1675431861
+transform 1 0 13750 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_390
+timestamp 1675431861
+transform 1 0 14300 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_391
+timestamp 1675431861
+transform 1 0 14300 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_392
+timestamp 1675431861
+transform 1 0 14300 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_393
+timestamp 1675431861
+transform 1 0 14300 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_394
+timestamp 1675431861
+transform 1 0 14300 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_395
+timestamp 1675431861
+transform 1 0 14300 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_396
+timestamp 1675431861
+transform 1 0 14300 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_397
+timestamp 1675431861
+transform 1 0 14300 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_398
+timestamp 1675431861
+transform 1 0 14300 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_399
+timestamp 1675431861
+transform 1 0 14300 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_400
+timestamp 1675431861
+transform 1 0 14300 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_401
+timestamp 1675431861
+transform 1 0 14300 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_402
+timestamp 1675431861
+transform 1 0 14300 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_403
+timestamp 1675431861
+transform 1 0 14300 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_404
+timestamp 1675431861
+transform 1 0 14300 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_405
+timestamp 1675431861
+transform 1 0 14850 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_406
+timestamp 1675431861
+transform 1 0 14850 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_407
+timestamp 1675431861
+transform 1 0 14850 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_408
+timestamp 1675431861
+transform 1 0 14850 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_409
+timestamp 1675431861
+transform 1 0 14850 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_410
+timestamp 1675431861
+transform 1 0 14850 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_411
+timestamp 1675431861
+transform 1 0 14850 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_412
+timestamp 1675431861
+transform 1 0 14850 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_413
+timestamp 1675431861
+transform 1 0 14850 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_414
+timestamp 1675431861
+transform 1 0 14850 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_415
+timestamp 1675431861
+transform 1 0 14850 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_416
+timestamp 1675431861
+transform 1 0 14850 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_417
+timestamp 1675431861
+transform 1 0 14850 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_418
+timestamp 1675431861
+transform 1 0 14850 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_419
+timestamp 1675431861
+transform 1 0 14850 0 1 15400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_420
+timestamp 1675431861
+transform 1 0 15400 0 1 550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_421
+timestamp 1675431861
+transform 1 0 15400 0 1 1650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_422
+timestamp 1675431861
+transform 1 0 15400 0 1 2750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_423
+timestamp 1675431861
+transform 1 0 15400 0 1 3850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_424
+timestamp 1675431861
+transform 1 0 15400 0 1 4950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_425
+timestamp 1675431861
+transform 1 0 15400 0 1 6050
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_426
+timestamp 1675431861
+transform 1 0 15400 0 1 7150
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_427
+timestamp 1675431861
+transform 1 0 15400 0 1 8250
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_428
+timestamp 1675431861
+transform 1 0 15400 0 1 9350
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_429
+timestamp 1675431861
+transform 1 0 15400 0 1 10450
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_430
+timestamp 1675431861
+transform 1 0 15400 0 1 11550
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_431
+timestamp 1675431861
+transform 1 0 15400 0 1 12650
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_432
+timestamp 1675431861
+transform 1 0 15400 0 1 13750
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_433
+timestamp 1675431861
+transform 1 0 15400 0 1 14850
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_434
+timestamp 1675431861
+transform 1 0 15400 0 1 15950
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_435
+timestamp 1675431861
+transform 1 0 15950 0 1 0
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_436
+timestamp 1675431861
+transform 1 0 15950 0 1 1100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_437
+timestamp 1675431861
+transform 1 0 15950 0 1 2200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_438
+timestamp 1675431861
+transform 1 0 15950 0 1 3300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_439
+timestamp 1675431861
+transform 1 0 15950 0 1 4400
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_440
+timestamp 1675431861
+transform 1 0 15950 0 1 5500
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_441
+timestamp 1675431861
+transform 1 0 15950 0 1 6600
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_442
+timestamp 1675431861
+transform 1 0 15950 0 1 7700
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_443
+timestamp 1675431861
+transform 1 0 15950 0 1 8800
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_444
+timestamp 1675431861
+transform 1 0 15950 0 1 9900
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_445
+timestamp 1675431861
+transform 1 0 15950 0 1 11000
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_446
+timestamp 1675431861
+transform 1 0 15950 0 1 12100
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_447
+timestamp 1675431861
+transform 1 0 15950 0 1 13200
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_448
+timestamp 1675431861
+transform 1 0 15950 0 1 14300
+box -113 -113 663 663
+use nmos_drain_in  nmos_drain_in_449
+timestamp 1675431861
+transform 1 0 15950 0 1 15400
+box -113 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_0 waffle_cells
+timestamp 1675431308
+transform 0 -1 550 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_1
+timestamp 1675431308
+transform 1 0 -550 0 1 550
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_2
+timestamp 1675431308
+transform 0 -1 1650 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_3
+timestamp 1675431308
+transform 1 0 -550 0 1 1650
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_4
+timestamp 1675431308
+transform 0 -1 2750 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_5
+timestamp 1675431308
+transform 1 0 -550 0 1 2750
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_6
+timestamp 1675431308
+transform 0 -1 3850 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_7
+timestamp 1675431308
+transform 1 0 -550 0 1 3850
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_8
+timestamp 1675431308
+transform 0 -1 4950 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_9
+timestamp 1675431308
+transform 1 0 -550 0 1 4950
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_10
+timestamp 1675431308
+transform 0 -1 6050 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_11
+timestamp 1675431308
+transform 1 0 -550 0 1 6050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_12
+timestamp 1675431308
+transform 0 -1 7150 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_13
+timestamp 1675431308
+transform 1 0 -550 0 1 7150
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_14
+timestamp 1675431308
+transform 0 -1 8250 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_15
+timestamp 1675431308
+transform 1 0 -550 0 1 8250
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_16
+timestamp 1675431308
+transform 0 -1 9350 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_17
+timestamp 1675431308
+transform 1 0 -550 0 1 9350
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_18
+timestamp 1675431308
+transform 0 -1 10450 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_19
+timestamp 1675431308
+transform 1 0 -550 0 1 10450
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_20
+timestamp 1675431308
+transform 0 -1 11550 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_21
+timestamp 1675431308
+transform 1 0 -550 0 1 11550
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_22
+timestamp 1675431308
+transform 0 -1 12650 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_23
+timestamp 1675431308
+transform 1 0 -550 0 1 12650
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_24
+timestamp 1675431308
+transform 0 -1 13750 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_25
+timestamp 1675431308
+transform 1 0 -550 0 1 13750
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_26
+timestamp 1675431308
+transform 0 -1 14850 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_27
+timestamp 1675431308
+transform 1 0 -550 0 1 14850
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_28
+timestamp 1675431308
+transform 0 -1 15950 -1 0 17050
+box -975 -113 663 663
+use nmos_source_frame_lt  nmos_source_frame_lt_29
+timestamp 1675431308
+transform 1 0 -550 0 1 15950
+box -975 -113 663 663
+use nmos_source_frame_rb  nmos_source_frame_rb_0 waffle_cells
+timestamp 1675430904
+transform 1 0 16500 0 1 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_1
+timestamp 1675430904
+transform 0 -1 1100 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_2
+timestamp 1675430904
+transform 1 0 16500 0 1 1100
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_3
+timestamp 1675430904
+transform 0 -1 2200 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_4
+timestamp 1675430904
+transform 1 0 16500 0 1 2200
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_5
+timestamp 1675430904
+transform 0 -1 3300 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_6
+timestamp 1675430904
+transform 1 0 16500 0 1 3300
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_7
+timestamp 1675430904
+transform 0 -1 4400 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_8
+timestamp 1675430904
+transform 1 0 16500 0 1 4400
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_9
+timestamp 1675430904
+transform 0 -1 5500 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_10
+timestamp 1675430904
+transform 1 0 16500 0 1 5500
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_11
+timestamp 1675430904
+transform 0 -1 6600 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_12
+timestamp 1675430904
+transform 1 0 16500 0 1 6600
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_13
+timestamp 1675430904
+transform 0 -1 7700 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_14
+timestamp 1675430904
+transform 1 0 16500 0 1 7700
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_15
+timestamp 1675430904
+transform 0 -1 8800 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_16
+timestamp 1675430904
+transform 1 0 16500 0 1 8800
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_17
+timestamp 1675430904
+transform 0 -1 9900 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_18
+timestamp 1675430904
+transform 1 0 16500 0 1 9900
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_19
+timestamp 1675430904
+transform 0 -1 11000 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_20
+timestamp 1675430904
+transform 1 0 16500 0 1 11000
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_21
+timestamp 1675430904
+transform 0 -1 12100 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_22
+timestamp 1675430904
+transform 1 0 16500 0 1 12100
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_23
+timestamp 1675430904
+transform 0 -1 13200 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_24
+timestamp 1675430904
+transform 1 0 16500 0 1 13200
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_25
+timestamp 1675430904
+transform 0 -1 14300 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_26
+timestamp 1675430904
+transform 1 0 16500 0 1 14300
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_27
+timestamp 1675430904
+transform 0 -1 15400 -1 0 0
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_28
+timestamp 1675430904
+transform 1 0 16500 0 1 15400
+box -113 -113 1575 663
+use nmos_source_frame_rb  nmos_source_frame_rb_29
+timestamp 1675430904
+transform 0 -1 16500 -1 0 0
+box -113 -113 1575 663
+use nmos_source_in  nmos_source_in_0 waffle_cells
+timestamp 1675431769
+transform 1 0 0 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_1
+timestamp 1675431769
+transform 1 0 0 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_2
+timestamp 1675431769
+transform 1 0 0 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_3
+timestamp 1675431769
+transform 1 0 0 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_4
+timestamp 1675431769
+transform 1 0 0 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_5
+timestamp 1675431769
+transform 1 0 0 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_6
+timestamp 1675431769
+transform 1 0 0 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_7
+timestamp 1675431769
+transform 1 0 0 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_8
+timestamp 1675431769
+transform 1 0 0 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_9
+timestamp 1675431769
+transform 1 0 0 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_10
+timestamp 1675431769
+transform 1 0 0 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_11
+timestamp 1675431769
+transform 1 0 0 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_12
+timestamp 1675431769
+transform 1 0 0 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_13
+timestamp 1675431769
+transform 1 0 0 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_14
+timestamp 1675431769
+transform 1 0 0 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_15
+timestamp 1675431769
+transform 1 0 550 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_16
+timestamp 1675431769
+transform 1 0 550 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_17
+timestamp 1675431769
+transform 1 0 550 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_18
+timestamp 1675431769
+transform 1 0 550 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_19
+timestamp 1675431769
+transform 1 0 550 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_20
+timestamp 1675431769
+transform 1 0 550 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_21
+timestamp 1675431769
+transform 1 0 550 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_22
+timestamp 1675431769
+transform 1 0 550 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_23
+timestamp 1675431769
+transform 1 0 550 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_24
+timestamp 1675431769
+transform 1 0 550 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_25
+timestamp 1675431769
+transform 1 0 550 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_26
+timestamp 1675431769
+transform 1 0 550 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_27
+timestamp 1675431769
+transform 1 0 550 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_28
+timestamp 1675431769
+transform 1 0 550 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_29
+timestamp 1675431769
+transform 1 0 550 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_30
+timestamp 1675431769
+transform 1 0 1100 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_31
+timestamp 1675431769
+transform 1 0 1100 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_32
+timestamp 1675431769
+transform 1 0 1100 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_33
+timestamp 1675431769
+transform 1 0 1100 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_34
+timestamp 1675431769
+transform 1 0 1100 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_35
+timestamp 1675431769
+transform 1 0 1100 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_36
+timestamp 1675431769
+transform 1 0 1100 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_37
+timestamp 1675431769
+transform 1 0 1100 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_38
+timestamp 1675431769
+transform 1 0 1100 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_39
+timestamp 1675431769
+transform 1 0 1100 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_40
+timestamp 1675431769
+transform 1 0 1100 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_41
+timestamp 1675431769
+transform 1 0 1100 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_42
+timestamp 1675431769
+transform 1 0 1100 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_43
+timestamp 1675431769
+transform 1 0 1100 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_44
+timestamp 1675431769
+transform 1 0 1100 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_45
+timestamp 1675431769
+transform 1 0 1650 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_46
+timestamp 1675431769
+transform 1 0 1650 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_47
+timestamp 1675431769
+transform 1 0 1650 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_48
+timestamp 1675431769
+transform 1 0 1650 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_49
+timestamp 1675431769
+transform 1 0 1650 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_50
+timestamp 1675431769
+transform 1 0 1650 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_51
+timestamp 1675431769
+transform 1 0 1650 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_52
+timestamp 1675431769
+transform 1 0 1650 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_53
+timestamp 1675431769
+transform 1 0 1650 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_54
+timestamp 1675431769
+transform 1 0 1650 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_55
+timestamp 1675431769
+transform 1 0 1650 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_56
+timestamp 1675431769
+transform 1 0 1650 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_57
+timestamp 1675431769
+transform 1 0 1650 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_58
+timestamp 1675431769
+transform 1 0 1650 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_59
+timestamp 1675431769
+transform 1 0 1650 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_60
+timestamp 1675431769
+transform 1 0 2200 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_61
+timestamp 1675431769
+transform 1 0 2200 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_62
+timestamp 1675431769
+transform 1 0 2200 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_63
+timestamp 1675431769
+transform 1 0 2200 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_64
+timestamp 1675431769
+transform 1 0 2200 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_65
+timestamp 1675431769
+transform 1 0 2200 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_66
+timestamp 1675431769
+transform 1 0 2200 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_67
+timestamp 1675431769
+transform 1 0 2200 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_68
+timestamp 1675431769
+transform 1 0 2200 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_69
+timestamp 1675431769
+transform 1 0 2200 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_70
+timestamp 1675431769
+transform 1 0 2200 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_71
+timestamp 1675431769
+transform 1 0 2200 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_72
+timestamp 1675431769
+transform 1 0 2200 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_73
+timestamp 1675431769
+transform 1 0 2200 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_74
+timestamp 1675431769
+transform 1 0 2200 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_75
+timestamp 1675431769
+transform 1 0 2750 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_76
+timestamp 1675431769
+transform 1 0 2750 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_77
+timestamp 1675431769
+transform 1 0 2750 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_78
+timestamp 1675431769
+transform 1 0 2750 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_79
+timestamp 1675431769
+transform 1 0 2750 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_80
+timestamp 1675431769
+transform 1 0 2750 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_81
+timestamp 1675431769
+transform 1 0 2750 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_82
+timestamp 1675431769
+transform 1 0 2750 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_83
+timestamp 1675431769
+transform 1 0 2750 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_84
+timestamp 1675431769
+transform 1 0 2750 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_85
+timestamp 1675431769
+transform 1 0 2750 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_86
+timestamp 1675431769
+transform 1 0 2750 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_87
+timestamp 1675431769
+transform 1 0 2750 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_88
+timestamp 1675431769
+transform 1 0 2750 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_89
+timestamp 1675431769
+transform 1 0 2750 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_90
+timestamp 1675431769
+transform 1 0 3300 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_91
+timestamp 1675431769
+transform 1 0 3300 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_92
+timestamp 1675431769
+transform 1 0 3300 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_93
+timestamp 1675431769
+transform 1 0 3300 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_94
+timestamp 1675431769
+transform 1 0 3300 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_95
+timestamp 1675431769
+transform 1 0 3300 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_96
+timestamp 1675431769
+transform 1 0 3300 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_97
+timestamp 1675431769
+transform 1 0 3300 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_98
+timestamp 1675431769
+transform 1 0 3300 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_99
+timestamp 1675431769
+transform 1 0 3300 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_100
+timestamp 1675431769
+transform 1 0 3300 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_101
+timestamp 1675431769
+transform 1 0 3300 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_102
+timestamp 1675431769
+transform 1 0 3300 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_103
+timestamp 1675431769
+transform 1 0 3300 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_104
+timestamp 1675431769
+transform 1 0 3300 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_105
+timestamp 1675431769
+transform 1 0 3850 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_106
+timestamp 1675431769
+transform 1 0 3850 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_107
+timestamp 1675431769
+transform 1 0 3850 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_108
+timestamp 1675431769
+transform 1 0 3850 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_109
+timestamp 1675431769
+transform 1 0 3850 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_110
+timestamp 1675431769
+transform 1 0 3850 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_111
+timestamp 1675431769
+transform 1 0 3850 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_112
+timestamp 1675431769
+transform 1 0 3850 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_113
+timestamp 1675431769
+transform 1 0 3850 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_114
+timestamp 1675431769
+transform 1 0 3850 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_115
+timestamp 1675431769
+transform 1 0 3850 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_116
+timestamp 1675431769
+transform 1 0 3850 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_117
+timestamp 1675431769
+transform 1 0 3850 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_118
+timestamp 1675431769
+transform 1 0 3850 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_119
+timestamp 1675431769
+transform 1 0 3850 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_120
+timestamp 1675431769
+transform 1 0 4400 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_121
+timestamp 1675431769
+transform 1 0 4400 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_122
+timestamp 1675431769
+transform 1 0 4400 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_123
+timestamp 1675431769
+transform 1 0 4400 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_124
+timestamp 1675431769
+transform 1 0 4400 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_125
+timestamp 1675431769
+transform 1 0 4400 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_126
+timestamp 1675431769
+transform 1 0 4400 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_127
+timestamp 1675431769
+transform 1 0 4400 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_128
+timestamp 1675431769
+transform 1 0 4400 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_129
+timestamp 1675431769
+transform 1 0 4400 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_130
+timestamp 1675431769
+transform 1 0 4400 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_131
+timestamp 1675431769
+transform 1 0 4400 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_132
+timestamp 1675431769
+transform 1 0 4400 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_133
+timestamp 1675431769
+transform 1 0 4400 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_134
+timestamp 1675431769
+transform 1 0 4400 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_135
+timestamp 1675431769
+transform 1 0 4950 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_136
+timestamp 1675431769
+transform 1 0 4950 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_137
+timestamp 1675431769
+transform 1 0 4950 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_138
+timestamp 1675431769
+transform 1 0 4950 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_139
+timestamp 1675431769
+transform 1 0 4950 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_140
+timestamp 1675431769
+transform 1 0 4950 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_141
+timestamp 1675431769
+transform 1 0 4950 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_142
+timestamp 1675431769
+transform 1 0 4950 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_143
+timestamp 1675431769
+transform 1 0 4950 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_144
+timestamp 1675431769
+transform 1 0 4950 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_145
+timestamp 1675431769
+transform 1 0 4950 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_146
+timestamp 1675431769
+transform 1 0 4950 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_147
+timestamp 1675431769
+transform 1 0 4950 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_148
+timestamp 1675431769
+transform 1 0 4950 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_149
+timestamp 1675431769
+transform 1 0 4950 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_150
+timestamp 1675431769
+transform 1 0 5500 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_151
+timestamp 1675431769
+transform 1 0 5500 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_152
+timestamp 1675431769
+transform 1 0 5500 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_153
+timestamp 1675431769
+transform 1 0 5500 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_154
+timestamp 1675431769
+transform 1 0 5500 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_155
+timestamp 1675431769
+transform 1 0 5500 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_156
+timestamp 1675431769
+transform 1 0 5500 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_157
+timestamp 1675431769
+transform 1 0 5500 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_158
+timestamp 1675431769
+transform 1 0 5500 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_159
+timestamp 1675431769
+transform 1 0 5500 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_160
+timestamp 1675431769
+transform 1 0 5500 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_161
+timestamp 1675431769
+transform 1 0 5500 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_162
+timestamp 1675431769
+transform 1 0 5500 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_163
+timestamp 1675431769
+transform 1 0 5500 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_164
+timestamp 1675431769
+transform 1 0 5500 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_165
+timestamp 1675431769
+transform 1 0 6050 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_166
+timestamp 1675431769
+transform 1 0 6050 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_167
+timestamp 1675431769
+transform 1 0 6050 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_168
+timestamp 1675431769
+transform 1 0 6050 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_169
+timestamp 1675431769
+transform 1 0 6050 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_170
+timestamp 1675431769
+transform 1 0 6050 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_171
+timestamp 1675431769
+transform 1 0 6050 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_172
+timestamp 1675431769
+transform 1 0 6050 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_173
+timestamp 1675431769
+transform 1 0 6050 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_174
+timestamp 1675431769
+transform 1 0 6050 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_175
+timestamp 1675431769
+transform 1 0 6050 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_176
+timestamp 1675431769
+transform 1 0 6050 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_177
+timestamp 1675431769
+transform 1 0 6050 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_178
+timestamp 1675431769
+transform 1 0 6050 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_179
+timestamp 1675431769
+transform 1 0 6050 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_180
+timestamp 1675431769
+transform 1 0 6600 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_181
+timestamp 1675431769
+transform 1 0 6600 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_182
+timestamp 1675431769
+transform 1 0 6600 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_183
+timestamp 1675431769
+transform 1 0 6600 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_184
+timestamp 1675431769
+transform 1 0 6600 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_185
+timestamp 1675431769
+transform 1 0 6600 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_186
+timestamp 1675431769
+transform 1 0 6600 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_187
+timestamp 1675431769
+transform 1 0 6600 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_188
+timestamp 1675431769
+transform 1 0 6600 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_189
+timestamp 1675431769
+transform 1 0 6600 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_190
+timestamp 1675431769
+transform 1 0 6600 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_191
+timestamp 1675431769
+transform 1 0 6600 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_192
+timestamp 1675431769
+transform 1 0 6600 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_193
+timestamp 1675431769
+transform 1 0 6600 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_194
+timestamp 1675431769
+transform 1 0 6600 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_195
+timestamp 1675431769
+transform 1 0 7150 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_196
+timestamp 1675431769
+transform 1 0 7150 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_197
+timestamp 1675431769
+transform 1 0 7150 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_198
+timestamp 1675431769
+transform 1 0 7150 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_199
+timestamp 1675431769
+transform 1 0 7150 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_200
+timestamp 1675431769
+transform 1 0 7150 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_201
+timestamp 1675431769
+transform 1 0 7150 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_202
+timestamp 1675431769
+transform 1 0 7150 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_203
+timestamp 1675431769
+transform 1 0 7150 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_204
+timestamp 1675431769
+transform 1 0 7150 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_205
+timestamp 1675431769
+transform 1 0 7150 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_206
+timestamp 1675431769
+transform 1 0 7150 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_207
+timestamp 1675431769
+transform 1 0 7150 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_208
+timestamp 1675431769
+transform 1 0 7150 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_209
+timestamp 1675431769
+transform 1 0 7150 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_210
+timestamp 1675431769
+transform 1 0 7700 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_211
+timestamp 1675431769
+transform 1 0 7700 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_212
+timestamp 1675431769
+transform 1 0 7700 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_213
+timestamp 1675431769
+transform 1 0 7700 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_214
+timestamp 1675431769
+transform 1 0 7700 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_215
+timestamp 1675431769
+transform 1 0 7700 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_216
+timestamp 1675431769
+transform 1 0 7700 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_217
+timestamp 1675431769
+transform 1 0 7700 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_218
+timestamp 1675431769
+transform 1 0 7700 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_219
+timestamp 1675431769
+transform 1 0 7700 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_220
+timestamp 1675431769
+transform 1 0 7700 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_221
+timestamp 1675431769
+transform 1 0 7700 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_222
+timestamp 1675431769
+transform 1 0 7700 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_223
+timestamp 1675431769
+transform 1 0 7700 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_224
+timestamp 1675431769
+transform 1 0 7700 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_225
+timestamp 1675431769
+transform 1 0 8250 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_226
+timestamp 1675431769
+transform 1 0 8250 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_227
+timestamp 1675431769
+transform 1 0 8250 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_228
+timestamp 1675431769
+transform 1 0 8250 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_229
+timestamp 1675431769
+transform 1 0 8250 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_230
+timestamp 1675431769
+transform 1 0 8250 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_231
+timestamp 1675431769
+transform 1 0 8250 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_232
+timestamp 1675431769
+transform 1 0 8250 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_233
+timestamp 1675431769
+transform 1 0 8250 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_234
+timestamp 1675431769
+transform 1 0 8250 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_235
+timestamp 1675431769
+transform 1 0 8250 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_236
+timestamp 1675431769
+transform 1 0 8250 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_237
+timestamp 1675431769
+transform 1 0 8250 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_238
+timestamp 1675431769
+transform 1 0 8250 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_239
+timestamp 1675431769
+transform 1 0 8250 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_240
+timestamp 1675431769
+transform 1 0 8800 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_241
+timestamp 1675431769
+transform 1 0 8800 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_242
+timestamp 1675431769
+transform 1 0 8800 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_243
+timestamp 1675431769
+transform 1 0 8800 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_244
+timestamp 1675431769
+transform 1 0 8800 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_245
+timestamp 1675431769
+transform 1 0 8800 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_246
+timestamp 1675431769
+transform 1 0 8800 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_247
+timestamp 1675431769
+transform 1 0 8800 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_248
+timestamp 1675431769
+transform 1 0 8800 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_249
+timestamp 1675431769
+transform 1 0 8800 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_250
+timestamp 1675431769
+transform 1 0 8800 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_251
+timestamp 1675431769
+transform 1 0 8800 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_252
+timestamp 1675431769
+transform 1 0 8800 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_253
+timestamp 1675431769
+transform 1 0 8800 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_254
+timestamp 1675431769
+transform 1 0 8800 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_255
+timestamp 1675431769
+transform 1 0 9350 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_256
+timestamp 1675431769
+transform 1 0 9350 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_257
+timestamp 1675431769
+transform 1 0 9350 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_258
+timestamp 1675431769
+transform 1 0 9350 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_259
+timestamp 1675431769
+transform 1 0 9350 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_260
+timestamp 1675431769
+transform 1 0 9350 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_261
+timestamp 1675431769
+transform 1 0 9350 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_262
+timestamp 1675431769
+transform 1 0 9350 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_263
+timestamp 1675431769
+transform 1 0 9350 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_264
+timestamp 1675431769
+transform 1 0 9350 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_265
+timestamp 1675431769
+transform 1 0 9350 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_266
+timestamp 1675431769
+transform 1 0 9350 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_267
+timestamp 1675431769
+transform 1 0 9350 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_268
+timestamp 1675431769
+transform 1 0 9350 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_269
+timestamp 1675431769
+transform 1 0 9350 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_270
+timestamp 1675431769
+transform 1 0 9900 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_271
+timestamp 1675431769
+transform 1 0 9900 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_272
+timestamp 1675431769
+transform 1 0 9900 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_273
+timestamp 1675431769
+transform 1 0 9900 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_274
+timestamp 1675431769
+transform 1 0 9900 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_275
+timestamp 1675431769
+transform 1 0 9900 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_276
+timestamp 1675431769
+transform 1 0 9900 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_277
+timestamp 1675431769
+transform 1 0 9900 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_278
+timestamp 1675431769
+transform 1 0 9900 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_279
+timestamp 1675431769
+transform 1 0 9900 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_280
+timestamp 1675431769
+transform 1 0 9900 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_281
+timestamp 1675431769
+transform 1 0 9900 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_282
+timestamp 1675431769
+transform 1 0 9900 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_283
+timestamp 1675431769
+transform 1 0 9900 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_284
+timestamp 1675431769
+transform 1 0 9900 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_285
+timestamp 1675431769
+transform 1 0 10450 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_286
+timestamp 1675431769
+transform 1 0 10450 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_287
+timestamp 1675431769
+transform 1 0 10450 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_288
+timestamp 1675431769
+transform 1 0 10450 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_289
+timestamp 1675431769
+transform 1 0 10450 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_290
+timestamp 1675431769
+transform 1 0 10450 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_291
+timestamp 1675431769
+transform 1 0 10450 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_292
+timestamp 1675431769
+transform 1 0 10450 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_293
+timestamp 1675431769
+transform 1 0 10450 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_294
+timestamp 1675431769
+transform 1 0 10450 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_295
+timestamp 1675431769
+transform 1 0 10450 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_296
+timestamp 1675431769
+transform 1 0 10450 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_297
+timestamp 1675431769
+transform 1 0 10450 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_298
+timestamp 1675431769
+transform 1 0 10450 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_299
+timestamp 1675431769
+transform 1 0 10450 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_300
+timestamp 1675431769
+transform 1 0 11000 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_301
+timestamp 1675431769
+transform 1 0 11000 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_302
+timestamp 1675431769
+transform 1 0 11000 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_303
+timestamp 1675431769
+transform 1 0 11000 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_304
+timestamp 1675431769
+transform 1 0 11000 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_305
+timestamp 1675431769
+transform 1 0 11000 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_306
+timestamp 1675431769
+transform 1 0 11000 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_307
+timestamp 1675431769
+transform 1 0 11000 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_308
+timestamp 1675431769
+transform 1 0 11000 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_309
+timestamp 1675431769
+transform 1 0 11000 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_310
+timestamp 1675431769
+transform 1 0 11000 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_311
+timestamp 1675431769
+transform 1 0 11000 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_312
+timestamp 1675431769
+transform 1 0 11000 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_313
+timestamp 1675431769
+transform 1 0 11000 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_314
+timestamp 1675431769
+transform 1 0 11000 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_315
+timestamp 1675431769
+transform 1 0 11550 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_316
+timestamp 1675431769
+transform 1 0 11550 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_317
+timestamp 1675431769
+transform 1 0 11550 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_318
+timestamp 1675431769
+transform 1 0 11550 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_319
+timestamp 1675431769
+transform 1 0 11550 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_320
+timestamp 1675431769
+transform 1 0 11550 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_321
+timestamp 1675431769
+transform 1 0 11550 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_322
+timestamp 1675431769
+transform 1 0 11550 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_323
+timestamp 1675431769
+transform 1 0 11550 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_324
+timestamp 1675431769
+transform 1 0 11550 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_325
+timestamp 1675431769
+transform 1 0 11550 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_326
+timestamp 1675431769
+transform 1 0 11550 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_327
+timestamp 1675431769
+transform 1 0 11550 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_328
+timestamp 1675431769
+transform 1 0 11550 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_329
+timestamp 1675431769
+transform 1 0 11550 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_330
+timestamp 1675431769
+transform 1 0 12100 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_331
+timestamp 1675431769
+transform 1 0 12100 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_332
+timestamp 1675431769
+transform 1 0 12100 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_333
+timestamp 1675431769
+transform 1 0 12100 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_334
+timestamp 1675431769
+transform 1 0 12100 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_335
+timestamp 1675431769
+transform 1 0 12100 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_336
+timestamp 1675431769
+transform 1 0 12100 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_337
+timestamp 1675431769
+transform 1 0 12100 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_338
+timestamp 1675431769
+transform 1 0 12100 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_339
+timestamp 1675431769
+transform 1 0 12100 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_340
+timestamp 1675431769
+transform 1 0 12100 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_341
+timestamp 1675431769
+transform 1 0 12100 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_342
+timestamp 1675431769
+transform 1 0 12100 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_343
+timestamp 1675431769
+transform 1 0 12100 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_344
+timestamp 1675431769
+transform 1 0 12100 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_345
+timestamp 1675431769
+transform 1 0 12650 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_346
+timestamp 1675431769
+transform 1 0 12650 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_347
+timestamp 1675431769
+transform 1 0 12650 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_348
+timestamp 1675431769
+transform 1 0 12650 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_349
+timestamp 1675431769
+transform 1 0 12650 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_350
+timestamp 1675431769
+transform 1 0 12650 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_351
+timestamp 1675431769
+transform 1 0 12650 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_352
+timestamp 1675431769
+transform 1 0 12650 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_353
+timestamp 1675431769
+transform 1 0 12650 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_354
+timestamp 1675431769
+transform 1 0 12650 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_355
+timestamp 1675431769
+transform 1 0 12650 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_356
+timestamp 1675431769
+transform 1 0 12650 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_357
+timestamp 1675431769
+transform 1 0 12650 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_358
+timestamp 1675431769
+transform 1 0 12650 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_359
+timestamp 1675431769
+transform 1 0 12650 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_360
+timestamp 1675431769
+transform 1 0 13200 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_361
+timestamp 1675431769
+transform 1 0 13200 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_362
+timestamp 1675431769
+transform 1 0 13200 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_363
+timestamp 1675431769
+transform 1 0 13200 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_364
+timestamp 1675431769
+transform 1 0 13200 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_365
+timestamp 1675431769
+transform 1 0 13200 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_366
+timestamp 1675431769
+transform 1 0 13200 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_367
+timestamp 1675431769
+transform 1 0 13200 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_368
+timestamp 1675431769
+transform 1 0 13200 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_369
+timestamp 1675431769
+transform 1 0 13200 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_370
+timestamp 1675431769
+transform 1 0 13200 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_371
+timestamp 1675431769
+transform 1 0 13200 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_372
+timestamp 1675431769
+transform 1 0 13200 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_373
+timestamp 1675431769
+transform 1 0 13200 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_374
+timestamp 1675431769
+transform 1 0 13200 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_375
+timestamp 1675431769
+transform 1 0 13750 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_376
+timestamp 1675431769
+transform 1 0 13750 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_377
+timestamp 1675431769
+transform 1 0 13750 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_378
+timestamp 1675431769
+transform 1 0 13750 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_379
+timestamp 1675431769
+transform 1 0 13750 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_380
+timestamp 1675431769
+transform 1 0 13750 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_381
+timestamp 1675431769
+transform 1 0 13750 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_382
+timestamp 1675431769
+transform 1 0 13750 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_383
+timestamp 1675431769
+transform 1 0 13750 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_384
+timestamp 1675431769
+transform 1 0 13750 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_385
+timestamp 1675431769
+transform 1 0 13750 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_386
+timestamp 1675431769
+transform 1 0 13750 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_387
+timestamp 1675431769
+transform 1 0 13750 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_388
+timestamp 1675431769
+transform 1 0 13750 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_389
+timestamp 1675431769
+transform 1 0 13750 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_390
+timestamp 1675431769
+transform 1 0 14300 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_391
+timestamp 1675431769
+transform 1 0 14300 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_392
+timestamp 1675431769
+transform 1 0 14300 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_393
+timestamp 1675431769
+transform 1 0 14300 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_394
+timestamp 1675431769
+transform 1 0 14300 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_395
+timestamp 1675431769
+transform 1 0 14300 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_396
+timestamp 1675431769
+transform 1 0 14300 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_397
+timestamp 1675431769
+transform 1 0 14300 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_398
+timestamp 1675431769
+transform 1 0 14300 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_399
+timestamp 1675431769
+transform 1 0 14300 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_400
+timestamp 1675431769
+transform 1 0 14300 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_401
+timestamp 1675431769
+transform 1 0 14300 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_402
+timestamp 1675431769
+transform 1 0 14300 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_403
+timestamp 1675431769
+transform 1 0 14300 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_404
+timestamp 1675431769
+transform 1 0 14300 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_405
+timestamp 1675431769
+transform 1 0 14850 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_406
+timestamp 1675431769
+transform 1 0 14850 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_407
+timestamp 1675431769
+transform 1 0 14850 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_408
+timestamp 1675431769
+transform 1 0 14850 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_409
+timestamp 1675431769
+transform 1 0 14850 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_410
+timestamp 1675431769
+transform 1 0 14850 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_411
+timestamp 1675431769
+transform 1 0 14850 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_412
+timestamp 1675431769
+transform 1 0 14850 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_413
+timestamp 1675431769
+transform 1 0 14850 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_414
+timestamp 1675431769
+transform 1 0 14850 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_415
+timestamp 1675431769
+transform 1 0 14850 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_416
+timestamp 1675431769
+transform 1 0 14850 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_417
+timestamp 1675431769
+transform 1 0 14850 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_418
+timestamp 1675431769
+transform 1 0 14850 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_419
+timestamp 1675431769
+transform 1 0 14850 0 1 15950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_420
+timestamp 1675431769
+transform 1 0 15400 0 1 0
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_421
+timestamp 1675431769
+transform 1 0 15400 0 1 1100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_422
+timestamp 1675431769
+transform 1 0 15400 0 1 2200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_423
+timestamp 1675431769
+transform 1 0 15400 0 1 3300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_424
+timestamp 1675431769
+transform 1 0 15400 0 1 4400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_425
+timestamp 1675431769
+transform 1 0 15400 0 1 5500
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_426
+timestamp 1675431769
+transform 1 0 15400 0 1 6600
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_427
+timestamp 1675431769
+transform 1 0 15400 0 1 7700
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_428
+timestamp 1675431769
+transform 1 0 15400 0 1 8800
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_429
+timestamp 1675431769
+transform 1 0 15400 0 1 9900
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_430
+timestamp 1675431769
+transform 1 0 15400 0 1 11000
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_431
+timestamp 1675431769
+transform 1 0 15400 0 1 12100
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_432
+timestamp 1675431769
+transform 1 0 15400 0 1 13200
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_433
+timestamp 1675431769
+transform 1 0 15400 0 1 14300
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_434
+timestamp 1675431769
+transform 1 0 15400 0 1 15400
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_435
+timestamp 1675431769
+transform 1 0 15950 0 1 550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_436
+timestamp 1675431769
+transform 1 0 15950 0 1 1650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_437
+timestamp 1675431769
+transform 1 0 15950 0 1 2750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_438
+timestamp 1675431769
+transform 1 0 15950 0 1 3850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_439
+timestamp 1675431769
+transform 1 0 15950 0 1 4950
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_440
+timestamp 1675431769
+transform 1 0 15950 0 1 6050
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_441
+timestamp 1675431769
+transform 1 0 15950 0 1 7150
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_442
+timestamp 1675431769
+transform 1 0 15950 0 1 8250
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_443
+timestamp 1675431769
+transform 1 0 15950 0 1 9350
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_444
+timestamp 1675431769
+transform 1 0 15950 0 1 10450
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_445
+timestamp 1675431769
+transform 1 0 15950 0 1 11550
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_446
+timestamp 1675431769
+transform 1 0 15950 0 1 12650
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_447
+timestamp 1675431769
+transform 1 0 15950 0 1 13750
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_448
+timestamp 1675431769
+transform 1 0 15950 0 1 14850
+box -113 -113 663 663
+use nmos_source_in  nmos_source_in_449
+timestamp 1675431769
+transform 1 0 15950 0 1 15950
+box -113 -113 663 663
+<< properties >>
+string MASKHINTS_HVI -140 33000 0 33140 -140 -140 0 0 33000 -140 33140 0 33000 33000 33140 33140
+string MASKHINTS_HVNTM -1007 -1107 -21 -1079 -1007 -1079 -979 -121 33121 33979 34107 34007 34079 33021 34107 33979 -170 33030 -30 33170
+<< end >>

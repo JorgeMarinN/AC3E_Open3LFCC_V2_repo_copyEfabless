@@ -1,0 +1,45 @@
+v {xschem version=3.1.0 file_version=1.2 }
+G {}
+K {type=subcircuit
+format="@spiceprefix@name @pinlist @symname"
+spiceprefix=X
+template="name=tgate1
+spiceprefix=X
+"
+}
+V {}
+S {}
+E {}
+L 4 20 -60 20 -20 {}
+L 4 20 -20 60 -40 {}
+L 4 20 -60 60 -40 {}
+L 4 60 -60 60 -20 {}
+L 4 20 -40 60 -60 {}
+L 4 20 -40 60 -20 {}
+L 4 40 -70 40 -60 {}
+L 4 40 -60 40 -57.5 {}
+L 4 40 -30 40 -20 {}
+L 4 40 -20 40 -10 {}
+L 4 10 -40 20 -40 {}
+L 4 60 -40 70 -40 {}
+B 5 37.5 -72.5 42.5 -67.5 {name=ENB
+dir=inout}
+B 5 37.5 -12.5 42.5 -7.5 {name=EN
+dir=inout}
+B 5 47.5 -72.5 52.5 -67.5 {name=VDD
+dir=inout}
+B 5 47.5 -12.5 52.5 -7.5 {name=VSS
+dir=inout}
+B 5 7.5 -42.5 12.5 -37.5 {name=I
+dir=inout}
+B 5 67.5 -42.5 72.5 -37.5 {name=O
+dir=inout}
+A 4 40 -54 3.535533905932738 225 360 {}
+T {@name} 10 -90 0 0 0.2 0.2 {}
+T {ENB} 10 -75 0 0 0.2 0.2 {layer=7}
+T {VDD} 55 -75 0 0 0.2 0.2 {layer=7}
+T {VSS} 55 -15 0 0 0.2 0.2 {layer=7}
+T {O} 65 -35 0 0 0.2 0.2 {layer=7}
+T {EN} 20 -15 0 0 0.2 0.2 {layer=7}
+T {I} 5 -35 0 0 0.2 0.2 {layer=7}
+T {@symname} 60 -90 0 0 0.2 0.2 {}

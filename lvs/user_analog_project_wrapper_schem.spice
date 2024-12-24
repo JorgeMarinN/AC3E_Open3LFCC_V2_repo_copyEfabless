@@ -1,0 +1,359 @@
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/user_analog_project_wrapper.sch
+.subckt user_analog_project_wrapper vdda1 vdda2 vssa1 vssa2 vccd1 vccd2 vssd1 vssd2 wb_clk_i
++ wb_rst_i wbs_stb_i wbs_cyc_i wbs_we_i wbs_sel_i[3] wbs_sel_i[2] wbs_sel_i[1] wbs_sel_i[0] wbs_dat_i[31]
++ wbs_dat_i[30] wbs_dat_i[29] wbs_dat_i[28] wbs_dat_i[27] wbs_dat_i[26] wbs_dat_i[25] wbs_dat_i[24] wbs_dat_i[23]
++ wbs_dat_i[22] wbs_dat_i[21] wbs_dat_i[20] wbs_dat_i[19] wbs_dat_i[18] wbs_dat_i[17] wbs_dat_i[16] wbs_dat_i[15]
++ wbs_dat_i[14] wbs_dat_i[13] wbs_dat_i[12] wbs_dat_i[11] wbs_dat_i[10] wbs_dat_i[9] wbs_dat_i[8] wbs_dat_i[7]
++ wbs_dat_i[6] wbs_dat_i[5] wbs_dat_i[4] wbs_dat_i[3] wbs_dat_i[2] wbs_dat_i[1] wbs_dat_i[0] wbs_adr_i[31]
++ wbs_adr_i[30] wbs_adr_i[29] wbs_adr_i[28] wbs_adr_i[27] wbs_adr_i[26] wbs_adr_i[25] wbs_adr_i[24] wbs_adr_i[23]
++ wbs_adr_i[22] wbs_adr_i[21] wbs_adr_i[20] wbs_adr_i[19] wbs_adr_i[18] wbs_adr_i[17] wbs_adr_i[16] wbs_adr_i[15]
++ wbs_adr_i[14] wbs_adr_i[13] wbs_adr_i[12] wbs_adr_i[11] wbs_adr_i[10] wbs_adr_i[9] wbs_adr_i[8] wbs_adr_i[7]
++ wbs_adr_i[6] wbs_adr_i[5] wbs_adr_i[4] wbs_adr_i[3] wbs_adr_i[2] wbs_adr_i[1] wbs_adr_i[0] wbs_ack_o
++ wbs_dat_o[31] wbs_dat_o[30] wbs_dat_o[29] wbs_dat_o[28] wbs_dat_o[27] wbs_dat_o[26] wbs_dat_o[25] wbs_dat_o[24]
++ wbs_dat_o[23] wbs_dat_o[22] wbs_dat_o[21] wbs_dat_o[20] wbs_dat_o[19] wbs_dat_o[18] wbs_dat_o[17] wbs_dat_o[16]
++ wbs_dat_o[15] wbs_dat_o[14] wbs_dat_o[13] wbs_dat_o[12] wbs_dat_o[11] wbs_dat_o[10] wbs_dat_o[9] wbs_dat_o[8]
++ wbs_dat_o[7] wbs_dat_o[6] wbs_dat_o[5] wbs_dat_o[4] wbs_dat_o[3] wbs_dat_o[2] wbs_dat_o[1] wbs_dat_o[0]
++ la_data_in[127] la_data_in[126] la_data_in[125] la_data_in[124] la_data_in[123] la_data_in[122] la_data_in[121]
++ la_data_in[120] la_data_in[119] la_data_in[118] la_data_in[117] la_data_in[116] la_data_in[115] la_data_in[114]
++ la_data_in[113] la_data_in[112] la_data_in[111] la_data_in[110] la_data_in[109] la_data_in[108] la_data_in[107]
++ la_data_in[106] la_data_in[105] la_data_in[104] la_data_in[103] la_data_in[102] la_data_in[101] la_data_in[100]
++ la_data_in[99] la_data_in[98] la_data_in[97] la_data_in[96] la_data_in[95] la_data_in[94] la_data_in[93]
++ la_data_in[92] la_data_in[91] la_data_in[90] la_data_in[89] la_data_in[88] la_data_in[87] la_data_in[86]
++ la_data_in[85] la_data_in[84] la_data_in[83] la_data_in[82] la_data_in[81] la_data_in[80] la_data_in[79]
++ la_data_in[78] la_data_in[77] la_data_in[76] la_data_in[75] la_data_in[74] la_data_in[73] la_data_in[72]
++ la_data_in[71] la_data_in[70] la_data_in[69] la_data_in[68] la_data_in[67] la_data_in[66] la_data_in[65]
++ la_data_in[64] la_data_in[63] la_data_in[62] la_data_in[61] la_data_in[60] la_data_in[59] la_data_in[58]
++ la_data_in[57] la_data_in[56] la_data_in[55] la_data_in[54] la_data_in[53] la_data_in[52] la_data_in[51]
++ la_data_in[50] la_data_in[49] la_data_in[48] la_data_in[47] la_data_in[46] la_data_in[45] la_data_in[44]
++ la_data_in[43] la_data_in[42] la_data_in[41] la_data_in[40] la_data_in[39] la_data_in[38] la_data_in[37]
++ la_data_in[36] la_data_in[35] la_data_in[34] la_data_in[33] la_data_in[32] la_data_in[31] la_data_in[30]
++ la_data_in[29] la_data_in[28] la_data_in[27] la_data_in[26] la_data_in[25] la_data_in[24] la_data_in[23]
++ la_data_in[22] la_data_in[21] la_data_in[20] la_data_in[19] la_data_in[18] la_data_in[17] la_data_in[16]
++ la_data_in[15] la_data_in[14] la_data_in[13] la_data_in[12] la_data_in[11] la_data_in[10] la_data_in[9]
++ la_data_in[8] la_data_in[7] la_data_in[6] la_data_in[5] la_data_in[4] la_data_in[3] la_data_in[2] la_data_in[1]
++ la_data_in[0] la_data_out[127] la_data_out[126] la_data_out[125] la_data_out[124] la_data_out[123]
++ la_data_out[122] la_data_out[121] la_data_out[120] la_data_out[119] la_data_out[118] la_data_out[117]
++ la_data_out[116] la_data_out[115] la_data_out[114] la_data_out[113] la_data_out[112] la_data_out[111]
++ la_data_out[110] la_data_out[109] la_data_out[108] la_data_out[107] la_data_out[106] la_data_out[105]
++ la_data_out[104] la_data_out[103] la_data_out[102] la_data_out[101] la_data_out[100] la_data_out[99] la_data_out[98]
++ la_data_out[97] la_data_out[96] la_data_out[95] la_data_out[94] la_data_out[93] la_data_out[92] la_data_out[91]
++ la_data_out[90] la_data_out[89] la_data_out[88] la_data_out[87] la_data_out[86] la_data_out[85] la_data_out[84]
++ la_data_out[83] la_data_out[82] la_data_out[81] la_data_out[80] la_data_out[79] la_data_out[78] la_data_out[77]
++ la_data_out[76] la_data_out[75] la_data_out[74] la_data_out[73] la_data_out[72] la_data_out[71] la_data_out[70]
++ la_data_out[69] la_data_out[68] la_data_out[67] la_data_out[66] la_data_out[65] la_data_out[64] la_data_out[63]
++ la_data_out[62] la_data_out[61] la_data_out[60] la_data_out[59] la_data_out[58] la_data_out[57] la_data_out[56]
++ la_data_out[55] la_data_out[54] la_data_out[53] la_data_out[52] la_data_out[51] la_data_out[50] la_data_out[49]
++ la_data_out[48] la_data_out[47] la_data_out[46] la_data_out[45] la_data_out[44] la_data_out[43] la_data_out[42]
++ la_data_out[41] la_data_out[40] la_data_out[39] la_data_out[38] la_data_out[37] la_data_out[36] la_data_out[35]
++ la_data_out[34] la_data_out[33] la_data_out[32] la_data_out[31] la_data_out[30] la_data_out[29] la_data_out[28]
++ la_data_out[27] la_data_out[26] la_data_out[25] la_data_out[24] la_data_out[23] la_data_out[22] la_data_out[21]
++ la_data_out[20] la_data_out[19] la_data_out[18] la_data_out[17] la_data_out[16] la_data_out[15] la_data_out[14]
++ la_data_out[13] la_data_out[12] la_data_out[11] la_data_out[10] la_data_out[9] la_data_out[8] la_data_out[7]
++ la_data_out[6] la_data_out[5] la_data_out[4] la_data_out[3] la_data_out[2] la_data_out[1] la_data_out[0] io_in[26]
++ io_in[25] io_in[24] io_in[23] io_in[22] io_in[21] io_in[20] io_in[19] io_in[18] io_in[17] io_in[16] io_in[15]
++ io_in[14] io_in[13] io_in[12] io_in[11] io_in[10] io_in[9] io_in[8] io_in[7] io_in[6] io_in[5] io_in[4]
++ io_in[3] io_in[2] io_in[1] io_in[0] io_in_3v3[26] io_in_3v3[25] io_in_3v3[24] io_in_3v3[23] io_in_3v3[22]
++ io_in_3v3[21] io_in_3v3[20] io_in_3v3[19] io_in_3v3[18] io_in_3v3[17] io_in_3v3[16] io_in_3v3[15] io_in_3v3[14]
++ io_in_3v3[13] io_in_3v3[12] io_in_3v3[11] io_in_3v3[10] io_in_3v3[9] io_in_3v3[8] io_in_3v3[7] io_in_3v3[6]
++ io_in_3v3[5] io_in_3v3[4] io_in_3v3[3] io_in_3v3[2] io_in_3v3[1] io_in_3v3[0] user_clock2 io_out[26] io_out[25]
++ io_out[24] io_out[23] io_out[22] io_out[21] io_out[20] io_out[19] io_out[18] io_out[17] io_out[16] io_out[15]
++ io_out[14] io_out[13] io_out[12] io_out[11] io_out[10] io_out[9] io_out[8] io_out[7] io_out[6] io_out[5]
++ io_out[4] io_out[3] io_out[2] io_out[1] io_out[0] io_oeb[26] io_oeb[25] io_oeb[24] io_oeb[23] io_oeb[22]
++ io_oeb[21] io_oeb[20] io_oeb[19] io_oeb[18] io_oeb[17] io_oeb[16] io_oeb[15] io_oeb[14] io_oeb[13] io_oeb[12]
++ io_oeb[11] io_oeb[10] io_oeb[9] io_oeb[8] io_oeb[7] io_oeb[6] io_oeb[5] io_oeb[4] io_oeb[3] io_oeb[2]
++ io_oeb[1] io_oeb[0] gpio_analog[17] gpio_analog[16] gpio_analog[15] gpio_analog[14] gpio_analog[13]
++ gpio_analog[12] gpio_analog[11] gpio_analog[10] gpio_analog[9] gpio_analog[8] gpio_analog[7] gpio_analog[6]
++ gpio_analog[5] gpio_analog[4] gpio_analog[3] gpio_analog[2] gpio_analog[1] gpio_analog[0] gpio_noesd[17]
++ gpio_noesd[16] gpio_noesd[15] gpio_noesd[14] gpio_noesd[13] gpio_noesd[12] gpio_noesd[11] gpio_noesd[10]
++ gpio_noesd[9] gpio_noesd[8] gpio_noesd[7] gpio_noesd[6] gpio_noesd[5] gpio_noesd[4] gpio_noesd[3] gpio_noesd[2]
++ gpio_noesd[1] gpio_noesd[0] io_analog[10] io_analog[9] io_analog[8] io_analog[7] io_analog[6] io_analog[5]
++ io_analog[4] io_analog[3] io_analog[2] io_analog[1] io_analog[0] io_clamp_high[2] io_clamp_high[1]
++ io_clamp_high[0] io_clamp_low[2] io_clamp_low[1] io_clamp_low[0] user_irq[2] user_irq[1] user_irq[0] la_oenb[127]
++ la_oenb[126] la_oenb[125] la_oenb[124] la_oenb[123] la_oenb[122] la_oenb[121] la_oenb[120] la_oenb[119]
++ la_oenb[118] la_oenb[117] la_oenb[116] la_oenb[115] la_oenb[114] la_oenb[113] la_oenb[112] la_oenb[111]
++ la_oenb[110] la_oenb[109] la_oenb[108] la_oenb[107] la_oenb[106] la_oenb[105] la_oenb[104] la_oenb[103]
++ la_oenb[102] la_oenb[101] la_oenb[100] la_oenb[99] la_oenb[98] la_oenb[97] la_oenb[96] la_oenb[95] la_oenb[94]
++ la_oenb[93] la_oenb[92] la_oenb[91] la_oenb[90] la_oenb[89] la_oenb[88] la_oenb[87] la_oenb[86] la_oenb[85]
++ la_oenb[84] la_oenb[83] la_oenb[82] la_oenb[81] la_oenb[80] la_oenb[79] la_oenb[78] la_oenb[77] la_oenb[76]
++ la_oenb[75] la_oenb[74] la_oenb[73] la_oenb[72] la_oenb[71] la_oenb[70] la_oenb[69] la_oenb[68] la_oenb[67]
++ la_oenb[66] la_oenb[65] la_oenb[64] la_oenb[63] la_oenb[62] la_oenb[61] la_oenb[60] la_oenb[59] la_oenb[58]
++ la_oenb[57] la_oenb[56] la_oenb[55] la_oenb[54] la_oenb[53] la_oenb[52] la_oenb[51] la_oenb[50] la_oenb[49]
++ la_oenb[48] la_oenb[47] la_oenb[46] la_oenb[45] la_oenb[44] la_oenb[43] la_oenb[42] la_oenb[41] la_oenb[40]
++ la_oenb[39] la_oenb[38] la_oenb[37] la_oenb[36] la_oenb[35] la_oenb[34] la_oenb[33] la_oenb[32] la_oenb[31]
++ la_oenb[30] la_oenb[29] la_oenb[28] la_oenb[27] la_oenb[26] la_oenb[25] la_oenb[24] la_oenb[23] la_oenb[22]
++ la_oenb[21] la_oenb[20] la_oenb[19] la_oenb[18] la_oenb[17] la_oenb[16] la_oenb[15] la_oenb[14] la_oenb[13]
++ la_oenb[12] la_oenb[11] la_oenb[10] la_oenb[9] la_oenb[8] la_oenb[7] la_oenb[6] la_oenb[5] la_oenb[4]
++ la_oenb[3] la_oenb[2] la_oenb[1] la_oenb[0]
+*.PININFO vdda1:B vdda2:B vssa1:B vssa2:B vccd1:B vccd2:B vssd1:B vssd2:B wb_clk_i:I wb_rst_i:I
+*+ wbs_stb_i:I wbs_cyc_i:I wbs_we_i:I wbs_sel_i[3:0]:I wbs_dat_i[31:0]:I wbs_adr_i[31:0]:I wbs_ack_o:O
+*+ wbs_dat_o[31:0]:O la_data_in[127:0]:I la_data_out[127:0]:O io_in[26:0]:I io_in_3v3[26:0]:I user_clock2:I
+*+ io_out[26:0]:O io_oeb[26:0]:O gpio_analog[17:0]:B gpio_noesd[17:0]:B io_analog[10:0]:B io_clamp_high[2:0]:B
+*+ io_clamp_low[2:0]:B user_irq[2:0]:O la_oenb[127:0]:I
+X1 vccd2 c1d2 c1d1 io_analog[3] io_analog[7] io_analog[5] c1d3 c1d4 io_analog[4] io_analog[6]
++ io_analog[9] converter_1
+X2 vccd2 c2d2 c2d1 io_analog[3] io_analog[7] io_analog[5] c2d3 c2d4 io_analog[4] io_analog[6]
++ io_analog[9] converter_2
+XMOD1 io_in[26] user_clock2 io_in[25] io_in[8] c1d3 c2d3 c1d4 c2d4 c3d2 c1d1 c2d1 c1d2 c2d2 c3d1
++ io_in[24] io_out[7] io_analog[7] vccd2 io_in[18] io_in[19] io_in[20] io_in[21] io_in[22] io_in[23] io_in[9]
++ io_in[10] io_in[14] io_in[15] io_in[16] io_in[17] modulator
+R1 io_analog[3] io_analog[2] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R2 io_analog[8] io_analog[7] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R3 vccd2 io_oeb[0] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R4 vccd2 io_oeb[1] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R5 vccd2 io_oeb[2] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R6 vccd2 io_oeb[3] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R7 vccd2 io_oeb[4] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R8 vccd2 io_oeb[5] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R9 vssd2 io_oeb[6] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R10 vccd2 io_oeb[8] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R11 vccd2 io_oeb[9] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R12 vccd2 io_oeb[10] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R13 vccd2 io_oeb[11] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R14 vccd2 io_oeb[12] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R15 vccd2 io_oeb[13] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R16 vccd2 io_oeb[14] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R17 vccd2 io_oeb[15] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R18 vccd2 io_oeb[16] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R19 vssd2 io_oeb[7] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R20 vccd2 io_oeb[17] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R21 vccd2 io_oeb[18] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R22 vccd2 io_oeb[19] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R23 vccd2 io_oeb[20] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R24 vccd2 io_oeb[21] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R25 vccd2 io_oeb[22] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R26 vccd2 io_oeb[23] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R27 vccd2 io_oeb[24] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R28 vccd2 io_oeb[25] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+R29 vccd2 io_oeb[26] sky130_fd_pr__res_generic_m3 W=1 L=1 m=1
+x3 io_analog[9] io_analog[3] io_analog[5] vccd2 io_in[11] io_analog[7] c3d2 converter_3
+**** begin user architecture code
+
+
+.include modulator.spice
+*.include riscv.spice
+
+
+
+
+.include /foss/pdks/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice
+
+
+**** end user architecture code
+.ends
+
+* expanding   symbol:  converter_1.sym # of pins=11
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/converter_1.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/converter_1.sch
+.subckt converter_1 V1v8 D2 D1 V5v0PS GND VOUT D3 D4 FC1 FC2 V5v0LS
+*.PININFO V5v0PS:B D2:I D3:I D4:I GND:B V5v0LS:B FC1:B FC2:B V1v8:B D1:I VOUT:B
+x4 V5v0LS V1v8 net4 D4 GND level_shifter
+x3 V5v0LS V1v8 net3 D3 GND level_shifter
+x2 V5v0LS V1v8 net2 D2 GND level_shifter
+x1 V5v0LS V1v8 net1 D1 GND level_shifter
+X5 net1 net2 net3 net4 FC1 FC2 VOUT V5v0PS GND power_stage_1
+.ends
+
+
+* expanding   symbol:  converter_2.sym # of pins=11
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/converter_2.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/converter_2.sch
+.subckt converter_2 V1v8 D2 D1 V5v0PS GND VOUT D3 D4 FC1 FC2 V5v0LS
+*.PININFO V5v0PS:B D1:I D2:I D3:I D4:I V1v8:B GND:B V5v0LS:B FC1:B FC2:B VOUT:B
+x4 V5v0LS V1v8 net4 D4 GND level_shifter
+x3 V5v0LS V1v8 net3 D3 GND level_shifter
+x2 V5v0LS V1v8 net2 D2 GND level_shifter
+x1 V5v0LS V1v8 net1 D1 GND level_shifter
+X5 net1 net2 net3 net4 FC1 FC2 VOUT V5v0PS GND power_stage_2
+.ends
+
+
+* expanding   symbol:  converter_3.sym # of pins=7
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/converter_3.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/converter_3.sch
+.subckt converter_3 V5v0LS V10v0 Vout V1v8 D1 GND D2
+*.PININFO V5v0LS:B V1v8:B GND:B D1:B Vout:B V10v0:B D2:B
+x1 Vboot S1 Vout V5v0LS V1v8 GND D1 driver_bootstrap
+D3 V5v0LS Vboot sky130_fd_pr__diode_pw2nd_05v5 area=1e12 pj=4e6
+XC1 Vout Vboot sky130_fd_pr__cap_mim_m3_2 W=210 L=420 m=1
+x2 V10v0 S1 Vout S2 GND power_stage_3
+x3 V5v0LS V1v8 S2 D2 GND level_shifter
+XC2 Vboot Vout sky130_fd_pr__cap_mim_m3_1 W=210 L=420 m=1
+.ends
+
+
+* expanding   symbol:  level_shifter.sym # of pins=5
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/level_shifter.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/level_shifter.sch
+.subckt level_shifter V5v0 V1v8 OUT IN V0v0
+*.PININFO IN:I V1v8:B V5v0:B OUT:O V0v0:B
+XM11 net1 IN V1v8 V1v8 sky130_fd_pr__pfet_01v8 L=0.15 W=1 nf=1 m=5
+XM12 net1 IN V0v0 V0v0 sky130_fd_pr__nfet_01v8 L=0.15 W=1 nf=1 m=5
+XM15 net2 net3 V5v0 V5v0 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=2 nf=1 m=1
+XM14 net3 net2 V5v0 V5v0 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=2 nf=1 m=1
+XM16 net4 net2 V5v0 V5v0 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=10 nf=1 m=10
+XM18 net2 net1 V0v0 V0v0 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4 nf=1 m=3
+XM13 net3 IN V0v0 V0v0 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4 nf=1 m=3
+XM17 net4 IN V0v0 V0v0 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=10 nf=1 m=10
+XM7 OUT net4 V5v0 V5v0 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=20 nf=1 m=20
+XM10 OUT net4 V0v0 V0v0 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=20 nf=1 m=20
+.ends
+
+
+* expanding   symbol:  power_stage_1.sym # of pins=9
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/power_stage_1.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/power_stage_1.sch
+.subckt power_stage_1 S1 S2 S3 S4 FC1 FC2 VOUT VDD VSS
+*.PININFO VDD:B S1:I S2:I VOUT:B S3:I S4:I VSS:B FC1:B FC2:B
+XM2 VOUT S2 FC1 FC1 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=4512
+XM1 FC1 S1 VDD VDD sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=4512
+XM3 VOUT S3 FC2 FC2 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=1984
+XM4 FC2 S4 VSS VSS sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=1984
+.ends
+
+
+* expanding   symbol:  power_stage_2.sym # of pins=9
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/power_stage_2.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/power_stage_2.sch
+.subckt power_stage_2 S1 S2 S3 S4 FC1 FC2 VOUT VDD VSS
+*.PININFO VDD:B S1:I S2:I VOUT:B S3:I S4:I VSS:B FC1:B FC2:B
+XM2 VOUT S2 FC1 FC1 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=1300
+XM1 FC1 S1 VDD VDD sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=1300
+XM3 VOUT S3 FC2 FC2 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=364
+XM4 FC2 S4 VSS VSS sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=364
+.ends
+
+
+* expanding   symbol:  driver_bootstrap.sym # of pins=7
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/driver_bootstrap.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/driver_bootstrap.sch
+.subckt driver_bootstrap Vboot Gate Source V5v0LS V1v8 GND DIN
+*.PININFO Gate:B V5v0LS:B DIN:B V1v8:B GND:B Source:B Vboot:B
+x3 Vboot V5v0LS SET RESET GND VFE VRE boot_ls_stage
+x2 V1v8 GND VFE DIN VRE short_pulse_generator
+x1 Vboot Gate Source QN Q buffer
+x4 Vboot RESET QN Q Source nand_5v
+x5 Vboot SET Q QN Source nand_5v
+.ends
+
+
+* expanding   symbol:  power_stage_3.sym # of pins=5
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/power_stage_3.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/power_stage_3.sch
+.subckt power_stage_3 VDD S1 Vout S2 VSS
+*.PININFO S1:B Vout:B VDD:B VSS:B S2:B
+XM1 VDD S1 Vout Vout sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=2520
+XM2 Vout S2 VSS VSS sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=2520
+.ends
+
+
+* expanding   symbol:  boot_ls_stage.sym # of pins=7
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/boot_ls_stage.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/boot_ls_stage.sch
+.subckt boot_ls_stage Vboot V5v0LS SET RESET GND VFE VRE
+*.PININFO V5v0LS:B GND:B Vboot:B VFE:B VRE:B SET:B RESET:B
+XM7 net1 RESET Vboot Vboot sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=1 nf=1 m=1
+XM8 SET SET net1 net1 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=1 nf=1 m=1
+XM4 RESET SET Vboot Vboot sky130_fd_pr__pfet_g5v0d10v5 L=1 W=5 nf=1 m=1
+XM3 SET SET Vboot Vboot sky130_fd_pr__pfet_g5v0d10v5 L=1 W=0.5 nf=1 m=1
+XM9 net3 SET Vboot Vboot sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=1 nf=1 m=1
+XM10 RESET RESET net3 net3 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=1 nf=1 m=1
+XM5 SET RESET Vboot Vboot sky130_fd_pr__pfet_g5v0d10v5 L=1 W=5 nf=1 m=1
+XM6 RESET RESET Vboot Vboot sky130_fd_pr__pfet_g5v0d10v5 L=1 W=0.5 nf=1 m=1
+XM11 net4 net4 GND GND sky130_fd_pr__nfet_g5v0d10v5 L=2 W=4 nf=1 m=1
+XM12 net2 net4 GND GND sky130_fd_pr__nfet_g5v0d10v5 L=2 W=4 nf=1 m=2
+XM1 SET VRE net2 net2 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=1 nf=1 m=6
+XM2 RESET VFE net2 net2 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=1 nf=1 m=6
+XR1 net5 V5v0LS GND sky130_fd_pr__res_xhigh_po_0p35 L=2.612 mult=1 m=1
+XR2 net6 net5 GND sky130_fd_pr__res_xhigh_po_0p35 L=2.612 mult=1 m=1
+XR3 net7 net6 GND sky130_fd_pr__res_xhigh_po_0p35 L=2.612 mult=1 m=1
+XR4 net8 net7 GND sky130_fd_pr__res_xhigh_po_0p35 L=2.612 mult=1 m=1
+XR5 net4 net8 GND sky130_fd_pr__res_xhigh_po_0p35 L=2.612 mult=1 m=1
+.ends
+
+
+* expanding   symbol:  short_pulse_generator.sym # of pins=5
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/short_pulse_generator.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/short_pulse_generator.sch
+.subckt short_pulse_generator VCC VSS VFE VIN VRE
+*.PININFO VIN:B VFE:B VRE:B VCC:B VSS:B
+x3 net3 VSS VSS VCC VCC predly sky130_fd_sc_hd__inv_1
+x4 predly VSS VSS VCC VCC net2 sky130_fd_sc_hd__inv_1
+x5 dly8 VSS VSS VCC VCC net1 sky130_fd_sc_hd__inv_1
+x6 VIN VSS VSS VCC VCC net3 sky130_fd_sc_hd__inv_2
+x7 predly VSS VSS VCC VCC V_gatein sky130_fd_sc_hd__inv_8
+x8 net2 dly8 VSS VSS VCC VCC VFE sky130_fd_sc_hd__and2_2
+x9 net1 predly VSS VSS VCC VCC VRE sky130_fd_sc_hd__and2_2
+x2 dly7 VSS VSS VCC VCC dly8 sky130_fd_sc_hd__inv_1
+x10[0] V_gatein VSS VSS VCC VCC n2 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[1] n2 VSS VSS VCC VCC n3 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[2] n3 VSS VSS VCC VCC n4 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[3] n4 VSS VSS VCC VCC n5 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[4] n5 VSS VSS VCC VCC n6 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[5] n6 VSS VSS VCC VCC n7 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[6] n7 VSS VSS VCC VCC n8 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[7] n8 VSS VSS VCC VCC n9 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[8] n9 VSS VSS VCC VCC n10 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[9] n10 VSS VSS VCC VCC n11 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[10] n11 VSS VSS VCC VCC n12 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[11] n12 VSS VSS VCC VCC n13 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[12] n13 VSS VSS VCC VCC n14 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[13] n14 VSS VSS VCC VCC n15 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[14] n15 VSS VSS VCC VCC n16 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[15] n16 VSS VSS VCC VCC n17 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[16] n17 VSS VSS VCC VCC n18 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[17] n18 VSS VSS VCC VCC n19 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[18] n19 VSS VSS VCC VCC n20 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[19] n20 VSS VSS VCC VCC n21 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[20] n21 VSS VSS VCC VCC n22 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[21] n22 VSS VSS VCC VCC n23 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[22] n23 VSS VSS VCC VCC n24 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[23] n24 VSS VSS VCC VCC n25 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[24] n25 VSS VSS VCC VCC n26 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[25] n26 VSS VSS VCC VCC n27 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[26] n27 VSS VSS VCC VCC n28 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[27] n28 VSS VSS VCC VCC n29 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[28] n29 VSS VSS VCC VCC n30 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[29] n30 VSS VSS VCC VCC n31 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[30] n31 VSS VSS VCC VCC n32 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[31] n32 VSS VSS VCC VCC n33 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[32] n33 VSS VSS VCC VCC n34 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[33] n34 VSS VSS VCC VCC n35 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[34] n35 VSS VSS VCC VCC n36 sky130_fd_sc_hd__clkdlybuf4s50_2
+x10[35] n36 VSS VSS VCC VCC dly7 sky130_fd_sc_hd__clkdlybuf4s50_2
+**** begin user architecture code
+
+
+*.lib /foss/pdks/sky130A/libs.tech/ngspice/sky130.lib.spice TT
+*.include /foss/pdks/sky130A/libs.ref/sky130_fd_sc_hd/spice/sky130_fd_sc_hd.spice
+
+
+**** end user architecture code
+.ends
+
+
+* expanding   symbol:  buffer.sym # of pins=5
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/buffer.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/buffer.sch
+.subckt buffer VDD VOUT VSS QN Q
+*.PININFO VDD:B VSS:B Q:B QN:B VOUT:B
+XM15 net2 net1 VDD VDD sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=3 nf=1 m=1
+XM13 net1 net2 VDD VDD sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=1 nf=1 m=1
+XM17 VOUT net2 VDD VDD sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=10.84 nf=1 m=18
+XM14 net1 Q VSS VSS sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=3 nf=1 m=1
+XM16 net2 QN VSS VSS sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=3 nf=1 m=1
+XM18 VOUT net2 VSS VSS sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4 nf=1 m=18
+.ends
+
+
+* expanding   symbol:  nand_5v.sym # of pins=5
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/nand_5v.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/nand_5v.sch
+.subckt nand_5v VDD A B NAND VSS
+*.PININFO VSS:B VDD:B A:B B:B NAND:B
+XM25 net1 B VSS VSS sky130_fd_pr__nfet_g5v0d10v5 L=3 W=5 nf=1 m=1
+XM26 NAND A net1 VSS sky130_fd_pr__nfet_g5v0d10v5 L=3 W=5 nf=1 m=1
+XM27 NAND A VDD VDD sky130_fd_pr__pfet_g5v0d10v5 L=3 W=5 nf=1 m=1
+XM28 NAND B VDD VDD sky130_fd_pr__pfet_g5v0d10v5 L=3 W=5 nf=1 m=1
+.ends
+
+.end

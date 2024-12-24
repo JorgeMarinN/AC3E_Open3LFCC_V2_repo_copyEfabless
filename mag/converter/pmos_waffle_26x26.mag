@@ -1,0 +1,3514 @@
+magic
+tech sky130A
+timestamp 1699286806
+<< checkpaint >>
+rect -6555 -6605 19805 19755
+<< nwell >>
+rect -1125 13200 0 14325
+rect 13200 13200 14375 14325
+rect -1125 -1175 0 0
+rect 13200 -1175 14375 0
+<< pwell >>
+rect -5925 14325 19175 19125
+rect -5925 -1175 -1125 14325
+rect 14375 -1175 19175 14325
+rect -5925 -5975 19175 -1175
+<< mvpmos >>
+rect 13200 13231 13250 13669
+rect -469 -50 -31 0
+rect 13281 -50 13719 0
+rect 13200 -519 13250 -81
+<< mvpdiff >>
+rect 13279 13669 13721 13671
+rect -29 13663 0 13669
+rect -29 13264 -23 13663
+rect -64 13237 -23 13264
+rect -6 13237 0 13663
+rect -64 13231 0 13237
+rect 13197 13231 13200 13669
+rect 13250 13663 13721 13669
+rect 13250 13237 13256 13663
+rect 13273 13615 13721 13663
+rect 13273 13285 13335 13615
+rect 13665 13285 13721 13615
+rect 13273 13237 13721 13285
+rect 13250 13231 13721 13237
+rect -64 13229 -31 13231
+rect -469 13223 -31 13229
+rect -469 13206 -463 13223
+rect -37 13206 -31 13223
+rect -469 13200 -31 13206
+rect 13279 13229 13721 13231
+rect 13281 13223 13719 13229
+rect 13281 13206 13287 13223
+rect 13713 13206 13719 13223
+rect 13281 13200 13719 13206
+rect -469 0 -31 3
+rect 13281 0 13719 3
+rect -469 -56 -31 -50
+rect -469 -73 -463 -56
+rect -37 -73 -31 -56
+rect -469 -79 -31 -73
+rect -471 -81 -29 -79
+rect 13281 -56 13719 -50
+rect 13281 -73 13287 -56
+rect 13713 -73 13719 -56
+rect 13281 -79 13719 -73
+rect 13281 -81 13314 -79
+rect -471 -87 0 -81
+rect -471 -135 -23 -87
+rect -471 -465 -415 -135
+rect -85 -465 -23 -135
+rect -471 -513 -23 -465
+rect -6 -513 0 -87
+rect -471 -519 0 -513
+rect 13197 -519 13200 -81
+rect 13250 -87 13314 -81
+rect 13250 -513 13256 -87
+rect 13273 -114 13314 -87
+rect 13273 -513 13279 -114
+rect 13250 -519 13279 -513
+rect -471 -521 -29 -519
+<< mvpdiffc >>
+rect -23 13237 -6 13663
+rect 13256 13237 13273 13663
+rect -463 13206 -37 13223
+rect 13287 13206 13713 13223
+rect -463 -73 -37 -56
+rect 13287 -73 13713 -56
+rect -23 -513 -6 -87
+rect 13256 -513 13273 -87
+<< mvpsubdiff >>
+rect -5525 18713 18775 18725
+rect -5525 -5563 -5513 18713
+rect -1537 14725 14787 14737
+rect -1537 -1575 -1525 14725
+rect 14775 -1575 14787 14725
+rect -1537 -1587 14787 -1575
+rect 18763 -5563 18775 18713
+rect -5525 -5575 18775 -5563
+<< mvnsubdiff >>
+rect -1025 14213 0 14225
+rect -1025 13217 -1013 14213
+rect -17 13937 0 14213
+rect -737 13925 0 13937
+rect 13200 14213 14275 14225
+rect 13200 13925 13987 13937
+rect -737 13217 -725 13925
+rect -1025 13200 -725 13217
+rect 13335 13603 13665 13615
+rect 13335 13297 13347 13603
+rect 13653 13297 13665 13603
+rect 13335 13285 13665 13297
+rect 13975 13217 13987 13925
+rect 14263 13217 14275 14213
+rect 13975 13200 14275 13217
+rect -1025 -1063 -1013 0
+rect -737 -775 -725 0
+rect -415 -147 -85 -135
+rect -415 -453 -403 -147
+rect -97 -453 -85 -147
+rect -415 -465 -85 -453
+rect 13975 -775 13987 0
+rect -737 -787 0 -775
+rect -17 -1063 0 -787
+rect -1025 -1075 0 -1063
+rect 13200 -787 13987 -775
+rect 14263 -1063 14275 0
+rect 13200 -1075 14275 -1063
+<< mvpsubdiffcont >>
+rect -5513 14737 18763 18713
+rect -5513 -1587 -1537 14737
+rect 14787 -1587 18763 14737
+rect -5513 -5563 18763 -1587
+<< mvnsubdiffcont >>
+rect -1013 13937 -17 14213
+rect -1013 13217 -737 13937
+rect 13200 13937 14263 14213
+rect 13347 13297 13653 13603
+rect 13987 13217 14263 13937
+rect -1013 -787 -737 0
+rect -403 -453 -97 -147
+rect -1013 -1063 -17 -787
+rect 13987 -787 14263 0
+rect 13200 -1063 14263 -787
+<< poly >>
+rect -550 13742 0 13750
+rect -550 13708 -542 13742
+rect -508 13708 0 13742
+rect -550 13700 0 13708
+rect 13200 13742 13800 13750
+rect 13200 13708 13208 13742
+rect 13242 13708 13758 13742
+rect 13792 13708 13800 13742
+rect 13200 13700 13800 13708
+rect -550 13200 -500 13700
+rect 13200 13669 13250 13700
+rect 13200 13200 13250 13231
+rect 13750 13200 13800 13700
+rect -550 -8 -469 0
+rect -550 -42 -542 -8
+rect -508 -42 -469 -8
+rect -550 -50 -469 -42
+rect -31 -50 0 0
+rect 13200 -8 13281 0
+rect 13200 -42 13208 -8
+rect 13242 -42 13281 -8
+rect 13200 -50 13281 -42
+rect 13719 -8 13800 0
+rect 13719 -42 13758 -8
+rect 13792 -42 13800 -8
+rect 13719 -50 13800 -42
+rect -550 -550 -500 -50
+rect 13200 -81 13250 -50
+rect 13200 -550 13250 -519
+rect 13750 -550 13800 -50
+rect -550 -558 0 -550
+rect -550 -592 -542 -558
+rect -508 -592 0 -558
+rect -550 -600 0 -592
+rect 13200 -558 13800 -550
+rect 13200 -592 13208 -558
+rect 13242 -592 13758 -558
+rect 13792 -592 13800 -558
+rect 13200 -600 13800 -592
+<< polycont >>
+rect -542 13708 -508 13742
+rect 13208 13708 13242 13742
+rect 13758 13708 13792 13742
+rect -542 -42 -508 -8
+rect 13208 -42 13242 -8
+rect 13758 -42 13792 -8
+rect -542 -592 -508 -558
+rect 13208 -592 13242 -558
+rect 13758 -592 13792 -558
+<< locali >>
+rect -5525 18713 18775 18725
+rect -5525 -5563 -5513 18713
+rect -1537 14725 14787 14737
+rect -1537 -1575 -1525 14725
+rect -1025 14213 0 14225
+rect -1025 13217 -1013 14213
+rect -17 13937 0 14213
+rect -737 13925 0 13937
+rect 13200 14213 14275 14225
+rect 13200 13925 13987 13937
+rect -737 13217 -725 13925
+rect -550 13742 -500 13750
+rect -550 13708 -542 13742
+rect -508 13708 -500 13742
+rect -550 13700 -500 13708
+rect 13200 13742 13250 13750
+rect 13200 13708 13208 13742
+rect 13242 13708 13250 13742
+rect 13200 13700 13250 13708
+rect 13750 13742 13800 13750
+rect 13750 13708 13758 13742
+rect 13792 13708 13800 13742
+rect 13750 13700 13800 13708
+rect 13273 13671 13727 13677
+rect -23 13663 -6 13671
+rect -64 13237 -23 13264
+rect -64 13229 -6 13237
+rect 13256 13663 13727 13671
+rect 13273 13615 13727 13663
+rect 13273 13285 13335 13615
+rect 13665 13285 13727 13615
+rect 13273 13237 13727 13285
+rect 13256 13229 13727 13237
+rect -64 13223 -29 13229
+rect 13273 13223 13727 13229
+rect -1025 13200 -725 13217
+rect -471 13206 -463 13223
+rect -37 13206 -29 13223
+rect 13279 13206 13287 13223
+rect 13713 13206 13721 13223
+rect 13975 13217 13987 13925
+rect 14263 13217 14275 14213
+rect 13975 13200 14275 13217
+rect -1025 -1063 -1013 0
+rect -737 -775 -725 0
+rect -550 -8 -500 0
+rect -550 -42 -542 -8
+rect -508 -42 -500 -8
+rect -550 -50 -500 -42
+rect 13200 -8 13250 0
+rect 13200 -42 13208 -8
+rect 13242 -42 13250 -8
+rect 13200 -50 13250 -42
+rect 13750 -8 13800 0
+rect 13750 -42 13758 -8
+rect 13792 -42 13800 -8
+rect 13750 -50 13800 -42
+rect -471 -73 -463 -56
+rect -37 -73 -29 -56
+rect 13279 -73 13287 -56
+rect 13713 -73 13721 -56
+rect -477 -79 -23 -73
+rect 13279 -79 13314 -73
+rect -477 -87 -6 -79
+rect -477 -135 -23 -87
+rect -477 -465 -415 -135
+rect -85 -465 -23 -135
+rect -477 -513 -23 -465
+rect -477 -521 -6 -513
+rect 13256 -87 13314 -79
+rect 13273 -114 13314 -87
+rect 13256 -521 13273 -513
+rect -477 -527 -23 -521
+rect -550 -558 -500 -550
+rect -550 -592 -542 -558
+rect -508 -592 -500 -558
+rect -550 -600 -500 -592
+rect 13200 -558 13250 -550
+rect 13200 -592 13208 -558
+rect 13242 -592 13250 -558
+rect 13200 -600 13250 -592
+rect 13750 -558 13800 -550
+rect 13750 -592 13758 -558
+rect 13792 -592 13800 -558
+rect 13750 -600 13800 -592
+rect 13975 -775 13987 0
+rect -737 -787 0 -775
+rect -17 -1063 0 -787
+rect -1025 -1075 0 -1063
+rect 13200 -787 13987 -775
+rect 14263 -1063 14275 0
+rect 13200 -1075 14275 -1063
+rect 14775 -1575 14787 14725
+rect -1537 -1587 14787 -1575
+rect 18763 -5563 18775 18713
+rect -5525 -5575 18775 -5563
+<< viali >>
+rect -5513 14737 18763 18713
+rect -5513 -1587 -1537 14737
+rect -1013 13937 -19 14213
+rect -1013 13219 -737 13937
+rect 13200 13937 14263 14213
+rect -542 13708 -508 13742
+rect 13208 13708 13242 13742
+rect 13758 13708 13792 13742
+rect -23 13237 -6 13663
+rect 13256 13237 13273 13663
+rect 13335 13603 13665 13615
+rect 13335 13297 13347 13603
+rect 13347 13297 13653 13603
+rect 13653 13297 13665 13603
+rect 13335 13285 13665 13297
+rect -463 13206 -37 13223
+rect 13287 13206 13713 13223
+rect 13987 13219 14263 13937
+rect -1013 -787 -737 0
+rect -542 -42 -508 -8
+rect 13208 -42 13242 -8
+rect 13758 -42 13792 -8
+rect -463 -73 -37 -56
+rect 13287 -73 13713 -56
+rect -415 -147 -85 -135
+rect -415 -453 -403 -147
+rect -403 -453 -97 -147
+rect -97 -453 -85 -147
+rect -415 -465 -85 -453
+rect -23 -513 -6 -87
+rect 13256 -513 13273 -87
+rect -542 -592 -508 -558
+rect 13208 -592 13242 -558
+rect 13758 -592 13792 -558
+rect -1013 -1063 -19 -787
+rect 13987 -787 14263 0
+rect 13200 -1063 14263 -787
+rect 14787 -1587 18763 14737
+rect -5513 -5563 18763 -1587
+<< metal1 >>
+rect -5525 18713 18775 18725
+rect -5525 -5563 -5513 18713
+rect -1537 14725 14787 14737
+rect -1537 -1575 -1525 14725
+rect -1025 14213 0 14225
+rect -1025 13219 -1013 14213
+rect -19 13937 0 14213
+rect -737 13925 0 13937
+rect 13200 14213 14275 14225
+rect 13200 13925 13987 13937
+rect -737 13219 -725 13925
+rect -550 13742 -500 13750
+rect -550 13708 -542 13742
+rect -508 13708 -500 13742
+rect -550 13700 -500 13708
+rect 13200 13742 13250 13750
+rect 13200 13708 13208 13742
+rect 13242 13708 13250 13742
+rect 13200 13700 13250 13708
+rect 13750 13742 13800 13750
+rect 13750 13708 13758 13742
+rect 13792 13708 13800 13742
+rect 13750 13700 13800 13708
+rect -474 13669 -26 13674
+rect 13276 13669 13724 13674
+rect -474 13663 -3 13669
+rect -474 13615 -23 13663
+rect -474 13285 -415 13615
+rect -85 13285 -23 13615
+rect -474 13237 -23 13285
+rect -6 13237 -3 13663
+rect -474 13231 -3 13237
+rect 13253 13663 13724 13669
+rect 13253 13237 13256 13663
+rect 13273 13615 13724 13663
+rect 13273 13285 13335 13615
+rect 13665 13285 13724 13615
+rect 13273 13237 13724 13285
+rect 13253 13231 13724 13237
+rect -474 13226 -26 13231
+rect 13276 13226 13724 13231
+rect -1025 13200 -725 13219
+rect -469 13223 -31 13226
+rect -469 13206 -463 13223
+rect -37 13206 -31 13223
+rect -469 13203 -31 13206
+rect 13281 13223 13719 13226
+rect 13281 13206 13287 13223
+rect 13713 13206 13719 13223
+rect 13281 13203 13719 13206
+rect 13975 13219 13987 13925
+rect 14263 13219 14275 14213
+rect 13975 13200 14275 13219
+rect -1025 -1063 -1013 0
+rect -737 -775 -725 0
+rect -550 -8 -500 0
+rect -550 -42 -542 -8
+rect -508 -42 -500 -8
+rect -550 -50 -500 -42
+rect 13200 -8 13250 0
+rect 13200 -42 13208 -8
+rect 13242 -42 13250 -8
+rect 13200 -50 13250 -42
+rect 13750 -8 13800 0
+rect 13750 -42 13758 -8
+rect 13792 -42 13800 -8
+rect 13750 -50 13800 -42
+rect -469 -56 -31 -53
+rect -469 -73 -463 -56
+rect -37 -73 -31 -56
+rect -469 -76 -31 -73
+rect 13281 -56 13719 -53
+rect 13281 -73 13287 -56
+rect 13713 -73 13719 -56
+rect 13281 -76 13719 -73
+rect -474 -81 -26 -76
+rect 13276 -81 13724 -76
+rect -474 -87 -3 -81
+rect -474 -135 -23 -87
+rect -474 -465 -415 -135
+rect -85 -465 -23 -135
+rect -474 -513 -23 -465
+rect -6 -513 -3 -87
+rect -474 -519 -3 -513
+rect 13253 -87 13724 -81
+rect 13253 -513 13256 -87
+rect 13273 -135 13724 -87
+rect 13273 -465 13335 -135
+rect 13665 -465 13724 -135
+rect 13273 -513 13724 -465
+rect 13253 -519 13724 -513
+rect -474 -524 -26 -519
+rect 13276 -524 13724 -519
+rect -550 -558 -500 -550
+rect -550 -592 -542 -558
+rect -508 -592 -500 -558
+rect -550 -600 -500 -592
+rect 13200 -558 13250 -550
+rect 13200 -592 13208 -558
+rect 13242 -592 13250 -558
+rect 13200 -600 13250 -592
+rect 13750 -558 13800 -550
+rect 13750 -592 13758 -558
+rect 13792 -592 13800 -558
+rect 13750 -600 13800 -592
+rect 13975 -775 13987 0
+rect -737 -787 0 -775
+rect -19 -1063 0 -787
+rect -1025 -1075 0 -1063
+rect 13200 -787 13987 -775
+rect 14263 -1063 14275 0
+rect 13200 -1075 14275 -1063
+rect 14775 -1575 14787 14725
+rect -1537 -1587 14787 -1575
+rect 18763 -5563 18775 18713
+rect -5525 -5575 18775 -5563
+<< via1 >>
+rect -5513 14737 18763 18713
+rect -5513 1117 -1537 14725
+rect 13288 14025 13388 14125
+rect -542 13708 -508 13742
+rect 13208 13708 13242 13742
+rect 13758 13708 13792 13742
+rect -415 13285 -85 13615
+rect 13335 13285 13665 13615
+rect 14075 13238 14175 13338
+rect -925 -188 -825 -88
+rect -542 -42 -508 -8
+rect 13208 -42 13242 -8
+rect 13758 -42 13792 -8
+rect -415 -465 -85 -135
+rect 13335 -465 13665 -135
+rect -542 -592 -508 -558
+rect 13208 -592 13242 -558
+rect 13758 -592 13792 -558
+rect -138 -975 -38 -875
+rect 14787 -1587 18763 14737
+rect -495 -5563 18763 -1587
+<< metal2 >>
+rect -5525 18713 18775 18725
+rect -5525 14737 -5513 18713
+rect -5525 14725 14787 14737
+rect -5525 1117 -5513 14725
+rect -1537 1117 -1525 14725
+rect 13278 14125 13398 14135
+rect 13278 14025 13288 14125
+rect 13388 14025 13398 14125
+rect 13278 14015 13398 14025
+rect -725 13742 0 13925
+rect -725 13708 -542 13742
+rect -508 13708 0 13742
+rect -725 13700 0 13708
+rect 13200 13742 13975 13925
+rect 13200 13708 13208 13742
+rect 13242 13708 13758 13742
+rect 13792 13708 13975 13742
+rect 13200 13700 13975 13708
+rect -725 13200 -500 13700
+rect -425 13615 -75 13625
+rect -425 13285 -415 13615
+rect -85 13285 -75 13615
+rect -425 13275 -75 13285
+rect 13200 13200 13250 13700
+rect 13325 13615 13675 13625
+rect 13325 13285 13335 13615
+rect 13665 13285 13675 13615
+rect 13325 13275 13675 13285
+rect 13750 13200 13975 13700
+rect 14065 13338 14185 13348
+rect 14065 13238 14075 13338
+rect 14175 13238 14185 13338
+rect 14065 13228 14185 13238
+rect -725 -8 0 0
+rect -725 -42 -542 -8
+rect -508 -42 0 -8
+rect -725 -50 0 -42
+rect 13200 -8 13975 0
+rect 13200 -42 13208 -8
+rect 13242 -42 13758 -8
+rect 13792 -42 13975 -8
+rect 13200 -50 13975 -42
+rect -935 -88 -815 -78
+rect -935 -188 -925 -88
+rect -825 -188 -815 -88
+rect -935 -198 -815 -188
+rect -725 -550 -500 -50
+rect -425 -135 -75 -125
+rect -425 -465 -415 -135
+rect -85 -465 -75 -135
+rect -425 -475 -75 -465
+rect 13200 -550 13250 -50
+rect 13325 -135 13675 -125
+rect 13325 -465 13335 -135
+rect 13665 -465 13675 -135
+rect 13325 -475 13675 -465
+rect 13750 -550 13975 -50
+rect -725 -558 0 -550
+rect -725 -592 -542 -558
+rect -508 -592 0 -558
+rect -725 -775 0 -592
+rect 13200 -558 13975 -550
+rect 13200 -592 13208 -558
+rect 13242 -592 13758 -558
+rect 13792 -592 13975 -558
+rect 13200 -775 13975 -592
+rect -148 -875 -28 -865
+rect -148 -975 -138 -875
+rect -38 -975 -28 -875
+rect -148 -985 -28 -975
+rect 14775 -1575 14787 14725
+rect -507 -1587 14787 -1575
+rect -507 -5563 -495 -1587
+rect 18763 -5563 18775 18713
+rect -507 -5575 18775 -5563
+<< via2 >>
+rect 13288 14025 13388 14125
+rect -310 13390 -190 13510
+rect 13440 13390 13560 13510
+rect 14075 13238 14175 13338
+rect -925 -188 -825 -88
+rect -310 -360 -190 -240
+rect 13440 -360 13560 -240
+rect -138 -975 -38 -875
+<< metal3 >>
+rect -2525 14725 13775 15725
+rect -2525 13838 -1525 14725
+rect -638 13838 -186 14725
+rect -2525 13514 -186 13838
+rect -88 13612 0 14225
+tri -186 13514 -88 13612 sw
+tri -88 13524 0 13612 ne
+rect 13200 14125 13564 14225
+rect 13200 14025 13288 14125
+rect 13388 14025 13564 14125
+rect 13200 13524 13564 14025
+rect -2525 13510 -88 13514
+rect -2525 13390 -310 13510
+rect -190 13426 -88 13510
+tri -88 13426 0 13514 sw
+rect -190 13390 0 13426
+rect -2525 13386 0 13390
+rect -2525 -575 -1525 13386
+tri -412 13288 -314 13386 ne
+rect -314 13288 0 13386
+rect -1025 13200 -412 13288
+tri -412 13200 -324 13288 sw
+tri -314 13200 -226 13288 ne
+rect -226 13200 0 13288
+tri 13200 13426 13298 13524 ne
+rect 13298 13514 13564 13524
+tri 13564 13514 13662 13612 sw
+rect 14775 13514 15775 13725
+rect 13298 13510 15775 13514
+rect 13298 13426 13440 13510
+tri 13200 13338 13288 13426 sw
+tri 13298 13338 13386 13426 ne
+rect 13386 13390 13440 13426
+rect 13560 13390 15775 13510
+rect 13386 13338 15775 13390
+rect 13200 13258 13288 13338
+tri 13288 13258 13368 13338 sw
+tri 13386 13258 13466 13338 ne
+rect 13466 13258 14075 13338
+rect 13200 13200 13368 13258
+tri 13368 13200 13426 13258 sw
+tri 13466 13200 13524 13258 ne
+rect 13524 13238 14075 13258
+rect 14175 13238 15775 13338
+rect 13524 13200 15775 13238
+rect 14775 0 15775 13200
+rect -1025 -40 -324 0
+tri -324 -40 -284 0 sw
+tri -226 -40 -186 0 ne
+rect -186 -40 0 0
+rect -1025 -88 -284 -40
+rect -1025 -188 -925 -88
+rect -825 -138 -284 -88
+tri -284 -138 -186 -40 sw
+tri -186 -138 -88 -40 ne
+rect -88 -138 0 -40
+rect -825 -188 -186 -138
+rect -1025 -236 -186 -188
+tri -186 -236 -88 -138 sw
+tri -88 -226 0 -138 ne
+rect 13200 -40 13426 0
+tri 13426 -40 13466 0 sw
+tri 13524 -40 13564 0 ne
+rect 13564 -40 15775 0
+rect 13200 -138 13466 -40
+tri 13466 -138 13564 -40 sw
+tri 13564 -138 13662 -40 ne
+rect 13662 -138 15775 -40
+rect 13200 -226 13564 -138
+rect -1025 -240 -88 -236
+rect -1025 -360 -310 -240
+rect -190 -324 -88 -240
+tri -88 -324 0 -236 sw
+rect -190 -360 0 -324
+rect -1025 -364 0 -360
+tri -412 -462 -314 -364 ne
+rect -314 -875 0 -364
+rect -314 -975 -138 -875
+rect -38 -975 0 -875
+rect -314 -1575 0 -975
+tri 13200 -324 13298 -226 ne
+rect 13298 -236 13564 -226
+tri 13564 -236 13662 -138 sw
+rect 13298 -240 14275 -236
+rect 13298 -324 13440 -240
+tri 13200 -364 13240 -324 sw
+tri 13298 -364 13338 -324 ne
+rect 13338 -360 13440 -324
+rect 13560 -360 14275 -240
+rect 13338 -364 14275 -360
+rect 13200 -462 13240 -364
+tri 13240 -462 13338 -364 sw
+tri 13338 -462 13436 -364 ne
+rect 13200 -1575 13338 -462
+rect 13436 -688 14275 -364
+rect 13436 -1075 13888 -688
+rect 14775 -1575 15775 -138
+rect -525 -2575 15775 -1575
+<< via3 >>
+rect 13288 14025 13388 14125
+rect -310 13390 -190 13510
+rect 13440 13390 13560 13510
+rect 14075 13238 14175 13338
+rect -925 -188 -825 -88
+rect -310 -360 -190 -240
+rect -138 -975 -38 -875
+rect 13440 -360 13560 -240
+<< metal4 >>
+rect -2525 14725 13775 15725
+rect -2525 13838 -1525 14725
+rect -638 13838 -186 14725
+rect -2525 13514 -186 13838
+rect -88 13612 0 14225
+tri -186 13514 -88 13612 sw
+tri -88 13524 0 13612 ne
+rect 13200 14125 13564 14225
+rect 13200 14025 13288 14125
+rect 13388 14025 13564 14125
+rect 13200 13524 13564 14025
+rect -2525 13510 -88 13514
+rect -2525 13390 -310 13510
+rect -190 13426 -88 13510
+tri -88 13426 0 13514 sw
+rect -190 13390 0 13426
+rect -2525 13386 0 13390
+rect -2525 -575 -1525 13386
+tri -412 13288 -314 13386 ne
+rect -314 13288 0 13386
+rect -1025 13200 -412 13288
+tri -412 13200 -324 13288 sw
+tri -314 13200 -226 13288 ne
+rect -226 13200 0 13288
+tri 13200 13426 13298 13524 ne
+rect 13298 13514 13564 13524
+tri 13564 13514 13662 13612 sw
+rect 14775 13514 15775 13725
+rect 13298 13510 15775 13514
+rect 13298 13426 13440 13510
+tri 13200 13338 13288 13426 sw
+tri 13298 13338 13386 13426 ne
+rect 13386 13390 13440 13426
+rect 13560 13390 15775 13510
+rect 13386 13338 15775 13390
+rect 13200 13258 13288 13338
+tri 13288 13258 13368 13338 sw
+tri 13386 13258 13466 13338 ne
+rect 13466 13258 14075 13338
+rect 13200 13200 13368 13258
+tri 13368 13200 13426 13258 sw
+tri 13466 13200 13524 13258 ne
+rect 13524 13238 14075 13258
+rect 14175 13238 15775 13338
+rect 13524 13200 15775 13238
+rect 14775 0 15775 13200
+rect -1025 -40 -324 0
+tri -324 -40 -284 0 sw
+tri -226 -40 -186 0 ne
+rect -186 -40 0 0
+rect -1025 -88 -284 -40
+rect -1025 -188 -925 -88
+rect -825 -138 -284 -88
+tri -284 -138 -186 -40 sw
+tri -186 -138 -88 -40 ne
+rect -88 -138 0 -40
+rect -825 -188 -186 -138
+rect -1025 -236 -186 -188
+tri -186 -236 -88 -138 sw
+tri -88 -226 0 -138 ne
+rect 13200 -40 13426 0
+tri 13426 -40 13466 0 sw
+tri 13524 -40 13564 0 ne
+rect 13564 -40 15775 0
+rect 13200 -138 13466 -40
+tri 13466 -138 13564 -40 sw
+tri 13564 -138 13662 -40 ne
+rect 13662 -138 15775 -40
+rect 13200 -226 13564 -138
+rect -1025 -240 -88 -236
+rect -1025 -360 -310 -240
+rect -190 -324 -88 -240
+tri -88 -324 0 -236 sw
+rect -190 -360 0 -324
+rect -1025 -364 0 -360
+tri -412 -462 -314 -364 ne
+rect -314 -875 0 -364
+rect -314 -975 -138 -875
+rect -38 -975 0 -875
+rect -314 -1575 0 -975
+tri 13200 -324 13298 -226 ne
+rect 13298 -236 13564 -226
+tri 13564 -236 13662 -138 sw
+rect 13298 -240 14275 -236
+rect 13298 -324 13440 -240
+tri 13200 -364 13240 -324 sw
+tri 13298 -364 13338 -324 ne
+rect 13338 -360 13440 -324
+rect 13560 -360 14275 -240
+rect 13338 -364 14275 -360
+rect 13200 -462 13240 -364
+tri 13240 -462 13338 -364 sw
+tri 13338 -462 13436 -364 ne
+rect 13200 -1575 13338 -462
+rect 13436 -688 14275 -364
+rect 13436 -1075 13888 -688
+rect 14775 -1575 15775 -138
+rect -525 -2575 15775 -1575
+<< via4 >>
+rect -310 13390 -190 13510
+rect 13440 13390 13560 13510
+rect -310 -360 -190 -240
+rect 13440 -360 13560 -240
+<< metal5 >>
+rect -2525 14725 13775 15725
+rect -2525 13803 -1525 14725
+rect -603 13803 -292 14725
+rect -2525 13510 -292 13803
+tri -292 13510 -154 13648 sw
+rect -53 13647 0 14225
+tri -53 13594 0 13647 ne
+rect 13200 13594 13458 14225
+rect -2525 13492 -310 13510
+rect -2525 -575 -1525 13492
+tri -448 13356 -312 13492 ne
+rect -312 13390 -310 13492
+rect -190 13390 -154 13510
+rect -312 13356 -154 13390
+tri -154 13356 0 13510 sw
+rect -1025 13200 -447 13253
+tri -447 13200 -394 13253 sw
+tri -312 13200 -156 13356 ne
+rect -156 13200 0 13356
+tri 13200 13356 13438 13594 ne
+rect 13438 13510 13458 13594
+tri 13458 13510 13596 13648 sw
+rect 13438 13390 13440 13510
+rect 13560 13408 13596 13510
+tri 13596 13408 13698 13510 sw
+rect 14775 13408 15775 13725
+rect 13560 13390 15775 13408
+rect 13438 13356 15775 13390
+tri 13200 13200 13356 13356 sw
+tri 13438 13200 13594 13356 ne
+rect 13594 13200 15775 13356
+rect 14775 0 15775 13200
+rect -1025 -103 -394 0
+tri -394 -103 -291 0 sw
+tri -156 -103 -53 0 ne
+rect -53 -103 0 0
+rect -1025 -240 -291 -103
+tri -291 -240 -154 -103 sw
+tri -53 -156 0 -103 ne
+rect 13200 -103 13356 0
+tri 13356 -103 13459 0 sw
+tri 13594 -103 13697 0 ne
+rect 13697 -103 15775 0
+rect 13200 -156 13459 -103
+rect -1025 -258 -310 -240
+tri -448 -360 -346 -258 ne
+rect -346 -360 -310 -258
+rect -190 -360 -154 -240
+tri -346 -498 -208 -360 ne
+rect -208 -394 -154 -360
+tri -154 -394 0 -240 sw
+rect -208 -1575 0 -394
+tri 13200 -394 13438 -156 ne
+rect 13438 -240 13459 -156
+tri 13459 -240 13596 -103 sw
+rect 13438 -360 13440 -240
+rect 13560 -342 13596 -240
+tri 13596 -342 13698 -240 sw
+rect 13560 -360 14275 -342
+rect 13438 -394 14275 -360
+tri 13200 -497 13303 -394 sw
+rect 13200 -1575 13303 -497
+tri 13438 -498 13542 -394 ne
+rect 13542 -653 14275 -394
+rect 13542 -1075 13853 -653
+rect 14775 -1575 15775 -103
+rect -525 -2575 15775 -1575
+use pmos_drain_frame_lt  pmos_drain_frame_lt_0 waffle_cells
+timestamp 1675433017
+transform 1 0 -550 0 1 0
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_1
+timestamp 1675433017
+transform 0 -1 1100 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_2
+timestamp 1675433017
+transform 1 0 -550 0 1 1100
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_3
+timestamp 1675433017
+transform 0 -1 2200 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_4
+timestamp 1675433017
+transform 1 0 -550 0 1 2200
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_5
+timestamp 1675433017
+transform 0 -1 3300 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_6
+timestamp 1675433017
+transform 1 0 -550 0 1 3300
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_7
+timestamp 1675433017
+transform 0 -1 4400 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_8
+timestamp 1675433017
+transform 1 0 -550 0 1 4400
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_9
+timestamp 1675433017
+transform 0 -1 5500 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_10
+timestamp 1675433017
+transform 1 0 -550 0 1 5500
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_11
+timestamp 1675433017
+transform 0 -1 6600 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_12
+timestamp 1675433017
+transform 1 0 -550 0 1 6600
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_13
+timestamp 1675433017
+transform 0 -1 7700 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_14
+timestamp 1675433017
+transform 1 0 -550 0 1 7700
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_15
+timestamp 1675433017
+transform 0 -1 8800 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_16
+timestamp 1675433017
+transform 1 0 -550 0 1 8800
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_17
+timestamp 1675433017
+transform 0 -1 9900 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_18
+timestamp 1675433017
+transform 1 0 -550 0 1 9900
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_19
+timestamp 1675433017
+transform 0 -1 11000 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_20
+timestamp 1675433017
+transform 1 0 -550 0 1 11000
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_21
+timestamp 1675433017
+transform 0 -1 12100 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_22
+timestamp 1675433017
+transform 1 0 -550 0 1 12100
+box -975 -113 663 663
+use pmos_drain_frame_lt  pmos_drain_frame_lt_23
+timestamp 1675433017
+transform 0 -1 13200 -1 0 13750
+box -975 -113 663 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_0 waffle_cells
+timestamp 1675433101
+transform 0 -1 550 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_1
+timestamp 1675433101
+transform 1 0 13200 0 1 550
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_2
+timestamp 1675433101
+transform 0 -1 1650 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_3
+timestamp 1675433101
+transform 1 0 13200 0 1 1650
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_4
+timestamp 1675433101
+transform 0 -1 2750 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_5
+timestamp 1675433101
+transform 1 0 13200 0 1 2750
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_6
+timestamp 1675433101
+transform 0 -1 3850 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_7
+timestamp 1675433101
+transform 1 0 13200 0 1 3850
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_8
+timestamp 1675433101
+transform 0 -1 4950 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_9
+timestamp 1675433101
+transform 1 0 13200 0 1 4950
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_10
+timestamp 1675433101
+transform 0 -1 6050 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_11
+timestamp 1675433101
+transform 1 0 13200 0 1 6050
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_12
+timestamp 1675433101
+transform 0 -1 7150 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_13
+timestamp 1675433101
+transform 1 0 13200 0 1 7150
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_14
+timestamp 1675433101
+transform 0 -1 8250 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_15
+timestamp 1675433101
+transform 1 0 13200 0 1 8250
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_16
+timestamp 1675433101
+transform 0 -1 9350 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_17
+timestamp 1675433101
+transform 1 0 13200 0 1 9350
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_18
+timestamp 1675433101
+transform 0 -1 10450 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_19
+timestamp 1675433101
+transform 1 0 13200 0 1 10450
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_20
+timestamp 1675433101
+transform 0 -1 11550 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_21
+timestamp 1675433101
+transform 1 0 13200 0 1 11550
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_22
+timestamp 1675433101
+transform 0 -1 12650 -1 0 0
+box -113 -113 1575 663
+use pmos_drain_frame_rb  pmos_drain_frame_rb_23
+timestamp 1675433101
+transform 1 0 13200 0 1 12650
+box -113 -113 1575 663
+use pmos_drain_in  pmos_drain_in_0 waffle_cells
+timestamp 1675432984
+transform 1 0 0 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_1
+timestamp 1675432984
+transform 1 0 0 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_2
+timestamp 1675432984
+transform 1 0 0 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_3
+timestamp 1675432984
+transform 1 0 0 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_4
+timestamp 1675432984
+transform 1 0 0 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_5
+timestamp 1675432984
+transform 1 0 0 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_6
+timestamp 1675432984
+transform 1 0 0 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_7
+timestamp 1675432984
+transform 1 0 0 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_8
+timestamp 1675432984
+transform 1 0 0 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_9
+timestamp 1675432984
+transform 1 0 0 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_10
+timestamp 1675432984
+transform 1 0 0 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_11
+timestamp 1675432984
+transform 1 0 0 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_12
+timestamp 1675432984
+transform 1 0 550 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_13
+timestamp 1675432984
+transform 1 0 550 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_14
+timestamp 1675432984
+transform 1 0 550 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_15
+timestamp 1675432984
+transform 1 0 550 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_16
+timestamp 1675432984
+transform 1 0 550 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_17
+timestamp 1675432984
+transform 1 0 550 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_18
+timestamp 1675432984
+transform 1 0 550 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_19
+timestamp 1675432984
+transform 1 0 550 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_20
+timestamp 1675432984
+transform 1 0 550 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_21
+timestamp 1675432984
+transform 1 0 550 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_22
+timestamp 1675432984
+transform 1 0 550 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_23
+timestamp 1675432984
+transform 1 0 550 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_24
+timestamp 1675432984
+transform 1 0 1100 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_25
+timestamp 1675432984
+transform 1 0 1100 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_26
+timestamp 1675432984
+transform 1 0 1100 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_27
+timestamp 1675432984
+transform 1 0 1100 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_28
+timestamp 1675432984
+transform 1 0 1100 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_29
+timestamp 1675432984
+transform 1 0 1100 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_30
+timestamp 1675432984
+transform 1 0 1100 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_31
+timestamp 1675432984
+transform 1 0 1100 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_32
+timestamp 1675432984
+transform 1 0 1100 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_33
+timestamp 1675432984
+transform 1 0 1100 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_34
+timestamp 1675432984
+transform 1 0 1100 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_35
+timestamp 1675432984
+transform 1 0 1100 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_36
+timestamp 1675432984
+transform 1 0 1650 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_37
+timestamp 1675432984
+transform 1 0 1650 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_38
+timestamp 1675432984
+transform 1 0 1650 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_39
+timestamp 1675432984
+transform 1 0 1650 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_40
+timestamp 1675432984
+transform 1 0 1650 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_41
+timestamp 1675432984
+transform 1 0 1650 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_42
+timestamp 1675432984
+transform 1 0 1650 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_43
+timestamp 1675432984
+transform 1 0 1650 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_44
+timestamp 1675432984
+transform 1 0 1650 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_45
+timestamp 1675432984
+transform 1 0 1650 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_46
+timestamp 1675432984
+transform 1 0 1650 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_47
+timestamp 1675432984
+transform 1 0 1650 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_48
+timestamp 1675432984
+transform 1 0 2200 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_49
+timestamp 1675432984
+transform 1 0 2200 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_50
+timestamp 1675432984
+transform 1 0 2200 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_51
+timestamp 1675432984
+transform 1 0 2200 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_52
+timestamp 1675432984
+transform 1 0 2200 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_53
+timestamp 1675432984
+transform 1 0 2200 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_54
+timestamp 1675432984
+transform 1 0 2200 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_55
+timestamp 1675432984
+transform 1 0 2200 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_56
+timestamp 1675432984
+transform 1 0 2200 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_57
+timestamp 1675432984
+transform 1 0 2200 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_58
+timestamp 1675432984
+transform 1 0 2200 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_59
+timestamp 1675432984
+transform 1 0 2200 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_60
+timestamp 1675432984
+transform 1 0 2750 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_61
+timestamp 1675432984
+transform 1 0 2750 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_62
+timestamp 1675432984
+transform 1 0 2750 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_63
+timestamp 1675432984
+transform 1 0 2750 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_64
+timestamp 1675432984
+transform 1 0 2750 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_65
+timestamp 1675432984
+transform 1 0 2750 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_66
+timestamp 1675432984
+transform 1 0 2750 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_67
+timestamp 1675432984
+transform 1 0 2750 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_68
+timestamp 1675432984
+transform 1 0 2750 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_69
+timestamp 1675432984
+transform 1 0 2750 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_70
+timestamp 1675432984
+transform 1 0 2750 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_71
+timestamp 1675432984
+transform 1 0 2750 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_72
+timestamp 1675432984
+transform 1 0 3300 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_73
+timestamp 1675432984
+transform 1 0 3300 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_74
+timestamp 1675432984
+transform 1 0 3300 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_75
+timestamp 1675432984
+transform 1 0 3300 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_76
+timestamp 1675432984
+transform 1 0 3300 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_77
+timestamp 1675432984
+transform 1 0 3300 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_78
+timestamp 1675432984
+transform 1 0 3300 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_79
+timestamp 1675432984
+transform 1 0 3300 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_80
+timestamp 1675432984
+transform 1 0 3300 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_81
+timestamp 1675432984
+transform 1 0 3300 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_82
+timestamp 1675432984
+transform 1 0 3300 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_83
+timestamp 1675432984
+transform 1 0 3300 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_84
+timestamp 1675432984
+transform 1 0 3850 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_85
+timestamp 1675432984
+transform 1 0 3850 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_86
+timestamp 1675432984
+transform 1 0 3850 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_87
+timestamp 1675432984
+transform 1 0 3850 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_88
+timestamp 1675432984
+transform 1 0 3850 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_89
+timestamp 1675432984
+transform 1 0 3850 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_90
+timestamp 1675432984
+transform 1 0 3850 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_91
+timestamp 1675432984
+transform 1 0 3850 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_92
+timestamp 1675432984
+transform 1 0 3850 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_93
+timestamp 1675432984
+transform 1 0 3850 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_94
+timestamp 1675432984
+transform 1 0 3850 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_95
+timestamp 1675432984
+transform 1 0 3850 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_96
+timestamp 1675432984
+transform 1 0 4400 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_97
+timestamp 1675432984
+transform 1 0 4400 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_98
+timestamp 1675432984
+transform 1 0 4400 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_99
+timestamp 1675432984
+transform 1 0 4400 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_100
+timestamp 1675432984
+transform 1 0 4400 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_101
+timestamp 1675432984
+transform 1 0 4400 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_102
+timestamp 1675432984
+transform 1 0 4400 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_103
+timestamp 1675432984
+transform 1 0 4400 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_104
+timestamp 1675432984
+transform 1 0 4400 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_105
+timestamp 1675432984
+transform 1 0 4400 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_106
+timestamp 1675432984
+transform 1 0 4400 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_107
+timestamp 1675432984
+transform 1 0 4400 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_108
+timestamp 1675432984
+transform 1 0 4950 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_109
+timestamp 1675432984
+transform 1 0 4950 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_110
+timestamp 1675432984
+transform 1 0 4950 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_111
+timestamp 1675432984
+transform 1 0 4950 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_112
+timestamp 1675432984
+transform 1 0 4950 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_113
+timestamp 1675432984
+transform 1 0 4950 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_114
+timestamp 1675432984
+transform 1 0 4950 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_115
+timestamp 1675432984
+transform 1 0 4950 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_116
+timestamp 1675432984
+transform 1 0 4950 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_117
+timestamp 1675432984
+transform 1 0 4950 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_118
+timestamp 1675432984
+transform 1 0 4950 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_119
+timestamp 1675432984
+transform 1 0 4950 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_120
+timestamp 1675432984
+transform 1 0 5500 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_121
+timestamp 1675432984
+transform 1 0 5500 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_122
+timestamp 1675432984
+transform 1 0 5500 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_123
+timestamp 1675432984
+transform 1 0 5500 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_124
+timestamp 1675432984
+transform 1 0 5500 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_125
+timestamp 1675432984
+transform 1 0 5500 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_126
+timestamp 1675432984
+transform 1 0 5500 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_127
+timestamp 1675432984
+transform 1 0 5500 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_128
+timestamp 1675432984
+transform 1 0 5500 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_129
+timestamp 1675432984
+transform 1 0 5500 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_130
+timestamp 1675432984
+transform 1 0 5500 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_131
+timestamp 1675432984
+transform 1 0 5500 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_132
+timestamp 1675432984
+transform 1 0 6050 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_133
+timestamp 1675432984
+transform 1 0 6050 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_134
+timestamp 1675432984
+transform 1 0 6050 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_135
+timestamp 1675432984
+transform 1 0 6050 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_136
+timestamp 1675432984
+transform 1 0 6050 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_137
+timestamp 1675432984
+transform 1 0 6050 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_138
+timestamp 1675432984
+transform 1 0 6050 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_139
+timestamp 1675432984
+transform 1 0 6050 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_140
+timestamp 1675432984
+transform 1 0 6050 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_141
+timestamp 1675432984
+transform 1 0 6050 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_142
+timestamp 1675432984
+transform 1 0 6050 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_143
+timestamp 1675432984
+transform 1 0 6050 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_144
+timestamp 1675432984
+transform 1 0 6600 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_145
+timestamp 1675432984
+transform 1 0 6600 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_146
+timestamp 1675432984
+transform 1 0 6600 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_147
+timestamp 1675432984
+transform 1 0 6600 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_148
+timestamp 1675432984
+transform 1 0 6600 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_149
+timestamp 1675432984
+transform 1 0 6600 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_150
+timestamp 1675432984
+transform 1 0 6600 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_151
+timestamp 1675432984
+transform 1 0 6600 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_152
+timestamp 1675432984
+transform 1 0 6600 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_153
+timestamp 1675432984
+transform 1 0 6600 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_154
+timestamp 1675432984
+transform 1 0 6600 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_155
+timestamp 1675432984
+transform 1 0 6600 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_156
+timestamp 1675432984
+transform 1 0 7150 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_157
+timestamp 1675432984
+transform 1 0 7150 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_158
+timestamp 1675432984
+transform 1 0 7150 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_159
+timestamp 1675432984
+transform 1 0 7150 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_160
+timestamp 1675432984
+transform 1 0 7150 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_161
+timestamp 1675432984
+transform 1 0 7150 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_162
+timestamp 1675432984
+transform 1 0 7150 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_163
+timestamp 1675432984
+transform 1 0 7150 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_164
+timestamp 1675432984
+transform 1 0 7150 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_165
+timestamp 1675432984
+transform 1 0 7150 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_166
+timestamp 1675432984
+transform 1 0 7150 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_167
+timestamp 1675432984
+transform 1 0 7150 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_168
+timestamp 1675432984
+transform 1 0 7700 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_169
+timestamp 1675432984
+transform 1 0 7700 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_170
+timestamp 1675432984
+transform 1 0 7700 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_171
+timestamp 1675432984
+transform 1 0 7700 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_172
+timestamp 1675432984
+transform 1 0 7700 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_173
+timestamp 1675432984
+transform 1 0 7700 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_174
+timestamp 1675432984
+transform 1 0 7700 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_175
+timestamp 1675432984
+transform 1 0 7700 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_176
+timestamp 1675432984
+transform 1 0 7700 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_177
+timestamp 1675432984
+transform 1 0 7700 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_178
+timestamp 1675432984
+transform 1 0 7700 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_179
+timestamp 1675432984
+transform 1 0 7700 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_180
+timestamp 1675432984
+transform 1 0 8250 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_181
+timestamp 1675432984
+transform 1 0 8250 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_182
+timestamp 1675432984
+transform 1 0 8250 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_183
+timestamp 1675432984
+transform 1 0 8250 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_184
+timestamp 1675432984
+transform 1 0 8250 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_185
+timestamp 1675432984
+transform 1 0 8250 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_186
+timestamp 1675432984
+transform 1 0 8250 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_187
+timestamp 1675432984
+transform 1 0 8250 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_188
+timestamp 1675432984
+transform 1 0 8250 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_189
+timestamp 1675432984
+transform 1 0 8250 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_190
+timestamp 1675432984
+transform 1 0 8250 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_191
+timestamp 1675432984
+transform 1 0 8250 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_192
+timestamp 1675432984
+transform 1 0 8800 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_193
+timestamp 1675432984
+transform 1 0 8800 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_194
+timestamp 1675432984
+transform 1 0 8800 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_195
+timestamp 1675432984
+transform 1 0 8800 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_196
+timestamp 1675432984
+transform 1 0 8800 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_197
+timestamp 1675432984
+transform 1 0 8800 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_198
+timestamp 1675432984
+transform 1 0 8800 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_199
+timestamp 1675432984
+transform 1 0 8800 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_200
+timestamp 1675432984
+transform 1 0 8800 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_201
+timestamp 1675432984
+transform 1 0 8800 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_202
+timestamp 1675432984
+transform 1 0 8800 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_203
+timestamp 1675432984
+transform 1 0 8800 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_204
+timestamp 1675432984
+transform 1 0 9350 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_205
+timestamp 1675432984
+transform 1 0 9350 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_206
+timestamp 1675432984
+transform 1 0 9350 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_207
+timestamp 1675432984
+transform 1 0 9350 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_208
+timestamp 1675432984
+transform 1 0 9350 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_209
+timestamp 1675432984
+transform 1 0 9350 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_210
+timestamp 1675432984
+transform 1 0 9350 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_211
+timestamp 1675432984
+transform 1 0 9350 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_212
+timestamp 1675432984
+transform 1 0 9350 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_213
+timestamp 1675432984
+transform 1 0 9350 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_214
+timestamp 1675432984
+transform 1 0 9350 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_215
+timestamp 1675432984
+transform 1 0 9350 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_216
+timestamp 1675432984
+transform 1 0 9900 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_217
+timestamp 1675432984
+transform 1 0 9900 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_218
+timestamp 1675432984
+transform 1 0 9900 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_219
+timestamp 1675432984
+transform 1 0 9900 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_220
+timestamp 1675432984
+transform 1 0 9900 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_221
+timestamp 1675432984
+transform 1 0 9900 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_222
+timestamp 1675432984
+transform 1 0 9900 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_223
+timestamp 1675432984
+transform 1 0 9900 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_224
+timestamp 1675432984
+transform 1 0 9900 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_225
+timestamp 1675432984
+transform 1 0 9900 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_226
+timestamp 1675432984
+transform 1 0 9900 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_227
+timestamp 1675432984
+transform 1 0 9900 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_228
+timestamp 1675432984
+transform 1 0 10450 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_229
+timestamp 1675432984
+transform 1 0 10450 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_230
+timestamp 1675432984
+transform 1 0 10450 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_231
+timestamp 1675432984
+transform 1 0 10450 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_232
+timestamp 1675432984
+transform 1 0 10450 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_233
+timestamp 1675432984
+transform 1 0 10450 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_234
+timestamp 1675432984
+transform 1 0 10450 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_235
+timestamp 1675432984
+transform 1 0 10450 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_236
+timestamp 1675432984
+transform 1 0 10450 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_237
+timestamp 1675432984
+transform 1 0 10450 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_238
+timestamp 1675432984
+transform 1 0 10450 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_239
+timestamp 1675432984
+transform 1 0 10450 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_240
+timestamp 1675432984
+transform 1 0 11000 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_241
+timestamp 1675432984
+transform 1 0 11000 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_242
+timestamp 1675432984
+transform 1 0 11000 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_243
+timestamp 1675432984
+transform 1 0 11000 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_244
+timestamp 1675432984
+transform 1 0 11000 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_245
+timestamp 1675432984
+transform 1 0 11000 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_246
+timestamp 1675432984
+transform 1 0 11000 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_247
+timestamp 1675432984
+transform 1 0 11000 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_248
+timestamp 1675432984
+transform 1 0 11000 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_249
+timestamp 1675432984
+transform 1 0 11000 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_250
+timestamp 1675432984
+transform 1 0 11000 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_251
+timestamp 1675432984
+transform 1 0 11000 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_252
+timestamp 1675432984
+transform 1 0 11550 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_253
+timestamp 1675432984
+transform 1 0 11550 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_254
+timestamp 1675432984
+transform 1 0 11550 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_255
+timestamp 1675432984
+transform 1 0 11550 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_256
+timestamp 1675432984
+transform 1 0 11550 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_257
+timestamp 1675432984
+transform 1 0 11550 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_258
+timestamp 1675432984
+transform 1 0 11550 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_259
+timestamp 1675432984
+transform 1 0 11550 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_260
+timestamp 1675432984
+transform 1 0 11550 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_261
+timestamp 1675432984
+transform 1 0 11550 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_262
+timestamp 1675432984
+transform 1 0 11550 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_263
+timestamp 1675432984
+transform 1 0 11550 0 1 12100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_264
+timestamp 1675432984
+transform 1 0 12100 0 1 550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_265
+timestamp 1675432984
+transform 1 0 12100 0 1 1650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_266
+timestamp 1675432984
+transform 1 0 12100 0 1 2750
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_267
+timestamp 1675432984
+transform 1 0 12100 0 1 3850
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_268
+timestamp 1675432984
+transform 1 0 12100 0 1 4950
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_269
+timestamp 1675432984
+transform 1 0 12100 0 1 6050
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_270
+timestamp 1675432984
+transform 1 0 12100 0 1 7150
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_271
+timestamp 1675432984
+transform 1 0 12100 0 1 8250
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_272
+timestamp 1675432984
+transform 1 0 12100 0 1 9350
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_273
+timestamp 1675432984
+transform 1 0 12100 0 1 10450
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_274
+timestamp 1675432984
+transform 1 0 12100 0 1 11550
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_275
+timestamp 1675432984
+transform 1 0 12100 0 1 12650
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_276
+timestamp 1675432984
+transform 1 0 12650 0 1 0
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_277
+timestamp 1675432984
+transform 1 0 12650 0 1 1100
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_278
+timestamp 1675432984
+transform 1 0 12650 0 1 2200
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_279
+timestamp 1675432984
+transform 1 0 12650 0 1 3300
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_280
+timestamp 1675432984
+transform 1 0 12650 0 1 4400
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_281
+timestamp 1675432984
+transform 1 0 12650 0 1 5500
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_282
+timestamp 1675432984
+transform 1 0 12650 0 1 6600
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_283
+timestamp 1675432984
+transform 1 0 12650 0 1 7700
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_284
+timestamp 1675432984
+transform 1 0 12650 0 1 8800
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_285
+timestamp 1675432984
+transform 1 0 12650 0 1 9900
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_286
+timestamp 1675432984
+transform 1 0 12650 0 1 11000
+box -113 -113 663 663
+use pmos_drain_in  pmos_drain_in_287
+timestamp 1675432984
+transform 1 0 12650 0 1 12100
+box -113 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_0 waffle_cells
+timestamp 1675433049
+transform 0 -1 550 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_1
+timestamp 1675433049
+transform 1 0 -550 0 1 550
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_2
+timestamp 1675433049
+transform 0 -1 1650 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_3
+timestamp 1675433049
+transform 1 0 -550 0 1 1650
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_4
+timestamp 1675433049
+transform 0 -1 2750 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_5
+timestamp 1675433049
+transform 1 0 -550 0 1 2750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_6
+timestamp 1675433049
+transform 0 -1 3850 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_7
+timestamp 1675433049
+transform 1 0 -550 0 1 3850
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_8
+timestamp 1675433049
+transform 0 -1 4950 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_9
+timestamp 1675433049
+transform 1 0 -550 0 1 4950
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_10
+timestamp 1675433049
+transform 0 -1 6050 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_11
+timestamp 1675433049
+transform 1 0 -550 0 1 6050
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_12
+timestamp 1675433049
+transform 0 -1 7150 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_13
+timestamp 1675433049
+transform 1 0 -550 0 1 7150
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_14
+timestamp 1675433049
+transform 0 -1 8250 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_15
+timestamp 1675433049
+transform 1 0 -550 0 1 8250
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_16
+timestamp 1675433049
+transform 0 -1 9350 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_17
+timestamp 1675433049
+transform 1 0 -550 0 1 9350
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_18
+timestamp 1675433049
+transform 0 -1 10450 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_19
+timestamp 1675433049
+transform 1 0 -550 0 1 10450
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_20
+timestamp 1675433049
+transform 0 -1 11550 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_21
+timestamp 1675433049
+transform 1 0 -550 0 1 11550
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_22
+timestamp 1675433049
+transform 0 -1 12650 -1 0 13750
+box -975 -113 663 663
+use pmos_source_frame_lt  pmos_source_frame_lt_23
+timestamp 1675433049
+transform 1 0 -550 0 1 12650
+box -975 -113 663 663
+use pmos_source_frame_rb  pmos_source_frame_rb_0 waffle_cells
+timestamp 1675433193
+transform 1 0 13200 0 1 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_1
+timestamp 1675433193
+transform 0 -1 1100 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_2
+timestamp 1675433193
+transform 1 0 13200 0 1 1100
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_3
+timestamp 1675433193
+transform 0 -1 2200 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_4
+timestamp 1675433193
+transform 1 0 13200 0 1 2200
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_5
+timestamp 1675433193
+transform 0 -1 3300 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_6
+timestamp 1675433193
+transform 1 0 13200 0 1 3300
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_7
+timestamp 1675433193
+transform 0 -1 4400 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_8
+timestamp 1675433193
+transform 1 0 13200 0 1 4400
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_9
+timestamp 1675433193
+transform 0 -1 5500 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_10
+timestamp 1675433193
+transform 1 0 13200 0 1 5500
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_11
+timestamp 1675433193
+transform 0 -1 6600 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_12
+timestamp 1675433193
+transform 1 0 13200 0 1 6600
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_13
+timestamp 1675433193
+transform 0 -1 7700 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_14
+timestamp 1675433193
+transform 1 0 13200 0 1 7700
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_15
+timestamp 1675433193
+transform 0 -1 8800 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_16
+timestamp 1675433193
+transform 1 0 13200 0 1 8800
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_17
+timestamp 1675433193
+transform 0 -1 9900 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_18
+timestamp 1675433193
+transform 1 0 13200 0 1 9900
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_19
+timestamp 1675433193
+transform 0 -1 11000 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_20
+timestamp 1675433193
+transform 1 0 13200 0 1 11000
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_21
+timestamp 1675433193
+transform 0 -1 12100 -1 0 0
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_22
+timestamp 1675433193
+transform 1 0 13200 0 1 12100
+box -113 -113 1575 663
+use pmos_source_frame_rb  pmos_source_frame_rb_23
+timestamp 1675433193
+transform 0 -1 13200 -1 0 0
+box -113 -113 1575 663
+use pmos_source_in  pmos_source_in_0 waffle_cells
+timestamp 1675432918
+transform 1 0 0 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_1
+timestamp 1675432918
+transform 1 0 0 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_2
+timestamp 1675432918
+transform 1 0 0 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_3
+timestamp 1675432918
+transform 1 0 0 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_4
+timestamp 1675432918
+transform 1 0 0 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_5
+timestamp 1675432918
+transform 1 0 0 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_6
+timestamp 1675432918
+transform 1 0 0 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_7
+timestamp 1675432918
+transform 1 0 0 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_8
+timestamp 1675432918
+transform 1 0 0 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_9
+timestamp 1675432918
+transform 1 0 0 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_10
+timestamp 1675432918
+transform 1 0 0 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_11
+timestamp 1675432918
+transform 1 0 0 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_12
+timestamp 1675432918
+transform 1 0 550 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_13
+timestamp 1675432918
+transform 1 0 550 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_14
+timestamp 1675432918
+transform 1 0 550 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_15
+timestamp 1675432918
+transform 1 0 550 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_16
+timestamp 1675432918
+transform 1 0 550 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_17
+timestamp 1675432918
+transform 1 0 550 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_18
+timestamp 1675432918
+transform 1 0 550 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_19
+timestamp 1675432918
+transform 1 0 550 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_20
+timestamp 1675432918
+transform 1 0 550 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_21
+timestamp 1675432918
+transform 1 0 550 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_22
+timestamp 1675432918
+transform 1 0 550 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_23
+timestamp 1675432918
+transform 1 0 550 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_24
+timestamp 1675432918
+transform 1 0 1100 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_25
+timestamp 1675432918
+transform 1 0 1100 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_26
+timestamp 1675432918
+transform 1 0 1100 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_27
+timestamp 1675432918
+transform 1 0 1100 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_28
+timestamp 1675432918
+transform 1 0 1100 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_29
+timestamp 1675432918
+transform 1 0 1100 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_30
+timestamp 1675432918
+transform 1 0 1100 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_31
+timestamp 1675432918
+transform 1 0 1100 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_32
+timestamp 1675432918
+transform 1 0 1100 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_33
+timestamp 1675432918
+transform 1 0 1100 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_34
+timestamp 1675432918
+transform 1 0 1100 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_35
+timestamp 1675432918
+transform 1 0 1100 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_36
+timestamp 1675432918
+transform 1 0 1650 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_37
+timestamp 1675432918
+transform 1 0 1650 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_38
+timestamp 1675432918
+transform 1 0 1650 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_39
+timestamp 1675432918
+transform 1 0 1650 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_40
+timestamp 1675432918
+transform 1 0 1650 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_41
+timestamp 1675432918
+transform 1 0 1650 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_42
+timestamp 1675432918
+transform 1 0 1650 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_43
+timestamp 1675432918
+transform 1 0 1650 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_44
+timestamp 1675432918
+transform 1 0 1650 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_45
+timestamp 1675432918
+transform 1 0 1650 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_46
+timestamp 1675432918
+transform 1 0 1650 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_47
+timestamp 1675432918
+transform 1 0 1650 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_48
+timestamp 1675432918
+transform 1 0 2200 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_49
+timestamp 1675432918
+transform 1 0 2200 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_50
+timestamp 1675432918
+transform 1 0 2200 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_51
+timestamp 1675432918
+transform 1 0 2200 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_52
+timestamp 1675432918
+transform 1 0 2200 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_53
+timestamp 1675432918
+transform 1 0 2200 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_54
+timestamp 1675432918
+transform 1 0 2200 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_55
+timestamp 1675432918
+transform 1 0 2200 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_56
+timestamp 1675432918
+transform 1 0 2200 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_57
+timestamp 1675432918
+transform 1 0 2200 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_58
+timestamp 1675432918
+transform 1 0 2200 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_59
+timestamp 1675432918
+transform 1 0 2200 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_60
+timestamp 1675432918
+transform 1 0 2750 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_61
+timestamp 1675432918
+transform 1 0 2750 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_62
+timestamp 1675432918
+transform 1 0 2750 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_63
+timestamp 1675432918
+transform 1 0 2750 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_64
+timestamp 1675432918
+transform 1 0 2750 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_65
+timestamp 1675432918
+transform 1 0 2750 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_66
+timestamp 1675432918
+transform 1 0 2750 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_67
+timestamp 1675432918
+transform 1 0 2750 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_68
+timestamp 1675432918
+transform 1 0 2750 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_69
+timestamp 1675432918
+transform 1 0 2750 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_70
+timestamp 1675432918
+transform 1 0 2750 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_71
+timestamp 1675432918
+transform 1 0 2750 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_72
+timestamp 1675432918
+transform 1 0 3300 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_73
+timestamp 1675432918
+transform 1 0 3300 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_74
+timestamp 1675432918
+transform 1 0 3300 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_75
+timestamp 1675432918
+transform 1 0 3300 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_76
+timestamp 1675432918
+transform 1 0 3300 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_77
+timestamp 1675432918
+transform 1 0 3300 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_78
+timestamp 1675432918
+transform 1 0 3300 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_79
+timestamp 1675432918
+transform 1 0 3300 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_80
+timestamp 1675432918
+transform 1 0 3300 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_81
+timestamp 1675432918
+transform 1 0 3300 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_82
+timestamp 1675432918
+transform 1 0 3300 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_83
+timestamp 1675432918
+transform 1 0 3300 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_84
+timestamp 1675432918
+transform 1 0 3850 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_85
+timestamp 1675432918
+transform 1 0 3850 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_86
+timestamp 1675432918
+transform 1 0 3850 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_87
+timestamp 1675432918
+transform 1 0 3850 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_88
+timestamp 1675432918
+transform 1 0 3850 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_89
+timestamp 1675432918
+transform 1 0 3850 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_90
+timestamp 1675432918
+transform 1 0 3850 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_91
+timestamp 1675432918
+transform 1 0 3850 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_92
+timestamp 1675432918
+transform 1 0 3850 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_93
+timestamp 1675432918
+transform 1 0 3850 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_94
+timestamp 1675432918
+transform 1 0 3850 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_95
+timestamp 1675432918
+transform 1 0 3850 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_96
+timestamp 1675432918
+transform 1 0 4400 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_97
+timestamp 1675432918
+transform 1 0 4400 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_98
+timestamp 1675432918
+transform 1 0 4400 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_99
+timestamp 1675432918
+transform 1 0 4400 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_100
+timestamp 1675432918
+transform 1 0 4400 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_101
+timestamp 1675432918
+transform 1 0 4400 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_102
+timestamp 1675432918
+transform 1 0 4400 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_103
+timestamp 1675432918
+transform 1 0 4400 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_104
+timestamp 1675432918
+transform 1 0 4400 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_105
+timestamp 1675432918
+transform 1 0 4400 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_106
+timestamp 1675432918
+transform 1 0 4400 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_107
+timestamp 1675432918
+transform 1 0 4400 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_108
+timestamp 1675432918
+transform 1 0 4950 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_109
+timestamp 1675432918
+transform 1 0 4950 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_110
+timestamp 1675432918
+transform 1 0 4950 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_111
+timestamp 1675432918
+transform 1 0 4950 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_112
+timestamp 1675432918
+transform 1 0 4950 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_113
+timestamp 1675432918
+transform 1 0 4950 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_114
+timestamp 1675432918
+transform 1 0 4950 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_115
+timestamp 1675432918
+transform 1 0 4950 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_116
+timestamp 1675432918
+transform 1 0 4950 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_117
+timestamp 1675432918
+transform 1 0 4950 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_118
+timestamp 1675432918
+transform 1 0 4950 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_119
+timestamp 1675432918
+transform 1 0 4950 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_120
+timestamp 1675432918
+transform 1 0 5500 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_121
+timestamp 1675432918
+transform 1 0 5500 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_122
+timestamp 1675432918
+transform 1 0 5500 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_123
+timestamp 1675432918
+transform 1 0 5500 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_124
+timestamp 1675432918
+transform 1 0 5500 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_125
+timestamp 1675432918
+transform 1 0 5500 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_126
+timestamp 1675432918
+transform 1 0 5500 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_127
+timestamp 1675432918
+transform 1 0 5500 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_128
+timestamp 1675432918
+transform 1 0 5500 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_129
+timestamp 1675432918
+transform 1 0 5500 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_130
+timestamp 1675432918
+transform 1 0 5500 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_131
+timestamp 1675432918
+transform 1 0 5500 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_132
+timestamp 1675432918
+transform 1 0 6050 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_133
+timestamp 1675432918
+transform 1 0 6050 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_134
+timestamp 1675432918
+transform 1 0 6050 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_135
+timestamp 1675432918
+transform 1 0 6050 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_136
+timestamp 1675432918
+transform 1 0 6050 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_137
+timestamp 1675432918
+transform 1 0 6050 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_138
+timestamp 1675432918
+transform 1 0 6050 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_139
+timestamp 1675432918
+transform 1 0 6050 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_140
+timestamp 1675432918
+transform 1 0 6050 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_141
+timestamp 1675432918
+transform 1 0 6050 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_142
+timestamp 1675432918
+transform 1 0 6050 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_143
+timestamp 1675432918
+transform 1 0 6050 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_144
+timestamp 1675432918
+transform 1 0 6600 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_145
+timestamp 1675432918
+transform 1 0 6600 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_146
+timestamp 1675432918
+transform 1 0 6600 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_147
+timestamp 1675432918
+transform 1 0 6600 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_148
+timestamp 1675432918
+transform 1 0 6600 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_149
+timestamp 1675432918
+transform 1 0 6600 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_150
+timestamp 1675432918
+transform 1 0 6600 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_151
+timestamp 1675432918
+transform 1 0 6600 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_152
+timestamp 1675432918
+transform 1 0 6600 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_153
+timestamp 1675432918
+transform 1 0 6600 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_154
+timestamp 1675432918
+transform 1 0 6600 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_155
+timestamp 1675432918
+transform 1 0 6600 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_156
+timestamp 1675432918
+transform 1 0 7150 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_157
+timestamp 1675432918
+transform 1 0 7150 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_158
+timestamp 1675432918
+transform 1 0 7150 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_159
+timestamp 1675432918
+transform 1 0 7150 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_160
+timestamp 1675432918
+transform 1 0 7150 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_161
+timestamp 1675432918
+transform 1 0 7150 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_162
+timestamp 1675432918
+transform 1 0 7150 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_163
+timestamp 1675432918
+transform 1 0 7150 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_164
+timestamp 1675432918
+transform 1 0 7150 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_165
+timestamp 1675432918
+transform 1 0 7150 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_166
+timestamp 1675432918
+transform 1 0 7150 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_167
+timestamp 1675432918
+transform 1 0 7150 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_168
+timestamp 1675432918
+transform 1 0 7700 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_169
+timestamp 1675432918
+transform 1 0 7700 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_170
+timestamp 1675432918
+transform 1 0 7700 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_171
+timestamp 1675432918
+transform 1 0 7700 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_172
+timestamp 1675432918
+transform 1 0 7700 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_173
+timestamp 1675432918
+transform 1 0 7700 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_174
+timestamp 1675432918
+transform 1 0 7700 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_175
+timestamp 1675432918
+transform 1 0 7700 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_176
+timestamp 1675432918
+transform 1 0 7700 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_177
+timestamp 1675432918
+transform 1 0 7700 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_178
+timestamp 1675432918
+transform 1 0 7700 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_179
+timestamp 1675432918
+transform 1 0 7700 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_180
+timestamp 1675432918
+transform 1 0 8250 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_181
+timestamp 1675432918
+transform 1 0 8250 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_182
+timestamp 1675432918
+transform 1 0 8250 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_183
+timestamp 1675432918
+transform 1 0 8250 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_184
+timestamp 1675432918
+transform 1 0 8250 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_185
+timestamp 1675432918
+transform 1 0 8250 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_186
+timestamp 1675432918
+transform 1 0 8250 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_187
+timestamp 1675432918
+transform 1 0 8250 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_188
+timestamp 1675432918
+transform 1 0 8250 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_189
+timestamp 1675432918
+transform 1 0 8250 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_190
+timestamp 1675432918
+transform 1 0 8250 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_191
+timestamp 1675432918
+transform 1 0 8250 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_192
+timestamp 1675432918
+transform 1 0 8800 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_193
+timestamp 1675432918
+transform 1 0 8800 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_194
+timestamp 1675432918
+transform 1 0 8800 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_195
+timestamp 1675432918
+transform 1 0 8800 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_196
+timestamp 1675432918
+transform 1 0 8800 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_197
+timestamp 1675432918
+transform 1 0 8800 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_198
+timestamp 1675432918
+transform 1 0 8800 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_199
+timestamp 1675432918
+transform 1 0 8800 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_200
+timestamp 1675432918
+transform 1 0 8800 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_201
+timestamp 1675432918
+transform 1 0 8800 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_202
+timestamp 1675432918
+transform 1 0 8800 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_203
+timestamp 1675432918
+transform 1 0 8800 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_204
+timestamp 1675432918
+transform 1 0 9350 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_205
+timestamp 1675432918
+transform 1 0 9350 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_206
+timestamp 1675432918
+transform 1 0 9350 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_207
+timestamp 1675432918
+transform 1 0 9350 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_208
+timestamp 1675432918
+transform 1 0 9350 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_209
+timestamp 1675432918
+transform 1 0 9350 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_210
+timestamp 1675432918
+transform 1 0 9350 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_211
+timestamp 1675432918
+transform 1 0 9350 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_212
+timestamp 1675432918
+transform 1 0 9350 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_213
+timestamp 1675432918
+transform 1 0 9350 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_214
+timestamp 1675432918
+transform 1 0 9350 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_215
+timestamp 1675432918
+transform 1 0 9350 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_216
+timestamp 1675432918
+transform 1 0 9900 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_217
+timestamp 1675432918
+transform 1 0 9900 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_218
+timestamp 1675432918
+transform 1 0 9900 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_219
+timestamp 1675432918
+transform 1 0 9900 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_220
+timestamp 1675432918
+transform 1 0 9900 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_221
+timestamp 1675432918
+transform 1 0 9900 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_222
+timestamp 1675432918
+transform 1 0 9900 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_223
+timestamp 1675432918
+transform 1 0 9900 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_224
+timestamp 1675432918
+transform 1 0 9900 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_225
+timestamp 1675432918
+transform 1 0 9900 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_226
+timestamp 1675432918
+transform 1 0 9900 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_227
+timestamp 1675432918
+transform 1 0 9900 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_228
+timestamp 1675432918
+transform 1 0 10450 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_229
+timestamp 1675432918
+transform 1 0 10450 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_230
+timestamp 1675432918
+transform 1 0 10450 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_231
+timestamp 1675432918
+transform 1 0 10450 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_232
+timestamp 1675432918
+transform 1 0 10450 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_233
+timestamp 1675432918
+transform 1 0 10450 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_234
+timestamp 1675432918
+transform 1 0 10450 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_235
+timestamp 1675432918
+transform 1 0 10450 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_236
+timestamp 1675432918
+transform 1 0 10450 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_237
+timestamp 1675432918
+transform 1 0 10450 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_238
+timestamp 1675432918
+transform 1 0 10450 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_239
+timestamp 1675432918
+transform 1 0 10450 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_240
+timestamp 1675432918
+transform 1 0 11000 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_241
+timestamp 1675432918
+transform 1 0 11000 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_242
+timestamp 1675432918
+transform 1 0 11000 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_243
+timestamp 1675432918
+transform 1 0 11000 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_244
+timestamp 1675432918
+transform 1 0 11000 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_245
+timestamp 1675432918
+transform 1 0 11000 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_246
+timestamp 1675432918
+transform 1 0 11000 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_247
+timestamp 1675432918
+transform 1 0 11000 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_248
+timestamp 1675432918
+transform 1 0 11000 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_249
+timestamp 1675432918
+transform 1 0 11000 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_250
+timestamp 1675432918
+transform 1 0 11000 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_251
+timestamp 1675432918
+transform 1 0 11000 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_252
+timestamp 1675432918
+transform 1 0 11550 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_253
+timestamp 1675432918
+transform 1 0 11550 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_254
+timestamp 1675432918
+transform 1 0 11550 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_255
+timestamp 1675432918
+transform 1 0 11550 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_256
+timestamp 1675432918
+transform 1 0 11550 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_257
+timestamp 1675432918
+transform 1 0 11550 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_258
+timestamp 1675432918
+transform 1 0 11550 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_259
+timestamp 1675432918
+transform 1 0 11550 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_260
+timestamp 1675432918
+transform 1 0 11550 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_261
+timestamp 1675432918
+transform 1 0 11550 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_262
+timestamp 1675432918
+transform 1 0 11550 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_263
+timestamp 1675432918
+transform 1 0 11550 0 1 12650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_264
+timestamp 1675432918
+transform 1 0 12100 0 1 0
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_265
+timestamp 1675432918
+transform 1 0 12100 0 1 1100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_266
+timestamp 1675432918
+transform 1 0 12100 0 1 2200
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_267
+timestamp 1675432918
+transform 1 0 12100 0 1 3300
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_268
+timestamp 1675432918
+transform 1 0 12100 0 1 4400
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_269
+timestamp 1675432918
+transform 1 0 12100 0 1 5500
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_270
+timestamp 1675432918
+transform 1 0 12100 0 1 6600
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_271
+timestamp 1675432918
+transform 1 0 12100 0 1 7700
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_272
+timestamp 1675432918
+transform 1 0 12100 0 1 8800
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_273
+timestamp 1675432918
+transform 1 0 12100 0 1 9900
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_274
+timestamp 1675432918
+transform 1 0 12100 0 1 11000
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_275
+timestamp 1675432918
+transform 1 0 12100 0 1 12100
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_276
+timestamp 1675432918
+transform 1 0 12650 0 1 550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_277
+timestamp 1675432918
+transform 1 0 12650 0 1 1650
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_278
+timestamp 1675432918
+transform 1 0 12650 0 1 2750
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_279
+timestamp 1675432918
+transform 1 0 12650 0 1 3850
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_280
+timestamp 1675432918
+transform 1 0 12650 0 1 4950
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_281
+timestamp 1675432918
+transform 1 0 12650 0 1 6050
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_282
+timestamp 1675432918
+transform 1 0 12650 0 1 7150
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_283
+timestamp 1675432918
+transform 1 0 12650 0 1 8250
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_284
+timestamp 1675432918
+transform 1 0 12650 0 1 9350
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_285
+timestamp 1675432918
+transform 1 0 12650 0 1 10450
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_286
+timestamp 1675432918
+transform 1 0 12650 0 1 11550
+box -113 -113 663 663
+use pmos_source_in  pmos_source_in_287
+timestamp 1675432918
+transform 1 0 12650 0 1 12650
+box -113 -113 663 663
+<< end >>

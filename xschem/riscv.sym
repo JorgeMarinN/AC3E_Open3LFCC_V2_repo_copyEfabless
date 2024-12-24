@@ -1,0 +1,44 @@
+v {xschem version=3.1.0 file_version=1.2
+}
+G {}
+K {type=primitive
+format="X@name @pinlist riscv"
+template="name=RISCV1"}
+V {}
+S {}
+E {}
+L 4 -100 -160 -100 150 {}
+L 4 -100 -160 100 -160 {}
+L 4 100 -160 100 150 {}
+L 4 -100 150 100 150 {}
+L 4 60 -180 60 -160 {}
+L 4 -80 -180 -80 -160 {}
+L 4 -40 -180 -40 -160 {}
+L 4 80 -180 80 -160 {}
+L 4 20 -180 20 -160 {}
+L 4 40 -180 40 -160 {}
+B 5 -42.5 -182.5 -37.5 -177.5 {name=vgnd
+sim_pinnumber=0
+dir=inout}
+B 5 -82.5 -182.5 -77.5 -177.5 {name=vpwr
+sim_pinnumber=1
+dir=inout}
+B 5 77.5 -182.5 82.5 -177.5 {name=clock
+sim_pinnumber=2
+dir=in}
+B 5 57.5 -182.5 62.5 -177.5 {name=reset_n
+sim_pinnumber=3
+dir=in}
+B 5 17.5 -182.5 22.5 -177.5 {name=rx
+sim_pinnumber=4
+dir=in}
+B 5 37.5 -182.5 42.5 -177.5 {name=tx
+sim_pinnumber=5
+dir=out}
+T {riscv} -30 -80 0 0 0.4 0.4 {}
+T {clock} 70 -190 3 0 0.2 0.2 {}
+T {reset_n} 50 -190 3 0 0.2 0.2 {}
+T {vgnd} -50 -190 3 0 0.2 0.2 {}
+T {vpwr} -90 -190 3 0 0.2 0.2 {}
+T {tx} 30 -190 3 0 0.2 0.2 {}
+T {rx} 10 -190 3 0 0.2 0.2 {}

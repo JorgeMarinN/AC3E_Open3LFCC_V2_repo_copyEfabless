@@ -1,0 +1,9 @@
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/power_stage_2.sch
+.subckt power_stage_2 VDD S1 S2 VOUT S3 S4 VSS FC1 FC2
+*.PININFO VDD:B S1:I S2:I VOUT:B S3:I S4:I VSS:B FC1:B FC2:B
+XM2 VOUT S2 FC1 FC1 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=3444
+XM1 FC1 S1 VDD VDD sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=3444
+XM3 VOUT S3 FC2 FC2 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=760
+XM4 FC2 S4 VSS VSS sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=760
+.ends
+.end

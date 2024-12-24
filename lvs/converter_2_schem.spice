@@ -1,0 +1,40 @@
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/converter_2.sch
+.subckt converter_2 VOUT V5v0PS D1 D2 D3 D4 V1v8 GND V5v0LS FC1 FC2
+*.PININFO VOUT:O V5v0PS:B D1:I D2:I D3:I D4:I V1v8:B GND:B V5v0LS:B FC1:B FC2:B
+x4 V5v0LS V1v8 net4 D4 GND level_shifter
+x3 V5v0LS V1v8 net3 D3 GND level_shifter
+x2 V5v0LS V1v8 net2 D2 GND level_shifter
+x1 V5v0LS V1v8 net1 D1 GND level_shifter
+X5 net1 net2 net3 net4 FC1 FC2 VOUT V5v0PS GND power_stage_2
+.ends
+
+* expanding   symbol:  level_shifter.sym # of pins=5
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/level_shifter.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/level_shifter.sch
+.subckt level_shifter V5v0 V1v8 OUT IN V0v0
+*.PININFO IN:I V1v8:B V5v0:B OUT:O V0v0:B
+XM11 net1 IN V1v8 V1v8 sky130_fd_pr__pfet_01v8 L=0.15 W=1 nf=1 m=5
+XM12 net1 IN V0v0 V0v0 sky130_fd_pr__nfet_01v8 L=0.15 W=1 nf=1 m=5
+XM15 net2 net3 V5v0 V5v0 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=2 nf=1 m=1
+XM14 net3 net2 V5v0 V5v0 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=2 nf=1 m=1
+XM16 net4 net2 V5v0 V5v0 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=10 nf=1 m=10
+XM18 net2 net1 V0v0 V0v0 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4 nf=1 m=3
+XM13 net3 IN V0v0 V0v0 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4 nf=1 m=3
+XM17 net4 IN V0v0 V0v0 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=10 nf=1 m=10
+XM7 OUT net4 V5v0 V5v0 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=20 nf=1 m=20
+XM10 OUT net4 V0v0 V0v0 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=20 nf=1 m=20
+.ends
+
+
+* expanding   symbol:  power_stage_2.sym # of pins=9
+** sym_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/power_stage_2.sym
+** sch_path: /foss/designs/AC3E_Open3LFCC_V2_repo/xschem/power_stage_2.sch
+.subckt power_stage_2 S1 S2 S3 S4 FC1 FC2 VOUT VDD VSS
+*.PININFO VDD:B S1:I S2:I VOUT:B S3:I S4:I VSS:B FC1:B FC2:B
+XM2 VOUT S2 FC1 FC1 sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=3444
+XM1 FC1 S1 VDD VDD sky130_fd_pr__pfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=3444
+XM3 VOUT S3 FC2 FC2 sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=760
+XM4 FC2 S4 VSS VSS sky130_fd_pr__nfet_g5v0d10v5 L=0.5 W=4.38 nf=1 m=760
+.ends
+
+.end

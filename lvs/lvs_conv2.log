@@ -1,0 +1,173 @@
+
+Circuit 1 cell sky130_fd_pr__nfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__nfet_g5v0d10v5 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_g5v0d10v5 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_g5v0d10v5 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__nfet_g5v0d10v5    |Circuit 2: sky130_fd_pr__nfet_g5v0d10v5    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__nfet_g5v0d10v5 and sky130_fd_pr__nfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_g5v0d10v5 and Circuit 2 cell sky130_fd_pr__pfet_g5v0d10v5 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_g5v0d10v5 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_g5v0d10v5 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pfet_g5v0d10v5    |Circuit 2: sky130_fd_pr__pfet_g5v0d10v5    
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__pfet_g5v0d10v5 and sky130_fd_pr__pfet_g5v0d10v5 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__pfet_01v8 and Circuit 2 cell sky130_fd_pr__pfet_01v8 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_01v8 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__pfet_01v8 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__pfet_01v8         |Circuit 2: sky130_fd_pr__pfet_01v8         
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__pfet_01v8 and sky130_fd_pr__pfet_01v8 are equivalent.
+
+Circuit 1 cell sky130_fd_pr__nfet_01v8 and Circuit 2 cell sky130_fd_pr__nfet_01v8 are black boxes.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_01v8 is a placeholder, treated as a black box.
+Warning: Equate pins:  cell sky130_fd_pr__nfet_01v8 is a placeholder, treated as a black box.
+
+Subcircuit pins:
+Circuit 1: sky130_fd_pr__nfet_01v8         |Circuit 2: sky130_fd_pr__nfet_01v8         
+-------------------------------------------|-------------------------------------------
+1                                          |1                                          
+2                                          |2                                          
+3                                          |3                                          
+4                                          |4                                          
+---------------------------------------------------------------------------------------
+Cell pin lists are equivalent.
+Device classes sky130_fd_pr__nfet_01v8 and sky130_fd_pr__nfet_01v8 are equivalent.
+
+Class level_shifter (1):  Merged 68 parallel devices.
+Subcircuit summary:
+Circuit 1: level_shifter                   |Circuit 2: level_shifter                   
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__pfet_01v8 (5->1)             |sky130_fd_pr__pfet_01v8 (5->1)             
+sky130_fd_pr__nfet_01v8 (5->1)             |sky130_fd_pr__nfet_01v8 (5->1)             
+sky130_fd_pr__pfet_g5v0d10v5 (32->4)       |sky130_fd_pr__pfet_g5v0d10v5 (32->4)       
+sky130_fd_pr__nfet_g5v0d10v5 (36->4)       |sky130_fd_pr__nfet_g5v0d10v5 (36->4)       
+Number of devices: 10                      |Number of devices: 10                      
+Number of nets: 9                          |Number of nets: 9                          
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+
+Subcircuit pins:
+Circuit 1: level_shifter                   |Circuit 2: level_shifter                   
+-------------------------------------------|-------------------------------------------
+V5v0                                       |level_shifter_0/VH **Mismatch**            
+V0v0                                       |level_shifter_0/GND **Mismatch**           
+OUT                                        |level_shifter_0/OUT **Mismatch**           
+V1v8                                       |level_shifter_0/VDD **Mismatch**           
+IN                                         |level_shifter_0/IN **Mismatch**            
+---------------------------------------------------------------------------------------
+Cell pin lists for level_shifter and level_shifter altered to match.
+Device classes level_shifter and level_shifter are equivalent.
+Flattening unmatched subcell nmos_waffle_20x20 in circuit power_stage_2 (1)(2 instances)
+Flattening unmatched subcell nmos_source_in in circuit power_stage_2 (1)(324 instances)
+Flattening unmatched subcell nmos_drain_in in circuit power_stage_2 (1)(324 instances)
+Flattening unmatched subcell nmos_drain_frame_rb in circuit power_stage_2 (1)(36 instances)
+Flattening unmatched subcell nmos_source_frame_lt in circuit power_stage_2 (1)(36 instances)
+Flattening unmatched subcell nmos_source_frame_rb in circuit power_stage_2 (1)(36 instances)
+Flattening unmatched subcell nmos_drain_frame_lt in circuit power_stage_2 (1)(36 instances)
+Flattening unmatched subcell pmos_waffle_42x42 in circuit power_stage_2 (1)(2 instances)
+Flattening unmatched subcell pmos_source_in in circuit power_stage_2 (1)(1600 instances)
+Flattening unmatched subcell pmos_drain_in in circuit power_stage_2 (1)(1600 instances)
+Flattening unmatched subcell pmos_source_frame_rb in circuit power_stage_2 (1)(80 instances)
+Flattening unmatched subcell pmos_source_frame_lt in circuit power_stage_2 (1)(80 instances)
+Flattening unmatched subcell pmos_drain_frame_rb in circuit power_stage_2 (1)(80 instances)
+Flattening unmatched subcell pmos_drain_frame_lt in circuit power_stage_2 (1)(80 instances)
+
+Class power_stage_2 (1):  Merged 8404 parallel devices.
+Subcircuit summary:
+Circuit 1: power_stage_2                   |Circuit 2: power_stage_2                   
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__pfet_g5v0d10v5 (6888->2)     |sky130_fd_pr__pfet_g5v0d10v5 (6888->2)     
+sky130_fd_pr__nfet_g5v0d10v5 (1520->2)     |sky130_fd_pr__nfet_g5v0d10v5 (1520->2)     
+Number of devices: 4                       |Number of devices: 4                       
+Number of nets: 9                          |Number of nets: 9                          
+---------------------------------------------------------------------------------------
+Netlists match uniquely with port errors.
+
+Subcircuit pins:
+Circuit 1: power_stage_2                   |Circuit 2: power_stage_2                   
+-------------------------------------------|-------------------------------------------
+FC2                                        |fc2                                        
+FC1                                        |(no matching pin)                          
+S4                                         |s4                                         
+S3                                         |s3                                         
+S2                                         |s2                                         
+S1                                         |s1                                         
+VSS                                        |VN **Mismatch**                            
+VOUT                                       |(no matching pin)                          
+VDD                                        |VP **Mismatch**                            
+FC1                                        |(no matching pin)                          
+VOUT                                       |(no matching pin)                          
+---------------------------------------------------------------------------------------
+Cell pin lists for power_stage_2 and power_stage_2 altered to match.
+Device classes power_stage_2 and power_stage_2 are equivalent.
+  Flattening non-matched subcircuits power_stage_2 power_stage_2
+
+Subcircuit summary:
+Circuit 1: converter_2                     |Circuit 2: converter_2                     
+-------------------------------------------|-------------------------------------------
+level_shifter (4)                          |level_shifter (4)                          
+sky130_fd_pr__pfet_g5v0d10v5 (6888->2)     |sky130_fd_pr__pfet_g5v0d10v5 (6888->2)     
+sky130_fd_pr__nfet_g5v0d10v5 (1520->2)     |sky130_fd_pr__nfet_g5v0d10v5 (1520->2)     
+Number of devices: 8                       |Number of devices: 8                       
+Number of nets: 15                         |Number of nets: 15                         
+---------------------------------------------------------------------------------------
+Netlists match uniquely with port errors.
+
+Subcircuit pins:
+Circuit 1: converter_2                     |Circuit 2: converter_2                     
+-------------------------------------------|-------------------------------------------
+FC2                                        |(no matching pin)                          
+FC1                                        |(no matching pin)                          
+GND                                        |(no matching pin)                          
+D1                                         |(no matching pin)                          
+D2                                         |(no matching pin)                          
+D3                                         |(no matching pin)                          
+D4                                         |(no matching pin)                          
+V5v0PS                                     |(no matching pin)                          
+VOUT                                       |(no matching pin)                          
+V1v8                                       |(no matching pin)                          
+V5v0LS                                     |(no matching pin)                          
+VOUT                                       |(no matching pin)                          
+V5v0PS                                     |(no matching pin)                          
+D1                                         |(no matching pin)                          
+D2                                         |(no matching pin)                          
+D3                                         |(no matching pin)                          
+D4                                         |(no matching pin)                          
+V1v8                                       |(no matching pin)                          
+GND                                        |(no matching pin)                          
+V5v0LS                                     |(no matching pin)                          
+FC1                                        |(no matching pin)                          
+FC2                                        |(no matching pin)                          
+---------------------------------------------------------------------------------------
+Error:  Connected pin (no pins) (node -2) did not get ordered!
+Ports of converter_2 are unordered.  Ordering will be arbitrary.
+Cell pin lists for converter_2 and converter_2 altered to match.
+Device classes converter_2 and converter_2 are equivalent.
+
+Final result: Top level cell failed pin matching.
